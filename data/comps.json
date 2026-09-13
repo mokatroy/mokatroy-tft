@@ -5,7 +5,7 @@
     "featured": true,
     "color": "rgba(233,185,100,.35)",
     "name": { "ar": "Dragon 9", "en": "Dragon 9" },
-    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
+    "style": { "ar": "أسلوب اللعب: لفل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
     "summary": {
       "ar": "كومب بطيء يعتمد على الوصول لفل 9 بدري وتفعيل Elder Dragon ككاري رئيسي مرن.",
       "en": "A slow comp that reaches level 9 early and plays Elder Dragon as a flexible main carry."
