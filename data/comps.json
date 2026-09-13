@@ -5,7 +5,7 @@
     "featured": true,
     "color": "rgba(233,185,100,.35)",
     "name": { "ar": "Dragon 9", "en": "Dragon 9" },
-    "style": { "ar": "أسلوب اللعب: لفل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
+    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
     "summary": {
       "ar": "كومب بطيء يعتمد على الوصول لفل 9 بدري وتفعيل Elder Dragon ككاري رئيسي مرن.",
       "en": "A slow comp that reaches level 9 early and plays Elder Dragon as a flexible main carry."
@@ -44,23 +44,45 @@
     ]
   },
   {
-    "slug": "coming-soon-a",
-    "tier": "A",
+    "slug": "draven-ad-9",
+    "tier": "S",
     "featured": true,
-    "color": "rgba(155,118,242,.35)",
-    "name": { "ar": "كومب جديد (قريبًا)", "en": "New Comp (Coming Soon)" },
-    "style": { "ar": "أسلوب اللعب: هيتحدد قريبًا", "en": "Playstyle: TBD" },
+    "color": "rgba(233,100,100,.35)",
+    "name": { "ar": "Draven AD 9", "en": "Draven AD 9" },
+    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
     "summary": {
-      "ar": "لسه بنجهز التفاصيل الكاملة للكومب ده — هيتحط هنا بمجرد ما يجهز.",
-      "en": "We're still preparing the full details for this comp — coming soon." },
-    "guide": { "ar": "المحتوى الكامل لسه قيد التجهيز.", "en": "Full content is still being prepared." },
-    "traits": [ { "name": { "ar": "Trait", "en": "Trait" }, "count": 2 } ],
-    "items": [ { "ar": "قريبًا", "en": "Coming soon" } ],
-    "stages": [],
+      "ar": "كومب فل 9 بطيء بيعتمد على Draven ككاري أساسي مع Maokai وIvern كقطع Scaling قوية.",
+      "en": "A slow Fast-9 comp built around Draven as the main carry with Maokai and Ivern as strong scaling pieces."
+    },
+    "guide": {
+      "ar": "العب بس من ون ستريك مبكر ومعاك دهب كتير. بما إنك بتستهدف قطع الـ 5 تكلفة اللي بتكبر مع الوقت، حاول توصل فل 9 قرب نهاية الاستيدج الرابع أو بداية الخامس. أفضل مهام Draven هي عمل ضرر عشان تاخد دهب، بس خلي بالك متعملش 10 آلاف ضرر في جولة واحدة عشان متتحبسش. الكومب فيه كمان تريت Elderwood اللي بيدّيك حليف شجرة إضافي (Lifeblossom / Stonebark) بيكبر مع تفعيل التريت أكتر.",
+      "en": "Only play from an early win streak with lots of gold. Since you're aiming for scaling 5-costs, try to hit level 9 near the end of stage 4 or the start of stage 5. Draven's best quests are dealing damage for gold, but avoid dealing 10k damage in a single round since it can trap you. The comp also runs the Elderwood trait, which grants a bonus tree ally (Lifeblossom / Stonebark) that grows stronger as the trait scales."
+    },
+    "traits": [
+      { "name": { "ar": "Elderwood", "en": "Elderwood" }, "count": 3 },
+      { "name": { "ar": "Executioner", "en": "Executioner" }, "count": 2 }
+    ],
+    "items": [
+      { "ar": "Guinsoo's Rageblade", "en": "Guinsoo's Rageblade" },
+      { "ar": "Last Whisper", "en": "Last Whisper" },
+      { "ar": "Kraken's Fury", "en": "Kraken's Fury" },
+      { "ar": "Giant's Belt", "en": "Giant's Belt" }
+    ],
+    "stages": [
+      { "stage": 2, "text": { "ar": "حط الأيتمز بعدوانية والعب لون ستريك كامل بأيتمز Draven. أفضل بداية أي محرك موارد زي Rengar أو Blossom.", "en": "Slam items aggressively and play for a full win streak with Draven items. The ideal opener is a resource engine like Rengar or Blossom." } },
+      { "stage": 3, "text": { "ar": "كمّل الاهتمام بالون ستريك. لو معاك أوجمنت إيكونومي، ممكن تعمل Fast 7 قبل الجولة 3-3 عشان تحافظ على الستريك.", "en": "Keep prioritizing the win streak. With an economy augment, you can go Fast 7 before round 3-3 to maintain the streak." } },
+      { "stage": 4, "text": { "ar": "ابدأ تخسر جولات وانت مركز على الإيكونومي. اعمل Fast 9 في آخر الاستيدج الرابع ودور على قطع الـ 5 تكلفة اللي بتكبر زي Draven وMaokai وIvern.", "en": "Start losing rounds while focusing on economy. Hit Fast 9 by the end of stage 4 and look for scaling 5-costs like Draven, Maokai, and Ivern." } }
+    ],
     "units": [
-      { "name": { "ar": "بطل 1", "en": "Champion 1" }, "cost": 1 },
-      { "name": { "ar": "بطل 2", "en": "Champion 2" }, "cost": 2 },
-      { "name": { "ar": "بطل 3", "en": "Champion 3" }, "cost": 3 }
+      { "name": { "ar": "Taric", "en": "Taric" }, "cost": 1, "image": "assets/champions/taric.png" },
+      { "name": { "ar": "Kennen", "en": "Kennen" }, "cost": 4, "image": "assets/champions/kennen.png" },
+      { "name": { "ar": "Gnar", "en": "Gnar" }, "cost": 2, "image": "assets/champions/gnar.png" },
+      { "name": { "ar": "Ivern", "en": "Ivern" }, "cost": 1, "image": "assets/champions/ivern.png" },
+      { "name": { "ar": "Alistar", "en": "Alistar" }, "cost": 1, "image": "assets/champions/alistar.png" },
+      { "name": { "ar": "Amumu", "en": "Amumu" }, "cost": 4, "image": "assets/champions/amumu.png" },
+      { "name": { "ar": "Draven", "en": "Draven" }, "cost": 5, "image": "assets/champions/draven.png" },
+      { "name": { "ar": "Maokai", "en": "Maokai" }, "cost": 2, "image": "assets/champions/maokai.png" },
+      { "name": { "ar": "Ezreal", "en": "Ezreal" }, "cost": 3, "image": "assets/champions/ezreal.png" }
     ]
   },
   {
