@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "dragon-9",
+    "tier": "S",
+    "featured": true,
+    "color": "rgba(233,185,100,.35)",
+    "name": { "ar": "Dragon 9", "en": "Dragon 9" },
+    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
+    "summary": {
+      "ar": "كومب بطيء يعتمد على الوصول لفل 9 بدري وتفعيل Elder Dragon ككاري رئيسي مرن.",
+      "en": "A slow comp that reaches level 9 early and plays Elder Dragon as a flexible main carry."
+    },
+    "guide": {
+      "ar": "كومب بطيء بيعتمد إنك توصل لفل 9 بدري وتلعب Elder Dragon كاري رئيسي مرن — تقدر تستبدل Morgana بـ Lux أو Alune لو عايز اتجاه سحري، أو تلعب كاري فيزيائي بـ Ashe وDraven بدل كده. في المرحلة الأولى ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast (Cinderling / Gromp / Mama Beak). في الاستيدج التالت كمل الستريك، ولو عندك أوجمنت إيكونومي ممكن تعمل Fast 7 قبل ما تلف. من الاستيدج الرابع ابدأ تخسر جولات بهدوء وأنت بتجمع الدهب، وخد بالك توصل فل 9 قبل بداية الاستيدج الخامس ومعاك 70+ دهب للرول داون.",
+      "en": "A slow comp built around hitting level 9 early with Elder Dragon as a flexible main carry — swap Morgana for Lux or Alune for a full magic build, or go physical with Ashe and Draven instead. Early on, contest items aggressively and try to win-streak with Riftbeast units (Cinderling / Gromp / Mama Beak). On stage 3, keep the streak going, and with an economy augment you can hit Fast 7 before rolling. From stage 4, start loss-streaking quietly while banking gold, and make sure you hit level 9 before stage 5 with 70+ gold to roll down."
+    },
+    "traits": [
+      { "name": { "ar": "Riftbeast", "en": "Riftbeast" }, "count": 3 },
+      { "name": { "ar": "Inferno", "en": "Inferno" }, "count": 2 },
+      { "name": { "ar": "Invoker", "en": "Invoker" }, "count": 2 },
+      { "name": { "ar": "Vanguard", "en": "Vanguard" }, "count": 2 },
+      { "name": { "ar": "Juggernaut", "en": "Juggernaut" }, "count": 2 }
+    ],
+    "items": [
+      { "ar": "Infinity Edge", "en": "Infinity Edge" },
+      { "ar": "B.F. Sword", "en": "B.F. Sword" },
+      { "ar": "Sparring Gloves", "en": "Sparring Gloves" },
+      { "ar": "Giant's Belt", "en": "Giant's Belt" }
+    ],
+    "stages": [
+      { "stage": 2, "text": { "ar": "ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast — أفضل بداية لو معاك Cinderling أو Gromp أو Mama Beak.", "en": "Contest items aggressively and try to win-streak with Riftbeast pieces — Cinderling, Gromp, or Mama Beak are strong openers." } },
+      { "stage": 3, "text": { "ar": "كمّل الستريك، ولو معاك أوجمنت إيكونومي تقدر تعمل Fast 7 قبل الجولة 3-3.", "en": "Keep the streak going — with an economy augment you can hit Fast 7 before round 3-3." } },
+      { "stage": 4, "text": { "ar": "ابدأ تخسر جولات بهدوء وانت بتجمع الدهب. خليك فل 9 قبل بداية الاستيدج الخامس ومعاك 70 دهب+ للرول داون.", "en": "Start loss-streaking quietly while banking gold. Hit level 9 before stage 5 with 70+ gold to roll down." } }
+    ],
+    "units": [
+      { "name": { "ar": "Amumu", "en": "Amumu" }, "cost": 4, "image": "assets/champions/amumu.png" },
+      { "name": { "ar": "Sentinel", "en": "Sentinel" }, "cost": 3, "image": "assets/champions/sentinel.png" },
+      { "name": { "ar": "Morgana", "en": "Morgana" }, "cost": 2, "image": "assets/champions/morgana.png" },
+      { "name": { "ar": "Ivern", "en": "Ivern" }, "cost": 1, "image": "assets/champions/ivern.png" },
+      { "name": { "ar": "Taric", "en": "Taric" }, "cost": 1, "image": "assets/champions/taric.png" },
+      { "name": { "ar": "Kennen", "en": "Kennen" }, "cost": 4, "image": "assets/champions/kennen.png" },
+      { "name": { "ar": "Elder Dragon", "en": "Elder Dragon" }, "cost": 5, "image": "assets/champions/elderdragon.png" },
+      { "name": { "ar": "Maokai", "en": "Maokai" }, "cost": 2, "image": "assets/champions/maokai.png" }
+    ]
+  },
+  {
+    "slug": "coming-soon-a",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(155,118,242,.35)",
+    "name": { "ar": "كومب جديد (قريبًا)", "en": "New Comp (Coming Soon)" },
+    "style": { "ar": "أسلوب اللعب: هيتحدد قريبًا", "en": "Playstyle: TBD" },
+    "summary": {
+      "ar": "لسه بنجهز التفاصيل الكاملة للكومب ده — هيتحط هنا بمجرد ما يجهز.",
+      "en": "We're still preparing the full details for this comp — coming soon." },
+    "guide": { "ar": "المحتوى الكامل لسه قيد التجهيز.", "en": "Full content is still being prepared." },
+    "traits": [ { "name": { "ar": "Trait", "en": "Trait" }, "count": 2 } ],
+    "items": [ { "ar": "قريبًا", "en": "Coming soon" } ],
+    "stages": [],
+    "units": [
+      { "name": { "ar": "بطل 1", "en": "Champion 1" }, "cost": 1 },
+      { "name": { "ar": "بطل 2", "en": "Champion 2" }, "cost": 2 },
+      { "name": { "ar": "بطل 3", "en": "Champion 3" }, "cost": 3 }
+    ]
+  },
+  {
+    "slug": "coming-soon-b",
+    "tier": "B",
+    "featured": true,
+    "color": "rgba(81,101,125,.35)",
+    "name": { "ar": "كومب جديد آخر (قريبًا)", "en": "Another Comp (Coming Soon)" },
+    "style": { "ar": "أسلوب اللعب: هيتحدد قريبًا", "en": "Playstyle: TBD" },
+    "summary": {
+      "ar": "لسه بنجهز التفاصيل الكاملة للكومب ده — هيتحط هنا بمجرد ما يجهز.",
+      "en": "We're still preparing the full details for this comp — coming soon." },
+    "guide": { "ar": "المحتوى الكامل لسه قيد التجهيز.", "en": "Full content is still being prepared." },
+    "traits": [ { "name": { "ar": "Trait", "en": "Trait" }, "count": 2 } ],
+    "items": [ { "ar": "قريبًا", "en": "Coming soon" } ],
+    "stages": [],
+    "units": [
+      { "name": { "ar": "بطل 1", "en": "Champion 1" }, "cost": 1 },
+      { "name": { "ar": "بطل 2", "en": "Champion 2" }, "cost": 2 },
+      { "name": { "ar": "بطل 3", "en": "Champion 3" }, "cost": 3 }
+    ]
+  }
+]
