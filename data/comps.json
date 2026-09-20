@@ -1,11 +1,19 @@
 [
   {
     "slug": "dragon-9",
-    "tier": "S",
+    "tier": "A",
     "featured": true,
     "color": "rgba(233,185,100,.35)",
-    "name": { "ar": "Dragon 9", "en": "Dragon 9" },
-    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
+    "name": {
+      "ar": "Dragon 9",
+      "en": "Dragon 9",
+      "ja": "Dragon 9"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فل 9 سريع (صعب)",
+      "en": "Playstyle: Fast 9 (Hard)",
+      "ja": "プレイスタイル：ファスト9（上級）"
+    },
     "summary": {
       "ar": "كومب بطيء يعتمد على الوصول لفل 9 بدري وتفعيل Elder Dragon ككاري رئيسي مرن.",
       "en": "A slow comp that reaches level 9 early and plays Elder Dragon as a flexible main carry."
@@ -15,41 +23,239 @@
       "en": "A slow comp built around hitting level 9 early with Elder Dragon as a flexible main carry — swap Morgana for Lux or Alune for a full magic build, or go physical with Ashe and Draven instead. Early on, contest items aggressively and try to win-streak with Riftbeast units (Cinderling / Gromp / Mama Beak). On stage 3, keep the streak going, and with an economy augment you can hit Fast 7 before rolling. From stage 4, start loss-streaking quietly while banking gold, and make sure you hit level 9 before stage 5 with 70+ gold to roll down."
     },
     "traits": [
-      { "name": { "ar": "Riftbeast", "en": "Riftbeast" }, "count": 3 },
-      { "name": { "ar": "Inferno", "en": "Inferno" }, "count": 2 },
-      { "name": { "ar": "Invoker", "en": "Invoker" }, "count": 2 },
-      { "name": { "ar": "Vanguard", "en": "Vanguard" }, "count": 2 },
-      { "name": { "ar": "Juggernaut", "en": "Juggernaut" }, "count": 2 }
+      {
+        "name": {
+          "ar": "Riftbeast",
+          "en": "Riftbeast"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Invoker",
+          "en": "Invoker"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Vanguard",
+          "en": "Vanguard"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Juggernaut",
+          "en": "Juggernaut"
+        },
+        "count": 2
+      }
     ],
     "items": [
-      { "ar": "Infinity Edge", "en": "Infinity Edge" },
-      { "ar": "B.F. Sword", "en": "B.F. Sword" },
-      { "ar": "Sparring Gloves", "en": "Sparring Gloves" },
-      { "ar": "Giant's Belt", "en": "Giant's Belt" }
+      {
+        "ar": "Infinity Edge",
+        "en": "Infinity Edge"
+      },
+      {
+        "ar": "B.F. Sword",
+        "en": "B.F. Sword"
+      },
+      {
+        "ar": "Sparring Gloves",
+        "en": "Sparring Gloves"
+      },
+      {
+        "ar": "Giant's Belt",
+        "en": "Giant's Belt"
+      }
     ],
     "stages": [
-      { "stage": 2, "text": { "ar": "ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast — أفضل بداية لو معاك Cinderling أو Gromp أو Mama Beak.", "en": "Contest items aggressively and try to win-streak with Riftbeast pieces — Cinderling, Gromp, or Mama Beak are strong openers." } },
-      { "stage": 3, "text": { "ar": "كمّل الستريك، ولو معاك أوجمنت إيكونومي تقدر تعمل Fast 7 قبل الجولة 3-3.", "en": "Keep the streak going — with an economy augment you can hit Fast 7 before round 3-3." } },
-      { "stage": 4, "text": { "ar": "ابدأ تخسر جولات بهدوء وانت بتجمع الدهب. خليك فل 9 قبل بداية الاستيدج الخامس ومعاك 70 دهب+ للرول داون.", "en": "Start loss-streaking quietly while banking gold. Hit level 9 before stage 5 with 70+ gold to roll down." } }
+      {
+        "stage": 2,
+        "text": {
+          "ar": "ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast — أفضل بداية لو معاك Cinderling أو Gromp أو Mama Beak.",
+          "en": "Contest items aggressively and try to win-streak with Riftbeast pieces — Cinderling, Gromp, or Mama Beak are strong openers."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "كمّل الستريك، ولو معاك أوجمنت إيكونومي تقدر تعمل Fast 7 قبل الجولة 3-3.",
+          "en": "Keep the streak going — with an economy augment you can hit Fast 7 before round 3-3."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "ابدأ تخسر جولات بهدوء وانت بتجمع الدهب. خليك فل 9 قبل بداية الاستيدج الخامس ومعاك 70 دهب+ للرول داون.",
+          "en": "Start loss-streaking quietly while banking gold. Hit level 9 before stage 5 with 70+ gold to roll down."
+        }
+      }
     ],
     "units": [
-      { "name": { "ar": "Amumu", "en": "Amumu" }, "cost": 4, "image": "assets/champions/amumu.png" },
-      { "name": { "ar": "Sentinel", "en": "Sentinel" }, "cost": 3, "image": "assets/champions/sentinel.png" },
-      { "name": { "ar": "Morgana", "en": "Morgana" }, "cost": 2, "image": "assets/champions/morgana.png" },
-      { "name": { "ar": "Ivern", "en": "Ivern" }, "cost": 1, "image": "assets/champions/ivern.png" },
-      { "name": { "ar": "Taric", "en": "Taric" }, "cost": 1, "image": "assets/champions/taric.png" },
-      { "name": { "ar": "Kennen", "en": "Kennen" }, "cost": 4, "image": "assets/champions/kennen.png" },
-      { "name": { "ar": "Elder Dragon", "en": "Elder Dragon" }, "cost": 5, "image": "assets/champions/elderdragon.png" },
-      { "name": { "ar": "Maokai", "en": "Maokai" }, "cost": 2, "image": "assets/champions/maokai.png" }
+      {
+        "name": {
+          "ar": "Amumu",
+          "en": "Amumu"
+        },
+        "cost": 4,
+        "image": "assets/champions/amumu.png"
+      },
+      {
+        "name": {
+          "ar": "Sentinel",
+          "en": "Sentinel"
+        },
+        "cost": 3,
+        "image": "assets/champions/sentinel.png"
+      },
+      {
+        "name": {
+          "ar": "Morgana",
+          "en": "Morgana"
+        },
+        "cost": 2,
+        "image": "assets/champions/morgana.png"
+      },
+      {
+        "name": {
+          "ar": "Ivern",
+          "en": "Ivern"
+        },
+        "cost": 1,
+        "image": "assets/champions/ivern.png"
+      },
+      {
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "cost": 1,
+        "image": "assets/champions/taric.png"
+      },
+      {
+        "name": {
+          "ar": "Kennen",
+          "en": "Kennen"
+        },
+        "cost": 4,
+        "image": "assets/champions/kennen.png"
+      },
+      {
+        "name": {
+          "ar": "Elder Dragon",
+          "en": "Elder Dragon"
+        },
+        "cost": 5,
+        "image": "assets/champions/elderdragon.png"
+      },
+      {
+        "name": {
+          "ar": "Maokai",
+          "en": "Maokai"
+        },
+        "cost": 2,
+        "image": "assets/champions/maokai.png"
+      }
+    ],
+    "sections": [
+      {
+        "title": {
+          "ar": "ليه الكومب ده قوي؟",
+          "en": "Why this comp works",
+          "ja": "なぜこの構成が強いのか"
+        },
+        "body": [
+          {
+            "ar": "قوة Dragon 9 مش في تركيبة ثابتة، هي في إن Elder Dragon كاري مرن بيقبل أكتر من مسار: تقدر تبنيه سحري مع Morgana أو Lux أو Alune، وتقدر تبنيه فيزيائي مع Ashe أو Draven. ده معناه إنك مش مضطر تلاحق قطعة واحدة بعينها في الرول داون — أي حاجة تلاقيها من التلاتة دول تقدر تبني عليها.",
+            "en": "Dragon 9's strength isn't a fixed board — it's that Elder Dragon is a flexible carry with more than one path. You can build him AP with Morgana, Lux, or Alune, or AD with Ashe or Draven. That means you're not chasing one specific unit on your roll-down; whichever of those you hit, you can build around it.",
+            "ja": "Dragon 9の強さは固定された盤面ではなく、Elder Dragonが複数の道を持つ柔軟なキャリーである点にあります。Morgana・Lux・AluneでAP型、AsheやDravenでAD型に組めます。ロールダウンで特定の1体を追う必要がないのが利点です。"
+          },
+          {
+            "ar": "العيب المقابل إنه كومب غالي جدًا. انت بتشتري فل 9 وبتدور على قطع خمس تكلفة، وده معناه إنك محتاج تدخل الاستيدج الخامس ومعاك دهب كتير وصحة كافية. لو دخلت الرول داون بـ40 دهب و20 صحة، الكومب ده مش هينقذك.",
+            "en": "The trade-off is cost. You're buying level 9 and hunting 5-costs, which means entering stage 5 with a big bank and enough HP. If you roll down on 40 gold and 20 HP, this comp will not save you.",
+            "ja": "代償はコストです。レベル9と5コストを狙うため、ステージ5に十分なゴールドとHPで入る必要があります。40ゴールド・20HPでロールダウンしても、この構成では立て直せません。"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
+          "en": "When to play it — and when not to",
+          "ja": "いつ選ぶべきか、避けるべきか"
+        },
+        "body": [],
+        "bullets": [
+          {
+            "ar": "العبه لو: معاك ون ستريك من الاستيدج التاني، وصحتك فوق 70، وأوجمنت إيكونومي واحد على الأقل.",
+            "en": "Play it if: you're win-streaking from stage 2, above 70 HP, and have at least one economy augment.",
+            "ja": "選ぶ条件：ステージ2から連勝、HP70以上、エコノミーオーグメントが最低1つ。"
+          },
+          {
+            "ar": "العبه لو: معاك قطع Riftbeast مطورة بدري (Cinderling أو Gromp أو Mama Beak) تقدر تحمل بيها البورد.",
+            "en": "Play it if: you have upgraded early Riftbeast pieces (Cinderling, Gromp, or Mama Beak) to carry the board.",
+            "ja": "選ぶ条件：Cinderling・Gromp・Mama Beakなど序盤のRiftbeastが強化済み。"
+          },
+          {
+            "ar": "متلعبوش لو: بتخسر من الاستيدج التاني، أو صحتك تحت 50 في بداية الاستيدج الرابع — مش هتوصل فل 9 في وقت مفيد.",
+            "en": "Don't play it if: you're losing from stage 2, or below 50 HP entering stage 4 — you won't reach level 9 in time.",
+            "ja": "避ける条件：ステージ2から負けが続く、またはステージ4開始時にHP50未満。レベル9に間に合いません。"
+          },
+          {
+            "ar": "متلعبوش لو: فيه لاعبين تانيين في اللوبي واضح إنهم بيلعبوا نفس المسار — المنافسة على قطع الخمس تكلفة بتقتل الكومب ده.",
+            "en": "Don't play it if: other players in the lobby are clearly going the same route — contest over 5-costs kills this comp.",
+            "ja": "避ける条件：ロビーの他プレイヤーも同じ方針。5コストの取り合いはこの構成を壊します。"
+          }
+        ]
+      },
+      {
+        "title": {
+          "ar": "أخطاء شائعة",
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
+        },
+        "body": [],
+        "bullets": [
+          {
+            "ar": "الاحتفاظ بالدهب أكتر من اللازم: لو وصلت 5-1 وانت لسه فل 8، الكومب اتأخر. اللف لفل 9 أهم من إنك تحافظ على 70 دهب.",
+            "en": "Over-saving gold: if you're still level 8 at 5-1, you're late. Levelling to 9 matters more than protecting a 70-gold bank.",
+            "ja": "ゴールドを貯めすぎ：5-1でレベル8なら遅すぎます。9に上げる方が70ゴールド維持より重要です。"
+          },
+          {
+            "ar": "حط الأيتمز على Elder Dragon قبل ما تلاقيه: حط أيتمزك على قطعة مؤقتة قوية بدل ما تسيبهم على البنش — الصحة اللي بتخسرها أغلى من الكفاءة.",
+            "en": "Holding items for an Elder Dragon you haven't found: slam them on a strong temporary holder instead. The HP you lose costs more than the efficiency you save.",
+            "ja": "見つかっていないElder Dragonのためにアイテムを温存：暫定のホルダーに装備しましょう。失うHPの方が高くつきます。"
+          },
+          {
+            "ar": "الإصرار على البيلد السحري: لو لقيت Ashe قبل Morgana، اتحول لبيلد فيزيائي فورًا. الكومب ده مبني على المرونة مش على بيلد واحد.",
+            "en": "Forcing the AP build: if you find Ashe before Morgana, pivot to AD immediately. This comp is built on flexibility, not one build.",
+            "ja": "AP型に固執：MorganaよりAsheを先に引いたら即AD型へ。この構成は柔軟性が前提です。"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "draven-ad-9",
-    "tier": "S",
+    "tier": "A",
     "featured": true,
     "color": "rgba(233,100,100,.35)",
-    "name": { "ar": "Draven AD 9", "en": "Draven AD 9" },
-    "style": { "ar": "أسلوب اللعب: فل 9 سريع (صعب)", "en": "Playstyle: Fast 9 (Hard)" },
+    "name": {
+      "ar": "Draven AD 9",
+      "en": "Draven AD 9"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فل 9 سريع (صعب)",
+      "en": "Playstyle: Fast 9 (Hard)"
+    },
     "summary": {
       "ar": "كومب فل 9 بطيء بيعتمد على Draven ككاري أساسي مع Maokai وIvern كقطع Scaling قوية.",
       "en": "A slow Fast-9 comp built around Draven as the main carry with Maokai and Ivern as strong scaling pieces."
@@ -59,50 +265,1074 @@
       "en": "Only play from an early win streak with lots of gold. Since you're aiming for scaling 5-costs, try to hit level 9 near the end of stage 4 or the start of stage 5. Draven's best quests are dealing damage for gold, but avoid dealing 10k damage in a single round since it can trap you. The comp also runs the Elderwood trait, which grants a bonus tree ally (Lifeblossom / Stonebark) that grows stronger as the trait scales."
     },
     "traits": [
-      { "name": { "ar": "Elderwood", "en": "Elderwood" }, "count": 3 },
-      { "name": { "ar": "Executioner", "en": "Executioner" }, "count": 2 }
+      {
+        "name": {
+          "ar": "Elderwood",
+          "en": "Elderwood"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Executioner",
+          "en": "Executioner"
+        },
+        "count": 2
+      }
     ],
     "items": [
-      { "ar": "Guinsoo's Rageblade", "en": "Guinsoo's Rageblade" },
-      { "ar": "Last Whisper", "en": "Last Whisper" },
-      { "ar": "Kraken's Fury", "en": "Kraken's Fury" },
-      { "ar": "Giant's Belt", "en": "Giant's Belt" }
+      {
+        "ar": "Guinsoo's Rageblade",
+        "en": "Guinsoo's Rageblade"
+      },
+      {
+        "ar": "Last Whisper",
+        "en": "Last Whisper"
+      },
+      {
+        "ar": "Kraken's Fury",
+        "en": "Kraken's Fury"
+      },
+      {
+        "ar": "Giant's Belt",
+        "en": "Giant's Belt"
+      }
     ],
     "stages": [
-      { "stage": 2, "text": { "ar": "حط الأيتمز بعدوانية والعب لون ستريك كامل بأيتمز Draven. أفضل بداية أي محرك موارد زي Rengar أو Blossom.", "en": "Slam items aggressively and play for a full win streak with Draven items. The ideal opener is a resource engine like Rengar or Blossom." } },
-      { "stage": 3, "text": { "ar": "كمّل الاهتمام بالون ستريك. لو معاك أوجمنت إيكونومي، ممكن تعمل Fast 7 قبل الجولة 3-3 عشان تحافظ على الستريك.", "en": "Keep prioritizing the win streak. With an economy augment, you can go Fast 7 before round 3-3 to maintain the streak." } },
-      { "stage": 4, "text": { "ar": "ابدأ تخسر جولات وانت مركز على الإيكونومي. اعمل Fast 9 في آخر الاستيدج الرابع ودور على قطع الـ 5 تكلفة اللي بتكبر زي Draven وMaokai وIvern.", "en": "Start losing rounds while focusing on economy. Hit Fast 9 by the end of stage 4 and look for scaling 5-costs like Draven, Maokai, and Ivern." } }
+      {
+        "stage": 2,
+        "text": {
+          "ar": "حط الأيتمز بعدوانية والعب لون ستريك كامل بأيتمز Draven. أفضل بداية أي محرك موارد زي Rengar أو Blossom.",
+          "en": "Slam items aggressively and play for a full win streak with Draven items. The ideal opener is a resource engine like Rengar or Blossom."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "كمّل الاهتمام بالون ستريك. لو معاك أوجمنت إيكونومي، ممكن تعمل Fast 7 قبل الجولة 3-3 عشان تحافظ على الستريك.",
+          "en": "Keep prioritizing the win streak. With an economy augment, you can go Fast 7 before round 3-3 to maintain the streak."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "ابدأ تخسر جولات وانت مركز على الإيكونومي. اعمل Fast 9 في آخر الاستيدج الرابع ودور على قطع الـ 5 تكلفة اللي بتكبر زي Draven وMaokai وIvern.",
+          "en": "Start losing rounds while focusing on economy. Hit Fast 9 by the end of stage 4 and look for scaling 5-costs like Draven, Maokai, and Ivern."
+        }
+      }
     ],
     "units": [
-      { "name": { "ar": "Taric", "en": "Taric" }, "cost": 1, "image": "assets/champions/taric.png" },
-      { "name": { "ar": "Kennen", "en": "Kennen" }, "cost": 4, "image": "assets/champions/kennen.png" },
-      { "name": { "ar": "Gnar", "en": "Gnar" }, "cost": 2, "image": "assets/champions/gnar.png" },
-      { "name": { "ar": "Ivern", "en": "Ivern" }, "cost": 1, "image": "assets/champions/ivern.png" },
-      { "name": { "ar": "Alistar", "en": "Alistar" }, "cost": 1, "image": "assets/champions/alistar.png" },
-      { "name": { "ar": "Amumu", "en": "Amumu" }, "cost": 4, "image": "assets/champions/amumu.png" },
-      { "name": { "ar": "Draven", "en": "Draven" }, "cost": 5, "image": "assets/champions/draven.png" },
-      { "name": { "ar": "Maokai", "en": "Maokai" }, "cost": 2, "image": "assets/champions/maokai.png" },
-      { "name": { "ar": "Ezreal", "en": "Ezreal" }, "cost": 3, "image": "assets/champions/ezreal.png" }
+      {
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "cost": 1,
+        "image": "assets/champions/taric.png"
+      },
+      {
+        "name": {
+          "ar": "Kennen",
+          "en": "Kennen"
+        },
+        "cost": 4,
+        "image": "assets/champions/kennen.png"
+      },
+      {
+        "name": {
+          "ar": "Gnar",
+          "en": "Gnar"
+        },
+        "cost": 2,
+        "image": "assets/champions/gnar.png"
+      },
+      {
+        "name": {
+          "ar": "Ivern",
+          "en": "Ivern"
+        },
+        "cost": 1,
+        "image": "assets/champions/ivern.png"
+      },
+      {
+        "name": {
+          "ar": "Alistar",
+          "en": "Alistar"
+        },
+        "cost": 1,
+        "image": "assets/champions/alistar.png"
+      },
+      {
+        "name": {
+          "ar": "Amumu",
+          "en": "Amumu"
+        },
+        "cost": 4,
+        "image": "assets/champions/amumu.png"
+      },
+      {
+        "name": {
+          "ar": "Draven",
+          "en": "Draven"
+        },
+        "cost": 5,
+        "image": "assets/champions/draven.png"
+      },
+      {
+        "name": {
+          "ar": "Maokai",
+          "en": "Maokai"
+        },
+        "cost": 2,
+        "image": "assets/champions/maokai.png"
+      },
+      {
+        "name": {
+          "ar": "Ezreal",
+          "en": "Ezreal"
+        },
+        "cost": 3,
+        "image": "assets/champions/ezreal.png"
+      }
     ]
   },
   {
-    "slug": "coming-soon-b",
-    "tier": "B",
+    "slug": "ahri-morgana",
+    "tier": "A",
     "featured": true,
-    "color": "rgba(81,101,125,.35)",
-    "name": { "ar": "كومب جديد آخر (قريبًا)", "en": "Another Comp (Coming Soon)" },
-    "style": { "ar": "أسلوب اللعب: هيتحدد قريبًا", "en": "Playstyle: TBD" },
+    "color": "rgba(155,118,242,.35)",
+    "name": {
+      "ar": "Ahri Morgana",
+      "en": "Ahri Morgana"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فور كوست فاست 8 (متوسط)",
+      "en": "Playstyle: 4-Cost Fast 8 (Medium)"
+    },
     "summary": {
-      "ar": "لسه بنجهز التفاصيل الكاملة للكومب ده — هيتحط هنا بمجرد ما يجهز.",
-      "en": "We're still preparing the full details for this comp — coming soon." },
-    "guide": { "ar": "المحتوى الكامل لسه قيد التجهيز.", "en": "Full content is still being prepared." },
-    "traits": [ { "name": { "ar": "Trait", "en": "Trait" }, "count": 2 } ],
-    "items": [ { "ar": "قريبًا", "en": "Coming soon" } ],
-    "stages": [],
+      "ar": "كومب Fast 8 بيعتمد على Ahri ككاري سحري مع Morgana بتحمل الأيتمز المساعدة.",
+      "en": "A Fast-8 comp built around Ahri as the AP carry with Morgana holding utility items."
+    },
+    "guide": {
+      "ar": "Morgana بتحمل أيتمز اليوتيليتي. تقدر تعمل تانك إما Sentinel أو Sett. أفضل إيمبلم على Ahri هو Invoker. في نهاية اللعبة تقدر تستبدل Karma بـ Ashe وAlune.",
+      "en": "Morgana holds utility items. You can tank either Sentinel or Sett. Best emblem is Invoker on Ahri. Late game, cap with Ashe + Alune over Karma."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Spear of Shojin",
+        "en": "Spear of Shojin"
+      },
+      {
+        "ar": "Jeweled Gauntlet",
+        "en": "Jeweled Gauntlet"
+      },
+      {
+        "ar": "Giant's Belt",
+        "en": "Giant's Belt"
+      },
+      {
+        "ar": "Tear of the Goddess",
+        "en": "Tear of the Goddess"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "دور على 3 Blossom بدري والعب لون ستريك. Karma تقدر تحمل أيتمز لـ Ahri. حط أيتمز على Yorick أو أي تانك تاني اتنين نجوم.",
+          "en": "Look for 3 Blossom early and play for a win streak. Karma can hold items for Ahri. Itemize Yorick or another 2-star tank."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "ضيف Blossom أو Spellweavers أكتر لما تلاقيهم. تقدر تعمل تانك من أي تريت: Juggernauts أو Defenders أو Vanguards.",
+          "en": "Flex in more Blossom or Spellweavers as you get them. You can tank all kinds of frontline: Juggernauts, Defenders, or Vanguards."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "لفّ ورول لـ Ahri وMorgana والفرونت لاين. لما تستقر، اعمل فل 9 عشان Lux.",
+          "en": "Level and roll for Ahri, Morgana, and the frontline. Once stable, go level 9 for Lux."
+        }
+      }
+    ],
     "units": [
-      { "name": { "ar": "بطل 1", "en": "Champion 1" }, "cost": 1 },
-      { "name": { "ar": "بطل 2", "en": "Champion 2" }, "cost": 2 },
-      { "name": { "ar": "بطل 3", "en": "Champion 3" }, "cost": 3 }
+      {
+        "name": {
+          "ar": "Krug",
+          "en": "Krug"
+        },
+        "cost": 2,
+        "image": "assets/champions/krug.png"
+      },
+      {
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "cost": 1,
+        "image": "assets/champions/taric.png"
+      },
+      {
+        "name": {
+          "ar": "Karma",
+          "en": "Karma"
+        },
+        "cost": 1,
+        "image": "assets/champions/karma.png"
+      },
+      {
+        "name": {
+          "ar": "Yorick",
+          "en": "Yorick"
+        },
+        "cost": 1,
+        "image": "assets/champions/yorick.png"
+      },
+      {
+        "name": {
+          "ar": "Sentinel",
+          "en": "Sentinel"
+        },
+        "cost": 3,
+        "image": "assets/champions/sentinel.png"
+      },
+      {
+        "name": {
+          "ar": "Sett",
+          "en": "Sett"
+        },
+        "cost": 4,
+        "image": "assets/champions/sett.png"
+      },
+      {
+        "name": {
+          "ar": "Ahri",
+          "en": "Ahri"
+        },
+        "cost": 5,
+        "image": "assets/champions/ahri.png"
+      },
+      {
+        "name": {
+          "ar": "Morgana",
+          "en": "Morgana"
+        },
+        "cost": 4,
+        "image": "assets/champions/morgana.png"
+      }
+    ]
+  },
+  {
+    "slug": "ashe-juggernauts",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(233,185,100,.35)",
+    "name": {
+      "ar": "Ashe Juggernauts",
+      "en": "Ashe Juggernauts"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فور كوست فاست 8 (صعب)",
+      "en": "Playstyle: 4-Cost Fast 8 (Hard)"
+    },
+    "summary": {
+      "ar": "كومب مرن كخيار بديل لبورد Sivir لو كنت بتلعب حوالين Juggernauts في نص اللعبة.",
+      "en": "A flex option for a Sivir board if you were already playing around Juggernauts in the midgame."
+    },
+    "guide": {
+      "ar": "اعتبره خيار مرن لبورد Sivir لو كنت بتلعب حوالين Juggernauts في نص اللعبة. لو معاك Juggernaut إيمبلم تقدر تلعب 6 Juggernauts. تقدر كمان تلعب كاري فيزيائي تاني زي Dragon أو Draven.",
+      "en": "Consider this as a flex option for a Sivir board if you were already playing around Juggernauts in the midgame. If you get the Juggernaut emblem, you can play 6 Juggernauts. Can also play other 5-cost AD carries like Dragon and Draven."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Infinity Edge",
+        "en": "Infinity Edge"
+      },
+      {
+        "ar": "Warmog's Armor",
+        "en": "Warmog's Armor"
+      },
+      {
+        "ar": "Recurve Bow",
+        "en": "Recurve Bow"
+      },
+      {
+        "ar": "B.F. Sword",
+        "en": "B.F. Sword"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "افتح بأوبنر AD قوي، الأفضل حوالين Yunara. حط أيتمز AD وتانك عادية عشان تعمل ون ستريك.",
+          "en": "Open with a strong AD opener, preferably around Yunara. Slam generic AD and tank items for a win streak."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "لفّ لمزيد من Juggernauts وExecutioners عشان تتناسق مع أوبنر الـBlossom.",
+          "en": "Level up for more Juggernauts and Executioners to pair with your Blossom opener."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "لفّ ورول لـ6 Juggernauts + Sivir. لما تستقر اعمل فل 9 ودور على Ashe وانقل بورد لقطع الـ5 تكلفة.",
+          "en": "Level and roll for 6 Juggernauts + Sivir. Once stable, go 9 and look for Ashe, transitioning your board to 5-costs."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Maokai",
+          "en": "Maokai"
+        },
+        "cost": 2,
+        "image": "assets/champions/maokai.png"
+      },
+      {
+        "name": {
+          "ar": "Vi",
+          "en": "Vi"
+        },
+        "cost": 2,
+        "image": "assets/champions/vi.png"
+      },
+      {
+        "name": {
+          "ar": "Ivern",
+          "en": "Ivern"
+        },
+        "cost": 1,
+        "image": "assets/champions/ivern.png"
+      },
+      {
+        "name": {
+          "ar": "Ashe",
+          "en": "Ashe"
+        },
+        "cost": 4,
+        "image": "assets/champions/ashe.png"
+      },
+      {
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "cost": 1,
+        "image": "assets/champions/taric.png"
+      },
+      {
+        "name": {
+          "ar": "Rakan",
+          "en": "Rakan"
+        },
+        "cost": 1,
+        "image": "assets/champions/rakan.png"
+      },
+      {
+        "name": {
+          "ar": "Sivir",
+          "en": "Sivir"
+        },
+        "cost": 4,
+        "image": "assets/champions/sivir.png"
+      },
+      {
+        "name": {
+          "ar": "Amumu",
+          "en": "Amumu"
+        },
+        "cost": 4,
+        "image": "assets/champions/amumu.png"
+      }
+    ]
+  },
+  {
+    "slug": "primal-jungle",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(120,200,140,.35)",
+    "name": {
+      "ar": "Primal Jungle",
+      "en": "Primal Jungle"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فور كوست فاست 8 (متوسط)",
+      "en": "Playstyle: 4-Cost Fast 8 (Medium)"
+    },
+    "summary": {
+      "ar": "كومب بيحتاج سيوف كتير، Nidalee وSivir هما الكاري الرئيسي مع Malphite أو Sentinel تانك.",
+      "en": "A sword-hungry comp with Nidalee and Sivir as the main carries alongside a Malphite or Sentinel tank."
+    },
+    "guide": {
+      "ar": "حط Krug في خانة الـBlackthorn. أعطِ أولوية لأيتمز Nidalee على Sivir. Kogmaw بيدّيك Shred وSunder مجانًا. أقصى حد ممكن تشيل Riftbeasts لـGnar وAshe وTaric. Hunter إيمبلم ممتاز على Nidalee.",
+      "en": "Place Krug on the Blackthorn hex. Prioritize Nidalee items over Sivir. Kog'Maw provides free Shred and Sunder. Max cap is dropping Riftbeasts for Gnar + Ashe + Taric. Hunter emblem is excellent on Nidalee."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Infinity Edge",
+        "en": "Infinity Edge"
+      },
+      {
+        "ar": "B.F. Sword",
+        "en": "B.F. Sword"
+      },
+      {
+        "ar": "Sparring Gloves",
+        "en": "Sparring Gloves"
+      },
+      {
+        "ar": "Giant's Belt",
+        "en": "Giant's Belt"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "العب حوالين أوبنر AD قوي على Cinderling 2 مع Riftbeasts. حط أيتمز الـAD والتانك بعدوانية عشان الون ستريك.",
+          "en": "Play around a strong AD opener on Cinderling 2 with Riftbeasts. Slam AD and tank items aggressively for a win streak."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "الكومب محتاج سيوف كتير، فحاول تاخدهم من الأوجمنتات أو الكاروسيل. ممكن تلعب 5 Riftbeast عشان شوبس أحسن.",
+          "en": "The comp is sword-hungry, so keep taking them off augments or carousels. You can flex to 5 Riftbeast for better shops."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "لفّ لفل 8 ورول لـNidalee وSivir وMalphite أو أي تانك. لو Malphite متنافس عليه اوي، جرب Sentinel أو Krug بدل منه.",
+          "en": "Level to 8 and roll for Nidalee, Sivir, and Malphite or a tank. If Malphite is too contested, try Sentinel or Krug instead."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Sentinel",
+          "en": "Sentinel"
+        },
+        "cost": 3,
+        "image": "assets/champions/sentinel.png"
+      },
+      {
+        "name": {
+          "ar": "Krug",
+          "en": "Krug"
+        },
+        "cost": 2,
+        "image": "assets/champions/krug.png"
+      },
+      {
+        "name": {
+          "ar": "Sivir",
+          "en": "Sivir"
+        },
+        "cost": 4,
+        "image": "assets/champions/sivir.png"
+      },
+      {
+        "name": {
+          "ar": "Cinderling",
+          "en": "Cinderling"
+        },
+        "cost": 1,
+        "image": "assets/champions/cinderling.png"
+      },
+      {
+        "name": {
+          "ar": "Malphite",
+          "en": "Malphite"
+        },
+        "cost": 4,
+        "image": "assets/champions/malphite.png"
+      },
+      {
+        "name": {
+          "ar": "Nidalee",
+          "en": "Nidalee"
+        },
+        "cost": 4,
+        "image": "assets/champions/nidalee.png"
+      },
+      {
+        "name": {
+          "ar": "Kog'Maw",
+          "en": "Kog'Maw"
+        },
+        "cost": 3,
+        "image": "assets/champions/kogmaw.png"
+      },
+      {
+        "name": {
+          "ar": "Rek'Sai",
+          "en": "Rek'Sai"
+        },
+        "cost": 2,
+        "image": "assets/champions/reksai.png"
+      }
+    ]
+  },
+  {
+    "slug": "aphelios-nidalee",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(200,150,255,.35)",
+    "name": {
+      "ar": "Aphelios Nidalee",
+      "en": "Aphelios Nidalee"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فور كوست فاست 8 (متوسط)",
+      "en": "Playstyle: 4-Cost Fast 8 (Medium)"
+    },
+    "summary": {
+      "ar": "كومب AD بيعتمد على Aphelios وNidalee كاري مزدوج مع Amumu أو Sentinel تانك.",
+      "en": "An AD comp with Aphelios and Nidalee as dual carries backed by an Amumu or Sentinel tank."
+    },
+    "guide": {
+      "ar": "Red Buff هو أفضل آيتم لـAphelios بس تقدر تلعب بيلد Rageblade كمان. Amumu أو Sentinel اتنين نجوم ممكن يبقوا التانك الرئيسي (غالبًا هيبقوا متنافس عليهم فحط أولوية للي هتقدر تطوره). Kogmaw بيدّيك Shred وSunder مجانًا.",
+      "en": "Red Buff is BIS on Aphelios but you can also play a Rageblade build. Amumu or Sentinel 2-star can be your main tank (you're often contested, so prioritize whichever you can upgrade). Kog'Maw provides free Shred and Sunder."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Recurve Bow",
+        "en": "Recurve Bow"
+      },
+      {
+        "ar": "B.F. Sword",
+        "en": "B.F. Sword"
+      },
+      {
+        "ar": "Sparring Gloves",
+        "en": "Sparring Gloves"
+      },
+      {
+        "ar": "Chain Vest",
+        "en": "Chain Vest"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "افتح بتمبو AD قوي حوالين Rapidfires والعب لون ستريك. الـBIS مش مهم أوي هنا فحط أيتمز بعدوانية عشان تكسب.",
+          "en": "Open with a strong win-streak AD tempo around Rapidfires. BIS is somewhat fake here, so slam aggressively to win."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "الكومب بيستخدم أيتمز كتير فخد أوجمنت أيتمز لو معندكش. Mama Beak ممكن تبقى كاري قوي لو معاك Riftbeasts.",
+          "en": "The comp can use many items, so take an item augment if you don't have one. Mama Beak can be a strong carry if you have Riftbeasts online."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "لفّ لفل 8 ورول بقوة على Aphelios والقطع الفور كوست. اعمل فل 9 بس لما تكون طورت أغلب الفور كوست بتاعتك.",
+          "en": "Level to 8 and roll heavily for Aphelios and the 4-costs. Only push to 9 once you have almost all your 4-costs upgraded."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Vi",
+          "en": "Vi"
+        },
+        "cost": 2,
+        "image": "assets/champions/vi.png"
+      },
+      {
+        "name": {
+          "ar": "Diana",
+          "en": "Diana"
+        },
+        "cost": 3,
+        "image": "assets/champions/diana.png"
+      },
+      {
+        "name": {
+          "ar": "Aphelios",
+          "en": "Aphelios"
+        },
+        "cost": 4,
+        "image": "assets/champions/aphelios.png"
+      },
+      {
+        "name": {
+          "ar": "Varus",
+          "en": "Varus"
+        },
+        "cost": 1,
+        "image": "assets/champions/varus.png"
+      },
+      {
+        "name": {
+          "ar": "Sentinel",
+          "en": "Sentinel"
+        },
+        "cost": 3,
+        "image": "assets/champions/sentinel.png"
+      },
+      {
+        "name": {
+          "ar": "Amumu",
+          "en": "Amumu"
+        },
+        "cost": 4,
+        "image": "assets/champions/amumu.png"
+      },
+      {
+        "name": {
+          "ar": "Kog'Maw",
+          "en": "Kog'Maw"
+        },
+        "cost": 3,
+        "image": "assets/champions/kogmaw.png"
+      },
+      {
+        "name": {
+          "ar": "Nidalee",
+          "en": "Nidalee"
+        },
+        "cost": 4,
+        "image": "assets/champions/nidalee.png"
+      }
+    ]
+  },
+  {
+    "slug": "malphite-ap-flex",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(120,160,200,.35)",
+    "name": {
+      "ar": "Malphite AP Flex",
+      "en": "Malphite AP Flex"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: فور كوست فاست 8 (متوسط)",
+      "en": "Playstyle: 4-Cost Fast 8 (Medium)"
+    },
+    "summary": {
+      "ar": "كور الكومب Malphite + Azir + 2 Flora Fatalis للعلاج، والباقي مرن.",
+      "en": "The comp's core is Malphite + Azir + 2 Flora Fatalis for sustain, with flexible remaining slots."
+    },
+    "guide": {
+      "ar": "الكور هو Malphite وAzir واتنين Flora Fatalis للعلاج. تقدر تلعب Ahri أو Zyra أو Ezreal ككاري إضافي، وLillia أو Amumu أو Kennen أو Maokai كفرونت لاين مساعد.",
+      "en": "The core is Malphite + Azir + 2 Flora Fatalis for healing. You can play Ahri, Zyra, or Ezreal as an additional carry, and Lillia, Amumu, Kennen, or Maokai as supporting frontline."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Gargoyle Stoneplate",
+        "en": "Gargoyle Stoneplate"
+      },
+      {
+        "ar": "Tear of the Goddess",
+        "en": "Tear of the Goddess"
+      },
+      {
+        "ar": "Needlessly Large Rod",
+        "en": "Needlessly Large Rod"
+      },
+      {
+        "ar": "Recurve Bow",
+        "en": "Recurve Bow"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "افتح بأوبنر AP قوي، الأفضل حوالين Blossom. حط أيتمز AP وأيتمز Malphite عشان الون ستريك.",
+          "en": "Open with a strong AP opener, preferably around Blossom. Slam generic AP and Malphite items for a win streak."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "ضيف قطع تالت كوست مفيدة زي Fiddlesticks وCassiopeia وAzir وبعدين اتحرك حوالين تريتاتهم. القاعدة العامة: حط الأيتمز على القطع المطورة.",
+          "en": "Add useful 3-costs like Fiddlesticks, Cassiopeia, and Azir, then flex around their traits. General rule: put items on upgraded units."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "لفّ ورول لـMalphite. هتحتاج غالبًا تحط أيتمز وتلعب باللي بتلقاه، فمتشدش بس على حاجة واحدة في الرول داون.",
+          "en": "Level and roll for Malphite. You'll often have to itemize and work with whoever you hit, so don't overly tunnel on your roll-down."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Fiddlesticks",
+          "en": "Fiddlesticks"
+        },
+        "cost": 3,
+        "image": "assets/champions/fiddlesticks.png"
+      },
+      {
+        "name": {
+          "ar": "Kennen",
+          "en": "Kennen"
+        },
+        "cost": 4,
+        "image": "assets/champions/kennen.png"
+      },
+      {
+        "name": {
+          "ar": "Azir",
+          "en": "Azir"
+        },
+        "cost": 3,
+        "image": "assets/champions/azir.png"
+      },
+      {
+        "name": {
+          "ar": "Zyra",
+          "en": "Zyra"
+        },
+        "cost": 4,
+        "image": "assets/champions/zyra.png"
+      },
+      {
+        "name": {
+          "ar": "Malphite",
+          "en": "Malphite"
+        },
+        "cost": 4,
+        "image": "assets/champions/malphite.png"
+      },
+      {
+        "name": {
+          "ar": "Amumu",
+          "en": "Amumu"
+        },
+        "cost": 4,
+        "image": "assets/champions/amumu.png"
+      },
+      {
+        "name": {
+          "ar": "Soraka",
+          "en": "Soraka"
+        },
+        "cost": 4,
+        "image": "assets/champions/soraka.png"
+      },
+      {
+        "name": {
+          "ar": "Yorick",
+          "en": "Yorick"
+        },
+        "cost": 1,
+        "image": "assets/champions/yorick.png"
+      }
+    ]
+  },
+  {
+    "slug": "lunarwood-khazix",
+    "tier": "A",
+    "featured": true,
+    "color": "rgba(160,120,220,.35)",
+    "name": {
+      "ar": "Lunarwood Kha'Zix",
+      "en": "Lunarwood Kha'Zix"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: ثلاث تكلفة ريرول (متوسط)",
+      "en": "Playstyle: 3-Cost Reroll (Medium)"
+    },
+    "summary": {
+      "ar": "كومب ريرول حوالين Kha'Zix تلات نجوم، بيكبر بتريتات Ravager وExecutioner وSpellweaver وRapidfire.",
+      "en": "A reroll comp built around a 3-star Kha'Zix that scales through Ravager, Executioner, Spellweaver, and Rapidfire."
+    },
+    "guide": {
+      "ar": "الأفضل إن Kha'Zix ياخد تريتات Ravager ثم Executioner ثم Spellweaver ثم Rapidfire بالتتابع مع كل تصفية. تقدر تلعب Executioner تالت أو Lux أو Ivern قبل Alune.",
+      "en": "Ideally, Kha'Zix gains Ravager, then Executioner, then Spellweaver, then Rapidfire with takedowns. You can play a third Executioner, Lux, or Ivern before Alune."
+    },
+    "traits": [],
+    "items": [
+      {
+        "ar": "Edge of Night",
+        "en": "Edge of Night"
+      },
+      {
+        "ar": "Rabadon's Deathcap",
+        "en": "Rabadon's Deathcap"
+      },
+      {
+        "ar": "Hand of Justice",
+        "en": "Hand of Justice"
+      },
+      {
+        "ar": "Needlessly Large Rod",
+        "en": "Needlessly Large Rod"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "العب الكومب ده بس لو معاك Kha'Zix بدري ومعاه أيتمز عشان تكبر. حط أي تانك مطور عشان تصمد.",
+          "en": "Only play this comp with an early, itemized Kha'Zix so you can snowball. Play any upgraded tank to stall."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "لو معاك أزواج مهمة على فل 6، ممكن تلف شوية عشان تجمع القطع وتطور. لو مش كده، اقتصد لحد فل 7.",
+          "en": "If you have crucial pairs at level 6, consider rolling slightly to gather and upgrade units. Otherwise, econ up to level 7."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "سلو رول على فل 7 عشان تطور القطع التالت تكلفة اللي بتلاحقها لتلات نجوم.",
+          "en": "Slow roll at level 7 for 3-star upgrades on whatever 3-costs you're chasing."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Fiddlesticks",
+          "en": "Fiddlesticks"
+        },
+        "cost": 3,
+        "image": "assets/champions/fiddlesticks.png"
+      },
+      {
+        "name": {
+          "ar": "Diana",
+          "en": "Diana"
+        },
+        "cost": 3,
+        "image": "assets/champions/diana.png"
+      },
+      {
+        "name": {
+          "ar": "Ezreal",
+          "en": "Ezreal"
+        },
+        "cost": 3,
+        "image": "assets/champions/ezreal.png"
+      },
+      {
+        "name": {
+          "ar": "Soraka",
+          "en": "Soraka"
+        },
+        "cost": 4,
+        "image": "assets/champions/soraka.png"
+      },
+      {
+        "name": {
+          "ar": "Kha'Zix",
+          "en": "Kha'Zix"
+        },
+        "cost": 3,
+        "image": "assets/champions/khazix.png"
+      },
+      {
+        "name": {
+          "ar": "Hecarim",
+          "en": "Hecarim"
+        },
+        "cost": 3,
+        "image": "assets/champions/hecarim.png"
+      },
+      {
+        "name": {
+          "ar": "Alune",
+          "en": "Alune"
+        },
+        "cost": 2,
+        "image": "assets/champions/alune.png"
+      },
+      {
+        "name": {
+          "ar": "Ornn",
+          "en": "Ornn"
+        },
+        "cost": 3,
+        "image": "assets/champions/ornn.png"
+      }
+    ]
+  },
+  {
+    "slug": "caitlyn-hunters",
+    "tier": "B",
+    "featured": false,
+    "color": "rgba(90,160,200,.35)",
+    "name": {
+      "ar": "Caitlyn Hunters",
+      "en": "Caitlyn Hunters"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: تو كوست ريرول (سهل)",
+      "en": "Playstyle: 2-Cost Reroll (Easy)"
+    },
+    "summary": {
+      "ar": "كومب ريرول سهل حوالين Caitlyn تلات نجوم مع 4 Juggernaut و2 Hunter.",
+      "en": "An easy reroll comp around a 3-star Caitlyn with 4 Juggernaut and 2 Hunter."
+    },
+    "guide": {
+      "ar": "تقدر تعمل تانك Sejuani تلات نجوم كمان — اعمل تانك لأي واحد تقدر تطوّره الأول. فيه نسخة تانية بـ4 Vanguard مع Elise. Sivir بياخد الأيتمز الزيادة (يوتيليتي أو AD). خد Turtle من الـPrimal. الكومب بيقوى درجة أو اتنين مع الأيتمز الراديانت، خصوصًا Guinsoo راديانت. Caitlyn مش بتستخدم قدرة خالص، فأي آيتم مانا عليها ملهوش لازمة.",
+      "en": "You can also tank a 3-star Sejuani — tank whoever you upgrade first. There's a 4 Vanguard version with Elise. Sivir takes leftover utility or AD items. Take the Turtle Primal buff. The comp gains a tier or two with radiant items, especially radiant Guinsoo's. Caitlyn never casts, so mana items on her are useless."
+    },
+    "traits": [
+      {
+        "name": {
+          "ar": "Hunter",
+          "en": "Hunter"
+        },
+        "count": 4
+      },
+      {
+        "name": {
+          "ar": "Juggernaut",
+          "en": "Juggernaut"
+        },
+        "count": 4
+      },
+      {
+        "name": {
+          "ar": "Fae",
+          "en": "Fae"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Primal",
+          "en": "Primal"
+        },
+        "count": 2
+      }
+    ],
+    "items": [
+      {
+        "ar": "Guinsoo's Rageblade",
+        "en": "Guinsoo's Rageblade"
+      },
+      {
+        "ar": "Kraken's Fury",
+        "en": "Kraken's Fury"
+      },
+      {
+        "ar": "Recurve Bow",
+        "en": "Recurve Bow"
+      },
+      {
+        "ar": "Giant's Belt",
+        "en": "Giant's Belt"
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "حط Rageblade وأيتمز القوس على Caitlyn عشان الون ستريك. الـBIS صعب تجيبه غالبًا، فتقدر تحط Gunblade أو Giant Slayer بدالهم.",
+          "en": "Slam Rageblade and bow items on Caitlyn for a win streak. BIS is often hard to hit, so Gunblade or Giant Slayer are fine slams too."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "لفّ لفل 6 ورول على 4 Juggernaut + 2 Hunter. الأفضل تطوّر Caitlyn لاتنين نجوم وتانك تو كوست، وبعدين اقتصد وسلو رول فوق 50 دهب للتلات نجوم.",
+          "en": "Level to 6 and roll for 4 Juggernaut + 2 Hunter. Ideally get Caitlyn to 2-star plus a 2-cost tank, then econ up and slow roll above 50 gold for 3-stars."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "خلّص التلات نجوم بتاعتك في نص الاستيدج الرابع. بعدها لفّ لمزيد من Hunters. خد Turtle Primal إلا لو كنت محظوظ أوي وتقدر تاخد أيتمز.",
+          "en": "Finish your 3-stars by mid stage 4, then level for more Hunters. Take Turtle Primal unless you're high-rolling and can take items instead."
+        }
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Rakan",
+          "en": "Rakan"
+        },
+        "cost": 1,
+        "image": "assets/champions/rakan.png"
+      },
+      {
+        "name": {
+          "ar": "Sejuani",
+          "en": "Sejuani"
+        },
+        "cost": 2,
+        "image": "assets/champions/sejuani.png"
+      },
+      {
+        "name": {
+          "ar": "Scuttlecrab",
+          "en": "Scuttlecrab"
+        },
+        "cost": 2,
+        "image": "assets/champions/scuttlecrab.png"
+      },
+      {
+        "name": {
+          "ar": "Caitlyn",
+          "en": "Caitlyn"
+        },
+        "cost": 2,
+        "image": "assets/champions/caitlyn.png"
+      },
+      {
+        "name": {
+          "ar": "Vi",
+          "en": "Vi"
+        },
+        "cost": 2,
+        "image": "assets/champions/vi.png"
+      },
+      {
+        "name": {
+          "ar": "Tristana",
+          "en": "Tristana"
+        },
+        "cost": 3,
+        "image": "assets/champions/tristana.png"
+      },
+      {
+        "name": {
+          "ar": "Sivir",
+          "en": "Sivir"
+        },
+        "cost": 4,
+        "image": "assets/champions/sivir.png"
+      },
+      {
+        "name": {
+          "ar": "Ashe",
+          "en": "Ashe"
+        },
+        "cost": 4,
+        "image": "assets/champions/ashe.png"
+      }
     ]
   }
 ]
