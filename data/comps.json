@@ -241,6 +241,22 @@
           }
         ]
       }
+    ],
+    "flex": [
+      {
+        "label": "AP",
+        "units": [
+          "Lux",
+          "Alune"
+        ]
+      },
+      {
+        "label": "AD",
+        "units": [
+          "Ashe",
+          "Draven"
+        ]
+      }
     ]
   },
   {
