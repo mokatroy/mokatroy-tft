@@ -4,3 +4,11 @@
 .guide-section p{color:var(--muted);font-size:13px;line-height:1.95;margin:0 0 8px}
 .guide-list{margin:8px 0 0;padding-inline-start:18px;color:var(--muted);font-size:13px;line-height:1.95}
 .guide-list li{margin-bottom:6px}
+.unit-hex,.unit-chip{cursor:pointer}
+.ability-tip{display:none;position:absolute;z-index:50;width:min(280px,80vw);background:linear-gradient(135deg,#232a41,#121623);border:1px solid var(--line);border-radius:10px;padding:13px 15px;box-shadow:0 12px 30px rgba(0,0,0,.45);pointer-events:none}
+.ability-tip:after{content:'';position:absolute;left:var(--arrow-left,20px);bottom:-7px;width:14px;height:14px;background:#171b2c;border-right:1px solid var(--line);border-bottom:1px solid var(--line);transform:translateX(-50%) rotate(45deg)}
+.ability-tip.flipped:after{bottom:auto;top:-7px;border-right:none;border-bottom:none;border-left:1px solid var(--line);border-top:1px solid var(--line)}
+.ability-tip .tip-champ{display:block;font:700 14px Outfit,Cairo;color:var(--text)}
+.ability-tip .tip-ability{display:block;color:var(--gold);font:700 11px Outfit,Cairo;text-transform:uppercase;letter-spacing:.04em;margin:2px 0 8px}
+.ability-tip p{margin:0;color:var(--muted);font-size:12.5px;line-height:1.8}
+.ability-tip .tip-soon{color:#6f7890;font-style:italic}
