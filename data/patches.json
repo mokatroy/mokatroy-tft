@@ -1,10 +1,584 @@
 [
   {
     "version": "18.2",
-    "title": { "ar": "باتش 18.2", "en": "Patch 18.2" },
+    "title": {
+      "ar": "باتش 18.2",
+      "en": "Patch 18.2"
+    },
     "summary": {
       "ar": "Dragon 9 لسه من أقوى التشكيلات في الباتش الحالي بفضل مرونة Elder Dragon كـ كاري رئيسي.",
       "en": "Dragon 9 remains one of the strongest comps this patch thanks to Elder Dragon's flexibility as a main carry."
-    }
+    },
+    "highlights": {
+      "ar": "أول باتش رئيسي لسيت Enchanted Wilds. التركيز الأساسي تقوية الكومبات اللي كانت مستضعفة قدام الريرول وAhri، مع تخفيض تكلفة أغلب الـWisps وتسهيل الوصول للفل 8. بعد كام يوم، تحديث سريع يوم 14 سبتمبر نيرف شوية أبطال كانوا بقوا قوية زيادة زي Camille وLeBlanc وDraven وMaokai.",
+      "en": "The first main patch of Enchanted Wilds. The focus is buffing comps that struggled against reroll and Ahri, cutting the cost of most Wisps, and making level 8 more accessible. A few days later, a Sept-14 hotfix nerfed a handful of champions that had become too strong — Camille, LeBlanc, Draven, and Maokai."
+    },
+    "changes": [
+      {
+        "type": "adjust",
+        "category": "system",
+        "name": {
+          "ar": "الخبرة (XP)",
+          "en": "XP costs"
+        },
+        "detail": {
+          "ar": "تكلفة الوصول للفل 8 قلّت 4 نقاط (60 → 56). فل 9 وفل 10 كانوا هيقلّوا كمان بس تحديث سريع يوم 14 سبتمبر رجّعهم زي ما كانوا (68 لكل واحد فيهم).",
+          "en": "Leveling to 8 got 4 XP cheaper (60 → 56). Levels 9 and 10 were cheaper too, but a Sept-14 hotfix reverted them back to their original cost (68 each)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "system",
+        "name": {
+          "ar": "الـ Wisps القتالية",
+          "en": "Combat Wisps"
+        },
+        "detail": {
+          "ar": "معظم الـ Wisps القتالية والاقتصادية والمتعلقة بالشوب بقت أرخص بـ1-2 دهب (زي Barrier وCombust وTremors)، عشان تقدر تشتري قوة مؤقتة من غير ما تضحي بالإيكونومي أو اللفل.",
+          "en": "Most combat, economy, and shop Wisps got 1-2 gold cheaper (Barrier, Combust, Tremors, and more), so temporary power costs less of your economy or leveling."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Solar",
+          "en": "Solar"
+        },
+        "detail": {
+          "ar": "قوي جدًا في الأواخر بس ضعيف بدري. الضرر السحري الإضافي الأساسي زاد شوية (7%→8%) بس الزيادة مع كل 3-نجوم قلّت (1.5%→1%)، وسرعة الهجوم والمقاومة عند 3 وحدات 3-نجوم قلّوا. نيرف صافي رغم الباف الصغير بدري.",
+          "en": "Very strong late but weak early. Base bonus magic damage rose slightly (7%→8%) but the per-3-star scaling dropped (1.5%→1%), and the 3-star bonus Attack Speed and resists were both reduced. A net nerf despite the small early buff."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Blackthorn",
+          "en": "Blackthorn"
+        },
+        "detail": {
+          "ar": "الصحة اللي بتدّيها التضحية زادت عند (4) و(6)، ونسبة سحب الموارد من التانك والـ AD والـ AP اتحسنت.",
+          "en": "Health granted by the sacrifice increased at (4) and (6), and the resource siphon from Tank, AD, and AP sacrifices all improved."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Hunter",
+          "en": "Hunter"
+        },
+        "detail": {
+          "ar": "مدة تثبيت الهدف عشان تاخد زيادة الضرر قلّت من 4 ثواني لـ3، يعني هتوصل لبونص الضرر أسرع.",
+          "en": "The target-lock duration for the damage-amp bonus dropped from 4 seconds to 3, so you reach the bonus damage faster."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "detail": {
+          "ar": "نسبة الحريق (Burn) زادت عند (3) و(4) من 3% / 3.5% لـ3.5% / 4.5%.",
+          "en": "Burn percentage increased at (3) and (4), from 3%/3.5% to 3.5%/4.5%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Rapidfire",
+          "en": "Rapidfire"
+        },
+        "detail": {
+          "ar": "سرعة الهجوم المكتسبة مع كل ضربة قلّت عند (3) و(4) و(5).",
+          "en": "The Attack Speed gained per attack was reduced at (3), (4), and (5)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Fae",
+          "en": "Fae"
+        },
+        "detail": {
+          "ar": "عتبات الـPixies الذهبية عند (4) قلّت، يعني هتوصلها أسرع وتاخد دهب زيادة أبكر في اللعبة.",
+          "en": "The Golden Pixie thresholds at (4) dropped, so you reach them faster and get bonus gold earlier."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Coven",
+          "en": "Coven"
+        },
+        "detail": {
+          "ar": "مكافآت الـEssence (Cashouts) بقت أسخى في كل العتبات، ومكافأة جديدة عند 130 إيسنس بتديك Caitlyn 2 نجوم.",
+          "en": "Essence cashout rewards got richer at every threshold, and a new 130-Essence cashout grants a 2-star Caitlyn."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Varus",
+          "en": "Varus"
+        },
+        "detail": {
+          "ar": "ضرر المهارة زاد بشكل كبير في كل المستويات (415/625/1000/1700% من الـAD بدل 385/580/925/1530%).",
+          "en": "Ability damage rose significantly at every star level (415/625/1000/1700% AD, up from 385/580/925/1530% AD)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Leona",
+          "en": "Leona"
+        },
+        "detail": {
+          "ar": "تكلفة المانا قلّت (30/90 بدل 40/100) والمقاومات المتناقصة زادت — تعويض بعد نيرف Solar.",
+          "en": "Mana cost dropped (30/90 from 40/100) and her decaying resists increased — a compensation buff after the Solar nerf."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Warwick",
+          "en": "Warwick"
+        },
+        "detail": {
+          "ar": "الـAD الأساسي زاد من 40 لـ45، وده فرق كبير لبطل بيضرب كتير زيه.",
+          "en": "Base AD rose from 40 to 45 — a big deal for a champion who attacks as much as he does."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Shen",
+          "en": "Shen"
+        },
+        "detail": {
+          "ar": "الدرع بتاعه زاد في كل المستويات (350/430/550/700 بدل 325/400/500/600).",
+          "en": "His Shield increased at every star level (350/430/550/700, up from 325/400/500/600)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Kayle",
+          "en": "Kayle"
+        },
+        "detail": {
+          "ar": "الضرر السحري مع كل هجمة زاد (62/92/105 بدل 56/84/95)، جاله أبعد Solar بقى أضعف بدري.",
+          "en": "Magic damage on-hit increased (62/92/105, up from 56/84/95), enabled now that Solar is weaker early."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Yunara",
+          "en": "Yunara"
+        },
+        "detail": {
+          "ar": "ضرر المهارة زاد في كل المستويات (160/240/370/630% من الـAD بدل 150/225/335/570%).",
+          "en": "Ability damage increased at every star level (160/240/370/630% AD, up from 150/225/335/570% AD)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Azir",
+          "en": "Azir"
+        },
+        "detail": {
+          "ar": "ضرر الجنود زاد (43/65/103/175 قوة سحرية بدل 40/60/96/165).",
+          "en": "Soldier ability damage increased (43/65/103/175 AP, up from 40/60/96/165)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Diana",
+          "en": "Diana"
+        },
+        "detail": {
+          "ar": "ضرر كل كرة قمرية زاد (75/115/180 بدل 70/105/170)، والدرع عند 3 نجوم زاد لـ500.",
+          "en": "Damage per moonlight orb increased (75/115/180, up from 70/105/170), and her 3-star Shield rose to 500."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Kha'Zix",
+          "en": "Kha'Zix"
+        },
+        "detail": {
+          "ar": "الـAD الأساسي زاد من 30 لـ40 — كان بياخد وقت طويل بدري قبل ما يقدر يقتل حاجة.",
+          "en": "Base AD jumped from 30 to 40 — he used to take forever to kill anything before getting items."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Mama Beak",
+          "en": "Mama Beak"
+        },
+        "detail": {
+          "ar": "الـAD الأساسي زاد من 50 لـ55، وضرر المهارة زاد شوية عند 1-نجمة.",
+          "en": "Base AD rose from 50 to 55, with a small ability damage bump at 1-star."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Ahri",
+          "en": "Ahri"
+        },
+        "detail": {
+          "ar": "ضرر المهارة زاد (455/685 قوة سحرية بدل 425/640)، ونسبة تقليل الضرر مع البعد عن المركز زادت شوية.",
+          "en": "Ability damage increased (455/685 AP, from 425/640), with a slightly larger falloff per hex from the center."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Ezreal",
+          "en": "Ezreal"
+        },
+        "detail": {
+          "ar": "ضرر المهارة الأساسي زاد (250/375 من الـAD بدل 235/355).",
+          "en": "Primary ability damage increased (250/375% AD, from 235/355% AD)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Nidalee",
+          "en": "Nidalee"
+        },
+        "detail": {
+          "ar": "في الشكل السحري، ضرر الهجمة المشحونة زاد (300/450 قوة سحرية بدل 285/425).",
+          "en": "In AP form, her empowered attack damage increased (300/450 AP, from 285/425 AP)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Ashe",
+          "en": "Ashe"
+        },
+        "detail": {
+          "ar": "تم إصلاح باج كان بيخليها تستهدف الصف الغلط أحيانًا، وضرر السهم زاد (465/700 من الـAD بدل 440/660).",
+          "en": "A bug that occasionally made her target the wrong line was fixed, and arrow damage rose (465/700% AD, from 440/660% AD)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Ivern",
+          "en": "Ivern"
+        },
+        "detail": {
+          "ar": "عدد المربعات اللي بيتحكم فيها زاد من 2 لـ3، والدرع وضرر المهارة زادوا كمان.",
+          "en": "His controlled hexes increased from 2 to 3, and both his Shield and ability damage went up."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Lux",
+          "en": "Lux"
+        },
+        "detail": {
+          "ar": "ضرر الليزر زاد (375/565 قوة سحرية بدل 355/550).",
+          "en": "Laser damage increased (375/565 AP, from 355/550 AP)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "detail": {
+          "ar": "العلاج في الأكتيف زاد بشكل واضح (250/375 قوة سحرية بدل 200/300)، مقابل درع باسيف أساسي أقل لكن بينمو أكتر مع الصحة القصوى — هيبقى أقوى بكتير مع أيتمز.",
+          "en": "His active heal increased noticeably (250/375 AP, from 200/300 AP), traded for a lower base passive Shield that scales harder with max Health — much stronger once itemized."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "champion",
+        "name": {
+          "ar": "Rengar",
+          "en": "Rengar"
+        },
+        "detail": {
+          "ar": "سرعة الهجوم الأساسية قلّت (0.75 بدل 0.8) — بتضرب أكتر بيلد الـRageblade و Titan's Resolve المعتمد عليه.",
+          "en": "Base Attack Speed dropped (0.75, from 0.8) — this hits his common Rageblade / Titan's Resolve build hardest."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "champion",
+        "name": {
+          "ar": "Master Yi",
+          "en": "Master Yi"
+        },
+        "detail": {
+          "ar": "الـAD الأساسي في الشكل الفيزيائي قلّ (60 بدل 65)، وضرر المهارة في الشكل السحري قلّ (125/190/285 بدل 140/210/335).",
+          "en": "Base AD in AD form dropped (60, from 65), and AP-form ability damage was reduced (125/190/285 AP, from 140/210/335 AP)."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "champion",
+        "name": {
+          "ar": "Sentinel",
+          "en": "Sentinel"
+        },
+        "detail": {
+          "ar": "تم إصلاح باج كان بيخليه يستهدف بره النطاق الصح أحيانًا، ومعاه نيرف كبير على الدرع (350/450 قوة سحرية بدل 400/500) — كان لسه أقوى تانك في اللعبة رغم الباج.",
+          "en": "A bug that let him occasionally hit outside his intended line was fixed, alongside a big Shield nerf (350/450 AP, from 400/500 AP) — he was still the strongest tank in the game despite the bug."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "champion",
+        "name": {
+          "ar": "Zyra",
+          "en": "Zyra"
+        },
+        "detail": {
+          "ar": "ضرر المهارة قلّ شوية (35/53 قوة سحرية بدل 37/55).",
+          "en": "Ability damage dropped slightly (35/53 AP, from 37/55 AP)."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "champion",
+        "name": {
+          "ar": "LeBlanc",
+          "en": "LeBlanc"
+        },
+        "detail": {
+          "ar": "جزء من قوة النسخ التلقائي (Passive) اتحول لضرر مباشر في المهارة — بقت أقوى كحاملة أيتمز وأضعف شوية كماكينة تكرار.",
+          "en": "Some power moved from her passive copy-printing into direct ability damage — stronger as an itemized carry, slightly weaker as a printing machine."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "champion",
+        "name": {
+          "ar": "Brambleback",
+          "en": "Brambleback"
+        },
+        "detail": {
+          "ar": "تم إصلاح باج في تجاهل الدرع كان بيدّيه قوة زيادة من غير قوة سحرية وأقل معاها. هيبقى أقوى مع Titan's Resolve وBloodthirster وEdge of Night، وأضعف من غيرهم.",
+          "en": "A bug in his Armor Ignore was fixed, which used to make him stronger without Ability Power and weaker with it. He'll be stronger with Titan's Resolve, Bloodthirster, and Edge of Night, and weaker without AP sources."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "item",
+        "name": {
+          "ar": "Bloodthirster",
+          "en": "Bloodthirster"
+        },
+        "detail": {
+          "ar": "الدرع وقوة الهجوم/السحر زادوا (18% بدل 15%، ودرع 30% من الصحة القصوى بدل 25%)، بس بيتفعل متأخر شوية (عند 50% صحة بدل 40%).",
+          "en": "AD/AP and Shield both increased (18% from 15%, and a 30% max-HP Shield from 25%), but it now triggers a bit later (at 50% Health instead of 40%)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "item",
+        "name": {
+          "ar": "Hand of Justice",
+          "en": "Hand of Justice"
+        },
+        "detail": {
+          "ar": "قوة الهجوم/السحر والـOmnivamp زادوا (18% و15% بدل 15% و12%).",
+          "en": "AD/AP and Omnivamp both increased (18% and 15%, up from 15% and 12%)."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "item",
+        "name": {
+          "ar": "Edge of Night",
+          "en": "Edge of Night"
+        },
+        "detail": {
+          "ar": "بيتفعل أبكر (عند 40% صحة بدل 60%) بس العلاج من الصحة الناقصة قلّ (15% بدل 20%) — يعني بيبقى أقل تعارضًا مع Bloodthirster وSterak's Gauge.",
+          "en": "Now triggers earlier (at 40% Health instead of 60%) but heals less missing Health (15%, down from 20%) — this spreads its trigger point apart from Bloodthirster and Sterak's Gauge."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "item",
+        "name": {
+          "ar": "Primal Emblem",
+          "en": "Primal Emblem"
+        },
+        "detail": {
+          "ar": "Emblems عمومًا قوية جدًا حاليًا ما عدا Primal، فده الوحيد اللي اتباف: سرعة الهجوم زادت من 25% لـ35%.",
+          "en": "Emblems are generally very strong right now except Primal, which is the one that got buffed: Attack Speed rose from 25% to 35%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "item",
+        "name": {
+          "ar": "Emblems أخرى (Brawler، Fae، Hunter، Invoker، Juggernaut، Sprykin، Vanguard)",
+          "en": "Other Emblems (Brawler, Fae, Hunter, Invoker, Juggernaut, Sprykin, Vanguard)"
+        },
+        "detail": {
+          "ar": "كل الـEmblems دي نزلت شوية في الإحصائيات الأساسية بتاعتها (صحة أو ضرر أو سرعة هجوم) بعد ما كانت قوية زيادة عن اللزوم.",
+          "en": "All of these Emblems had their core stat (Health, damage, or Attack Speed) trimmed slightly after overperforming."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "augment",
+        "name": {
+          "ar": "Consuming Flora",
+          "en": "Consuming Flora"
+        },
+        "detail": {
+          "ar": "فعالية الـEmblem اللي بيدّيها قلّت من 200% لـ150%، وبقى مقصور على لاعب واحد بس في كل لوبي.",
+          "en": "The Emblem effectiveness it grants dropped from 200% to 150%, and it's now limited to one player per lobby."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Dark Ritual",
+          "en": "Dark Ritual"
+        },
+        "detail": {
+          "ar": "كمية القوة السحرية من كل Cashout زادت بشكل كبير — تقوية لفكرة Cassiopeia وMorgana كاري مع بعض.",
+          "en": "The Ability Power from each cashout increased significantly — a big push for the Cassiopeia/Morgana dual-carry fantasy."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "hotfix",
+        "name": {
+          "ar": "Camille",
+          "en": "Camille"
+        },
+        "detail": {
+          "ar": "ضرر المهارة قلّ في كل المستويات — بقت كاري ريرول قوي جدًا مع Solar وRavager فاستحقت نيرف مبكر.",
+          "en": "Ability damage was reduced at every star level — she'd become a very strong reroll carry with Solar/Ravager, earning an early nerf."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "hotfix",
+        "name": {
+          "ar": "LeBlanc",
+          "en": "LeBlanc"
+        },
+        "detail": {
+          "ar": "احتمالية التكرار التلقائي (Clone) عند 3 نجوم قلّت من 40% لـ30%.",
+          "en": "Her base 3-star Clone chance dropped from 40% to 30%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "hotfix",
+        "name": {
+          "ar": "Teemo",
+          "en": "Teemo"
+        },
+        "detail": {
+          "ar": "ضرر الفطر الصغير قلّ شوية (55/82/130 قوة سحرية بدل 60/90/135).",
+          "en": "Small Shroom damage dropped slightly (55/82/130 AP, from 60/90/135 AP)."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "hotfix",
+        "name": {
+          "ar": "Draven",
+          "en": "Draven"
+        },
+        "detail": {
+          "ar": "مهام الـBounty بقت أصعب شوية والمكافآت السهلة اتقصت — كان بياخد مكافآت كبيرة من مهام سهلة قوي.",
+          "en": "Bounty quests got a bit harder and the easier rewards were trimmed — he was earning big rewards from tasks that were too easy."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "hotfix",
+        "name": {
+          "ar": "Maokai",
+          "en": "Maokai"
+        },
+        "detail": {
+          "ar": "تكلفة الكاست التاني زادت (100 بدل 90) — تعويض بعد ما بقى الوصول للفل 8 أرخص وبيقدر يجمع صحة أكتر بسرعة.",
+          "en": "His recast mana cost went up (100, from 90) — a compensation after level 8 got cheaper and he could stack Health faster."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "hotfix",
+        "name": {
+          "ar": "Ashe",
+          "en": "Ashe"
+        },
+        "detail": {
+          "ar": "مدة أثر السهم قلّت لـ3 ثواني بدل 4، لكن الضرر المستمر فيه زاد (9/14 من الـAD بدل 5/8).",
+          "en": "Her arrow trail duration dropped to 3 seconds from 4, but the damage-over-time within it increased (9/14% AD, from 5/8% AD)."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "hotfix",
+        "name": {
+          "ar": "Brambleback",
+          "en": "Brambleback"
+        },
+        "detail": {
+          "ar": "تم إصلاح باج تاني كان بيخلي تجاهل الدرع الأساسي عنده أعلى من المفروض، وبيقل مع زيادة القوة السحرية بدل ما يزيد.",
+          "en": "A further bug fix corrected his baseline Armor Ignore, which was higher than intended and used to shrink as his Ability Power grew instead of growing with it."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "hotfix",
+        "name": {
+          "ar": "مستويات الخبرة (لفل 9 ولفل 10)",
+          "en": "XP for levels 9 & 10"
+        },
+        "detail": {
+          "ar": "تكلفة لفل 9 ولفل 10 رجعت لقيمتها الأصلية (68 لكل واحدة) بعد ما كان الباتش قللها — فقط لفل 7 للفل 8 فضل أرخص.",
+          "en": "The XP cost for levels 9 and 10 was reverted back to its original value (68 each) after the main patch had lowered it — only the level 7-to-8 discount remains."
+        }
+      }
+    ],
+    "releaseDate": "2026-09-09"
   }
 ]
