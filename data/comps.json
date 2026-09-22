@@ -10,7 +10,7 @@
       "ja": "ドラゴン9"
     },
     "style": {
-      "ar": "أسلوب اللعب: فل 9 سريع (صعب)",
+      "ar": "أسلوب اللعب: لفل 9 سريع (صعب)",
       "en": "Playstyle: Fast 9 (Hard)",
       "ja": "プレイスタイル：ファスト9（上級）"
     },
@@ -20,7 +20,7 @@
       "ja": "序盤からレベル9を目指し、柔軟なメインキャリーのElder Dragonを使う遅めの構成。"
     },
     "guide": {
-      "ar": "كومب بطيء بيعتمد إنك توصل لفل 9 بدري وتلعب Elder Dragon كاري رئيسي مرن — تقدر تستبدل Morgana بـ Lux أو Alune لو عايز اتجاه سحري، أو تلعب كاري فيزيائي بـ Ashe وDraven بدل كده. في المرحلة الأولى ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast (Cinderling / Gromp / Mama Beak). في الاستيدج التالت كمل الستريك، ولو عندك أوجمنت إيكونومي ممكن تعمل Fast 7 قبل ما تلف. من الاستيدج الرابع ابدأ تخسر جولات بهدوء وأنت بتجمع الدهب، وخد بالك توصل فل 9 قبل بداية الاستيدج الخامس ومعاك 70+ دهب للرول داون.",
+      "ar": "كومب بطيء بيعتمد إنك توصل لفل 9 بدري وتلعب Elder Dragon كاري رئيسي مرن — تقدر تستبدل Morgana بـ Lux أو Alune لو عايز اتجاه سحري، أو تلعب كاري فيزيائي بـ Ashe وDraven بدل كده. في المرحلة الأولى ابقى عدواني في وضع الأيتمز وحاول تعمل ون ستريك بقطع Riftbeast (Cinderling / Gromp / Mama Beak). في الاستيدج التالت كمل الستريك، ولو عندك أوجمنت إيكونومي ممكن تعمل Fast 7 قبل ما تلف. من الاستيدج الرابع ابدأ تخسر جولات بهدوء وأنت بتجمع الدهب، وخد بالك توصل لفل 9 قبل بداية الاستيدج الخامس ومعاك 70+ دهب للرول داون.",
       "en": "A slow comp built around hitting level 9 early with Elder Dragon as a flexible main carry — swap Morgana for Lux or Alune for a full magic build, or go physical with Ashe and Draven instead. Early on, contest items aggressively and try to win-streak with Riftbeast units (Cinderling / Gromp / Mama Beak). On stage 3, keep the streak going, and with an economy augment you can hit Fast 7 before rolling. From stage 4, start loss-streaking quietly while banking gold, and make sure you hit level 9 before stage 5 with 70+ gold to roll down.",
       "ja": "序盤からレベル9を目指し、Elder Dragonを柔軟なメインキャリーとして使う遅めの構成 — MorganaをLuxやAluneに替えて完全魔法型にするか、AsheやDravenで物理型にすることもできます。序盤はアイテムを積極的に取り合い、Riftbeastユニット（Cinderling／Gromp／Mama Beak）で連勝を狙いましょう。ステージ3では連勝を続け、エコノミーオーグメントがあればステージ3-3前にファスト7も可能です。ステージ4からは静かに連敗しながらゴールドを貯め、ステージ5開始前にレベル9とロールダウン用の70ゴールド以上を確保してください。"
     },
@@ -99,7 +99,7 @@
       {
         "stage": 4,
         "text": {
-          "ar": "ابدأ تخسر جولات بهدوء وانت بتجمع الدهب. خليك فل 9 قبل بداية الاستيدج الخامس ومعاك 70 دهب+ للرول داون.",
+          "ar": "ابدأ تخسر جولات بهدوء وانت بتجمع الدهب. خليك لفل 9 قبل بداية الاستيدج الخامس ومعاك 70 دهب+ للرول داون.",
           "en": "Start loss-streaking quietly while banking gold. Hit level 9 before stage 5 with 70+ gold to roll down.",
           "ja": "静かに連敗しながらゴールドを貯めましょう。ステージ5前にレベル9とロールダウン用の70ゴールド以上を確保してください。"
         }
@@ -185,7 +185,7 @@
             "ja": "Dragon 9の強さは固定された盤面ではなく、Elder Dragonが複数の道を持つ柔軟なキャリーである点にあります。Morgana・Lux・AluneでAP型、AsheやDravenでAD型に組めます。ロールダウンで特定の1体を追う必要がないのが利点です。"
           },
           {
-            "ar": "العيب المقابل إنه كومب غالي جدًا. انت بتشتري فل 9 وبتدور على قطع خمس تكلفة، وده معناه إنك محتاج تدخل الاستيدج الخامس ومعاك دهب كتير وصحة كافية. لو دخلت الرول داون بـ40 دهب و20 صحة، الكومب ده مش هينقذك.",
+            "ar": "العيب المقابل إنه كومب غالي جدًا. انت بتشتري لفل 9 وبتدور على قطع خمس تكلفة، وده معناه إنك محتاج تدخل الاستيدج الخامس ومعاك دهب كتير وصحة كافية. لو دخلت الرول داون بـ40 دهب و20 صحة، الكومب ده مش هينقذك.",
             "en": "The trade-off is cost. You're buying level 9 and hunting 5-costs, which means entering stage 5 with a big bank and enough HP. If you roll down on 40 gold and 20 HP, this comp will not save you.",
             "ja": "代償はコストです。レベル9と5コストを狙うため、ステージ5に十分なゴールドとHPで入る必要があります。40ゴールド・20HPでロールダウンしても、この構成では立て直せません。"
           }
@@ -210,7 +210,7 @@
             "ja": "選ぶ条件：Cinderling・Gromp・Mama Beakなど序盤のRiftbeastが強化済み。"
           },
           {
-            "ar": "متلعبوش لو: بتخسر من الاستيدج التاني، أو صحتك تحت 50 في بداية الاستيدج الرابع — مش هتوصل فل 9 في وقت مفيد.",
+            "ar": "متلعبوش لو: بتخسر من الاستيدج التاني، أو صحتك تحت 50 في بداية الاستيدج الرابع — مش هتوصل لفل 9 في وقت مفيد.",
             "en": "Don't play it if: you're losing from stage 2, or below 50 HP entering stage 4 — you won't reach level 9 in time.",
             "ja": "避ける条件：ステージ2から負けが続く、またはステージ4開始時にHP50未満。レベル9に間に合いません。"
           },
@@ -230,7 +230,7 @@
         "body": [],
         "bullets": [
           {
-            "ar": "الاحتفاظ بالدهب أكتر من اللازم: لو وصلت 5-1 وانت لسه فل 8، الكومب اتأخر. اللف لفل 9 أهم من إنك تحافظ على 70 دهب.",
+            "ar": "الاحتفاظ بالدهب أكتر من اللازم: لو وصلت 5-1 وانت لسه لفل 8، الكومب اتأخر. اللف لفل 9 أهم من إنك تحافظ على 70 دهب.",
             "en": "Over-saving gold: if you're still level 8 at 5-1, you're late. Levelling to 9 matters more than protecting a 70-gold bank.",
             "ja": "ゴールドを貯めすぎ：5-1でレベル8なら遅すぎます。9に上げる方が70ゴールド維持より重要です。"
           },
@@ -309,17 +309,17 @@
       "ja": "ドレイヴンAD9"
     },
     "style": {
-      "ar": "أسلوب اللعب: فل 9 سريع (صعب)",
+      "ar": "أسلوب اللعب: لفل 9 سريع (صعب)",
       "en": "Playstyle: Fast 9 (Hard)",
       "ja": "プレイスタイル：ファスト9（上級）"
     },
     "summary": {
-      "ar": "كومب فل 9 بطيء بيعتمد على Draven ككاري أساسي مع Maokai وIvern كقطع Scaling قوية.",
+      "ar": "كومب لفل 9 بطيء بيعتمد على Draven ككاري أساسي مع Maokai وIvern كقطع Scaling قوية.",
       "en": "A slow Fast-9 comp built around Draven as the main carry with Maokai and Ivern as strong scaling pieces.",
       "ja": "序盤の連勝とElderwoodのスケーリングを活かし、Dravenを主力キャリーとして育てるファスト9構成。"
     },
     "guide": {
-      "ar": "العب بس من ون ستريك مبكر ومعاك دهب كتير. بما إنك بتستهدف قطع الـ 5 تكلفة اللي بتكبر مع الوقت، حاول توصل فل 9 قرب نهاية الاستيدج الرابع أو بداية الخامس. أفضل مهام Draven هي عمل ضرر عشان تاخد دهب، بس خلي بالك متعملش 10 آلاف ضرر في جولة واحدة عشان متتحبسش. الكومب فيه كمان تريت Elderwood اللي بيدّيك حليف شجرة إضافي (Lifeblossom / Stonebark) بيكبر مع تفعيل التريت أكتر.",
+      "ar": "العب بس من ون ستريك مبكر ومعاك دهب كتير. بما إنك بتستهدف قطع الـ 5 تكلفة اللي بتكبر مع الوقت، حاول توصل لفل 9 قرب نهاية الاستيدج الرابع أو بداية الخامس. أفضل مهام Draven هي عمل ضرر عشان تاخد دهب، بس خلي بالك متعملش 10 آلاف ضرر في جولة واحدة عشان متتحبسش. الكومب فيه كمان تريت Elderwood اللي بيدّيك حليف شجرة إضافي (Lifeblossom / Stonebark) بيكبر مع تفعيل التريت أكتر.",
       "en": "Only play from an early win streak with lots of gold. Since you're aiming for scaling 5-costs, try to hit level 9 near the end of stage 4 or the start of stage 5. Draven's best quests are dealing damage for gold, but avoid dealing 10k damage in a single round since it can trap you. The comp also runs the Elderwood trait, which grants a bonus tree ally (Lifeblossom / Stonebark) that grows stronger as the trait scales.",
       "ja": "序盤の連勝と潤沢なゴールドがある場合のみ選びましょう。スケーリングする5コストを狙うため、ステージ4終盤からステージ5序盤でのレベル9を目指します。Dravenの最適なクエストはダメージでゴールドを得るものですが、1ラウンドで1万ダメージのクエストは罠になりうるので避けましょう。Elderwoodトレイトも活用でき、トレイトが育つほど強くなる樹木の味方（LifeblossomまたはStonebark）を得られます。"
     },
@@ -499,11 +499,11 @@
         },
         "body": [
           {
-            "ar": "Draven AD 9 كومب فل 9 صعب مبني على 5 كوست بتكبر مع الوقت زي Draven وMaokai وIvern. وفوقهم الـ Elderwood بيدّيك شجرة حليفة (Lifeblossom أو Stonebark) بتقوى كل ما الـ Trait يكبر. الأيتمز الأساسية على Draven: Guinsoo's Rageblade ثم Last Whisper ثم Kraken's Fury.",
+            "ar": "Draven AD 9 كومب لفل 9 صعب مبني على 5 كوست بتكبر مع الوقت زي Draven وMaokai وIvern. وفوقهم الـ Elderwood بيدّيك شجرة حليفة (Lifeblossom أو Stonebark) بتقوى كل ما الـ Trait يكبر. الأيتمز الأساسية على Draven: Guinsoo's Rageblade ثم Last Whisper ثم Kraken's Fury.",
             "en": "Draven AD 9 is a hard level-9 comp built on scaling 5-costs like Draven, Maokai and Ivern, with Elderwood adding a tree ally (Lifeblossom or Stonebark) that grows as the trait scales. Draven's core items are Guinsoo's Rageblade, then Last Whisper, then Kraken's Fury."
           },
           {
-            "ar": "أفضل كويستات Draven هي اللي بتديك دهب مقابل الضرر، بس ابعد عن ضرر 10 آلاف في جولة واحدة لأنه ممكن يوقعك في فخ. والعيب زي أي فل 9: محتاج دهب كتير وصحة كافية تدخل بيها الاستيدج الخامس.",
+            "ar": "أفضل كويستات Draven هي اللي بتديك دهب مقابل الضرر، بس ابعد عن ضرر 10 آلاف في جولة واحدة لأنه ممكن يوقعك في فخ. والعيب زي أي لفل 9: محتاج دهب كتير وصحة كافية تدخل بيها الاستيدج الخامس.",
             "en": "Draven's best quests are the ones that pay gold for damage, but avoid the 10k-damage-in-one-round quest since it can trap you. The trade-off is the usual level-9 one: you need a big bank and enough HP to reach stage 5."
           }
         ]
@@ -528,7 +528,7 @@
             "en": "Play it if: you have an economy augment that lets you Fast 7 before 3-3 to keep the streak alive."
           },
           {
-            "ar": "متلعبوش لو: مفيش Win Streak ولا دهب — هتوصل فل 9 متأخر أو من غير رول داون.",
+            "ar": "متلعبوش لو: مفيش Win Streak ولا دهب — هتوصل لفل 9 متأخر أو من غير رول داون.",
             "en": "Don't play it if: you have no win streak and no gold — you would reach level 9 late or without a roll-down."
           }
         ]
@@ -620,7 +620,7 @@
       {
         "stage": 4,
         "text": {
-          "ar": "لفّ ورول لـ Ahri وMorgana والفرونت لاين. لما تستقر، اعمل فل 9 عشان Lux.",
+          "ar": "لفّ ورول لـ Ahri وMorgana والفرونت لاين. لما تستقر، اعمل لفل 9 عشان Lux.",
           "en": "Level and roll for Ahri, Morgana, and the frontline. Once stable, go level 9 for Lux.",
           "ja": "レベルを上げてAhri・Morgana・フロントラインをロールしましょう。安定したらレベル9でLuxを狙います。"
         }
@@ -738,7 +738,7 @@
             "en": "Ahri Morgana is a medium 4-cost Fast 8 comp: Ahri is the main carry and Morgana holds the utility items. The best emblem is Invoker on Ahri. Core items are Spear of Shojin, then Jeweled Gauntlet, then Giant's Belt, then Tear of the Goddess."
           },
           {
-            "ar": "قوته في مرونة الفرونت لاين: تقدر تسند بـ Sentinel أو Sett، وتلعب Juggernauts أو Defenders أو Vanguards حسب اللي يجيلك. ولما تستقر تقدر تروح فل 9 وتجيب Lux، أو تعمل Cap بـ Ashe وAlune مكان Karma في آخر اللعبة.",
+            "ar": "قوته في مرونة الفرونت لاين: تقدر تسند بـ Sentinel أو Sett، وتلعب Juggernauts أو Defenders أو Vanguards حسب اللي يجيلك. ولما تستقر تقدر تروح لفل 9 وتجيب Lux، أو تعمل Cap بـ Ashe وAlune مكان Karma في آخر اللعبة.",
             "en": "Its strength is a flexible frontline: you can tank with Sentinel or Sett and play Juggernauts, Defenders or Vanguards depending on what you find. Once stable you can go level 9 for Lux, or cap late game with Ashe and Alune over Karma."
           }
         ]
@@ -763,7 +763,7 @@
             "en": "Play it if: you have, or can find, an Invoker emblem for Ahri — it is the best emblem in the comp."
           },
           {
-            "ar": "متلعبوش لو: بعد الرول على فل 8 مفيش Ahri ولا Morgana ولا فرونت لاين متطور — فكّر في كومب AP تاني.",
+            "ar": "متلعبوش لو: بعد الرول على لفل 8 مفيش Ahri ولا Morgana ولا فرونت لاين متطور — فكّر في كومب AP تاني.",
             "en": "Don't play it if: after your level-8 roll you have neither Ahri nor Morgana nor an upgraded frontline — consider another AP comp."
           }
         ]
@@ -784,7 +784,7 @@
             "en": "Neglecting the frontline: itemize Yorick or any 2-star tank in stage 2, then level and roll for Ahri, Morgana and the tank."
           },
           {
-            "ar": "الرغبة في فل 9 قبل الاستقرار: استقر الأول، وبعدين روح فل 9 على Lux.",
+            "ar": "الرغبة في لفل 9 قبل الاستقرار: استقر الأول، وبعدين روح لفل 9 على Lux.",
             "en": "Rushing level 9 before you're stable: stabilize first, then go level 9 for Lux."
           }
         ]
@@ -855,7 +855,7 @@
       {
         "stage": 4,
         "text": {
-          "ar": "لفّ ورول لـ6 Juggernauts + Sivir. لما تستقر اعمل فل 9 ودور على Ashe وانقل بورد لقطع الـ5 تكلفة.",
+          "ar": "لفّ ورول لـ6 Juggernauts + Sivir. لما تستقر اعمل لفل 9 ودور على Ashe وانقل بورد لقطع الـ5 تكلفة.",
           "en": "Level and roll for 6 Juggernauts + Sivir. Once stable, go 9 and look for Ashe, transitioning your board to 5-costs.",
           "ja": "レベルを上げて6ジャガーノート+Sivirをロールしましょう。安定したらレベル9に上げ、Asheを探して盤面を5コストへ移行します。"
         }
@@ -969,7 +969,7 @@
         },
         "body": [
           {
-            "ar": "Ashe Juggernauts كومب Fast 8 صعب. الفكرة تبني Juggernauts (ولو جاتلك Juggernaut Emblem تقدر تلعب 6) وتضيف Sivir كاري، وبعدين على فل 9 تدور على Ashe وتتحول لـ 5 كوست. ممكن كمان تلعب 5 كوست AD زي Dragon وDraven. الأيتمز: Infinity Edge ثم Warmog's Armor ثم Recurve Bow ثم B.F. Sword.",
+            "ar": "Ashe Juggernauts كومب Fast 8 صعب. الفكرة تبني Juggernauts (ولو جاتلك Juggernaut Emblem تقدر تلعب 6) وتضيف Sivir كاري، وبعدين على لفل 9 تدور على Ashe وتتحول لـ 5 كوست. ممكن كمان تلعب 5 كوست AD زي Dragon وDraven. الأيتمز: Infinity Edge ثم Warmog's Armor ثم Recurve Bow ثم B.F. Sword.",
             "en": "Ashe Juggernauts is a hard Fast 8 comp. You build Juggernauts (6 if you find the Juggernaut emblem), add Sivir as the carry, then at level 9 look for Ashe and transition to 5-costs. You can also play other AD 5-costs like Dragon and Draven. Items: Infinity Edge, then Warmog's Armor, then Recurve Bow, then B.F. Sword."
           },
           {
@@ -1325,7 +1325,7 @@
       {
         "stage": 4,
         "text": {
-          "ar": "لفّ لفل 8 ورول بقوة على Aphelios والقطع الفور كوست. اعمل فل 9 بس لما تكون طورت أغلب الفور كوست بتاعتك.",
+          "ar": "لفّ لفل 8 ورول بقوة على Aphelios والقطع الفور كوست. اعمل لفل 9 بس لما تكون طورت أغلب الفور كوست بتاعتك.",
           "en": "Level to 8 and roll heavily for Aphelios and the 4-costs. Only push to 9 once you have almost all your 4-costs upgraded.",
           "ja": "レベル8に上げてApheliosと4コストを強くロールしましょう。4コストがほぼ強化できてからのみレベル9を目指します。"
         }
@@ -1485,7 +1485,7 @@
             "en": "Waiting for best in slot: you don't need it — slam early to win and keep the streak."
           },
           {
-            "ar": "الدخول لفل 9 بدري: لف على فل 8 بقوة لـ Aphelios والـ 4 كوست، وروح 9 بس لما تكون كل الـ 4 كوست تقريبًا متطورة.",
+            "ar": "الدخول لفل 9 بدري: لف على لفل 8 بقوة لـ Aphelios والـ 4 كوست، وروح 9 بس لما تكون كل الـ 4 كوست تقريبًا متطورة.",
             "en": "Pushing level 9 early: roll heavily at level 8 for Aphelios and the 4-costs, and only go 9 once almost all your 4-costs are upgraded."
           },
           {
@@ -1787,7 +1787,7 @@
       {
         "stage": 3,
         "text": {
-          "ar": "لو معاك أزواج مهمة على فل 6، ممكن تلف شوية عشان تجمع القطع وتطور. لو مش كده، اقتصد لحد فل 7.",
+          "ar": "لو معاك أزواج مهمة على لفل 6، ممكن تلف شوية عشان تجمع القطع وتطور. لو مش كده، اقتصد لحد لفل 7.",
           "en": "If you have crucial pairs at level 6, consider rolling slightly to gather and upgrade units. Otherwise, econ up to level 7.",
           "ja": "レベル6で重要なペアが揃っていれば、軽くロールしてチャームの獲得やユニット強化を狙うのもありです。そうでなければレベル7までエコノミーを積みましょう。"
         }
@@ -1795,7 +1795,7 @@
       {
         "stage": 4,
         "text": {
-          "ar": "سلو رول على فل 7 عشان تطور القطع التالت تكلفة اللي بتلاحقها لتلات نجوم.",
+          "ar": "سلو رول على لفل 7 عشان تطور القطع التالت تكلفة اللي بتلاحقها لتلات نجوم.",
           "en": "Slow roll at level 7 for 3-star upgrades on whatever 3-costs you're chasing.",
           "ja": "レベル7でスローロールし、狙っている3コストを3つ星にしましょう。余ったAPアイテムはDianaに渡すのが良いです。"
         }
@@ -1928,7 +1928,7 @@
             "en": "The whole comp is built around Kha'Zix: every takedown unlocks another trait for him, in the order Ravager, Executioner, Spellweaver, then Rapidfire, so the more fights he wins the stronger he gets. That is why early items on Kha'Zix matter so much — once he starts snowballing he is hard to stop."
           },
           {
-            "ar": "ده ريرول 3 كوست مش فل 9، يعني مش بتطارد 5 كوست. بتلعب على فل 6 وفل 7 وبتبطّأ الرول على فل 7 لحد ما 3 كوست زي Kha'Zix وHecarim وDiana يوصلوا 3 نجوم. العيب إنه معتمد على إنك تلاقي النسخ بدري — من غير Kha'Zix وأيتمز في الاستيدج التاني الكومب بيتأخر.",
+            "ar": "ده ريرول 3 كوست مش لفل 9، يعني مش بتطارد 5 كوست. بتلعب على لفل 6 ولفل 7 وبتبطّأ الرول على لفل 7 لحد ما 3 كوست زي Kha'Zix وHecarim وDiana يوصلوا 3 نجوم. العيب إنه معتمد على إنك تلاقي النسخ بدري — من غير Kha'Zix وأيتمز في الاستيدج التاني الكومب بيتأخر.",
             "en": "This is a 3-cost reroll, not a level 9 comp — you are not chasing 5-costs. You play on levels 6–7 and slow-roll at 7 until 3-costs like Kha'Zix, Hecarim and Diana reach 3 stars. The trade-off is that it depends on finding copies early — without Kha'Zix and items by stage 2, the comp falls behind."
           }
         ]
@@ -1949,7 +1949,7 @@
             "en": "Play it if: you have any upgraded tank to stall while Kha'Zix starts taking takedowns."
           },
           {
-            "ar": "العبه لو: جاتلك أوجمنت أيتمز أو إيكونومي، لأن الكومب بيحتاج قطع كتير وبيتحسن بالرولات على فل 7.",
+            "ar": "العبه لو: جاتلك أوجمنت أيتمز أو إيكونومي، لأن الكومب بيحتاج قطع كتير وبيتحسن بالرولات على لفل 7.",
             "en": "Play it if: you hit an item or economy augment — the comp wants lots of pieces and rewards rolling at level 7."
           },
           {
@@ -1966,7 +1966,7 @@
         "body": [],
         "bullets": [
           {
-            "ar": "اللف المبكر من غير داعي: على فل 6 لف خفيف بس لو معاك أزواج مهمة تستاهل ترقيتها أو Charms، غير كده اعمل Econ لحد فل 7 وبعدين بطّأ الرول.",
+            "ar": "اللف المبكر من غير داعي: على لفل 6 لف خفيف بس لو معاك أزواج مهمة تستاهل ترقيتها أو Charms، غير كده اعمل Econ لحد لفل 7 وبعدين بطّأ الرول.",
             "en": "Rolling early for no reason: at level 6 only roll lightly if you have crucial pairs or charms to upgrade; otherwise econ up to level 7 and slow-roll there."
           },
           {
@@ -2205,7 +2205,7 @@
             "en": "Play it if: you have early 2-cost Juggernauts (Sejuani, Scuttlecrab) you can upgrade."
           },
           {
-            "ar": "العبه لو: عايز كومب سهل ومستقر من غير ما تروح فل 9.",
+            "ar": "العبه لو: عايز كومب سهل ومستقر من غير ما تروح لفل 9.",
             "en": "Play it if: you want an easy, stable comp without going to level 9."
           },
           {
@@ -2226,7 +2226,7 @@
             "en": "Mana items on Caitlyn: she never casts, so mana is wasted."
           },
           {
-            "ar": "الريرول من غير خطة: على فل 6 لف لـ 4 Juggernaut و2 Hunter، طوّر Caitlyn نجمتين وJuggernaut 2 كوست، وبعدين Econ وبطّأ الرول فوق 50 دهب للـ 3 نجوم.",
+            "ar": "الريرول من غير خطة: على لفل 6 لف لـ 4 Juggernaut و2 Hunter، طوّر Caitlyn نجمتين وJuggernaut 2 كوست، وبعدين Econ وبطّأ الرول فوق 50 دهب للـ 3 نجوم.",
             "en": "Rolling without a plan: at level 6 roll for 4 Juggernaut and 2 Hunter, upgrade Caitlyn to 2 stars and a 2-cost Juggernaut, then econ and slow-roll above 50 gold for 3 stars."
           },
           {
