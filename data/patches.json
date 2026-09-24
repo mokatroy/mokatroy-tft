@@ -1,5 +1,479 @@
 [
   {
+    "version": "18.3",
+    "title": {
+      "ar": "باتش 18.3",
+      "en": "Patch 18.3"
+    },
+    "summary": {
+      "ar": "باتش متوسط الحجم متركّز على إحياء تشكيلات الريرول الضعيفة (زي Wolf Bros مع Warwick وMurkwolf) وتعديلات دقيقة على الأبطال بدل التغييرات الكبيرة.",
+      "en": "A medium-sized patch focused on reviving struggling reroll comps (like Wolf Bros with Warwick and Murkwolf) with sharper, more targeted champion changes rather than broad sweeps."
+    },
+    "highlights": {
+      "ar": "باتش 18.3 أصغر وأدق من اللي قبله: بافات واضحة لأبطال الريرول الضعيفة زي Karma وAlistar وWarwick (وWolf Bros بقت خيار لفل 6 حقيقي)، ونيرفات مركّزة على أعلى عتبات الـTraits (Hunter وDefender وInferno وInvoker) بعد ما بقوا قويين زيادة مع الـEmblems. الأوجمنتس القتالية اتباف بشكل عام بعد ما كانت مهمّشة قدام أوجمنتس الإيكونومي، وفي المقابل بعض الـWisps الشائعة اتغلّت شوية بعد تخفيضات الباتش اللي فات.",
+      "en": "Patch 18.3 is smaller and sharper than the last one: clear buffs for struggling reroll champions like Karma, Alistar, and Warwick (Wolf Bros is now a real level-6 option), paired with focused nerfs to the top breakpoints of Hunter, Defender, Inferno, and Invoker after their Emblems made them too strong. Combat Augments got a broad buff after being overshadowed by economy options, while some popular Wisps got pricier again after last patch's cuts."
+    },
+    "changes": [
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Blossom",
+          "en": "Blossom"
+        },
+        "detail": {
+          "ar": "أغلب الـCharms اتقصّت شوية (زي Combust من 22% لـ18%، وMoonlight Ritual بقى تكلفته 3 دهب بدل 2) — التأثير مش هيبان في كل التشكيلات بس هتحس بيه في 2-5 كارمز خلال أي ماتش عادةً.",
+          "en": "Most Charms were trimmed slightly (Combust 22%→18%, Moonlight Ritual now costs 3 gold instead of 2, and more). You'll typically only feel 2-5 of these nerfs in any given game."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "trait",
+        "name": {
+          "ar": "Coven",
+          "en": "Coven"
+        },
+        "detail": {
+          "ar": "مكافآت الـEssence عند الخسارة زادت في أغلب العتبات (18/25/32 بقت 22/28/35) عشان الـTrait ده يبقى مجدي أكتر.",
+          "en": "Loss-Essence generation increased at most breakpoints (18/25/32 became 22/28/35) to bring Coven out of the dark."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Defender",
+          "en": "Defender"
+        },
+        "detail": {
+          "ar": "المقاومات عند أعلى عتبة قلّت من 120 لـ115.",
+          "en": "Resists at the top breakpoint dropped from 120 to 115."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Hunter",
+          "en": "Hunter"
+        },
+        "detail": {
+          "ar": "بونص الـAD عند أعلى عتبة قلّ من 65% لـ60%.",
+          "en": "The AD bonus at the top breakpoint dropped from 65% to 60%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "detail": {
+          "ar": "نسبة الحريق عند أعلى عتبة قلّت من 4.5% لـ4%.",
+          "en": "Burn percentage at the top breakpoint dropped from 4.5% to 4%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "trait",
+        "name": {
+          "ar": "Invoker",
+          "en": "Invoker"
+        },
+        "detail": {
+          "ar": "استعادة المانا عند أعلى عتبة قلّت من 9 لـ8.",
+          "en": "Mana regen at the top breakpoint dropped from 9 to 8."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Karma",
+          "en": "Karma"
+        },
+        "detail": {
+          "ar": "ضرر الانفجار زاد في كل المستويات، خصوصًا عند 3 نجوم (270 قوة سحرية بدل 460→515 عند أعلى مستوى) — أخيرًا بقت تستاهل كـكاري ريرول متوسط اللعبة.",
+          "en": "Explosion damage rose at every level, especially at 3-star — finally deserving her spot as a mid-game reroll carry."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "champion",
+        "name": {
+          "ar": "Ornn",
+          "en": "Ornn"
+        },
+        "detail": {
+          "ar": "بونص Forge Power عند 3 نجوم قلّ (85% بدل 100%)، وعتبة الأرتيفاكت التانية زادت (140,000 بدل 155,000) — كان بيطلّع Artifacts بسرعة زيادة لتشكيلات Solar.",
+          "en": "His 3-star Forge Power bonus dropped (85% from 100%) and the second Artifact threshold rose (140,000 from 155,000) — he was printing Artifacts too fast for Solar comps."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "champion",
+        "name": {
+          "ar": "Veigar",
+          "en": "Veigar"
+        },
+        "detail": {
+          "ar": "الضرر الأساسي للمهارة زاد في كل المستويات، لكن الـAP المكتسب من كل قتلة قلّ (2% بدل 3%) — بقى أقوى شوية كوحدة عادية وأضعف كـكاري سنو بول.",
+          "en": "Base ability damage rose at every level, but AP gained per kill dropped (2% from 3%) — slightly stronger as a filler unit, weaker as a snowballing centerpiece carry."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Alistar",
+          "en": "Alistar"
+        },
+        "detail": {
+          "ar": "العلاج وضرر المهارة زادوا بشكل كبير (العلاج 230/300/400 بدل 200/260/320، والضرر 180/270/420 بدل 100/150/225) — بقى أكتر من مجرد شريط صحة كبير عند 3 نجوم.",
+          "en": "Heal and ability damage both rose significantly (heal 230/300/400, up from 200/260/320; damage 180/270/420, up from 100/150/225) — no longer just a big health bar at 3-star."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Gromp",
+          "en": "Gromp"
+        },
+        "detail": {
+          "ar": "في الشكل السحري، الضرر المستمر زاد (175/265/410 قوة سحرية بدل 160/240/360)، وفي الشكل الفيزيائي سرعة الهجوم والـAD الأساسي زادوا.",
+          "en": "In AP form, damage-over-time rose (175/265/410 AP, from 160/240/360 AP); in AD form, base Attack Speed and AD both increased."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Warwick",
+          "en": "Warwick"
+        },
+        "detail": {
+          "ar": "ضرر المهارة زاد (230/345/535% من الـAD بدل 215/325/500%) والعلاج زاد من 20% لـ25% — رجع كخيار ريرول لفل 6 قوي مع Murkwolf (الـWolf Bros).",
+          "en": "Ability damage rose (230/345/535% AD, from 215/325/500% AD) and healing increased from 20% to 25% — back as a strong level-6 reroll option alongside Murkwolf (the Wolf Bros)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Murkwolf",
+          "en": "Murkwolf"
+        },
+        "detail": {
+          "ar": "ضرر الهجمة المشحونة زاد (65/100/160 من الـAD بدل 60/90/135) — تعويض تاني لدعم كومب الـWolf Bros الجديد مع Warwick.",
+          "en": "Empowered attack damage rose (65/100/160 AD, from 60/90/135 AD) — another push behind the new Wolf Bros pairing with Warwick."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Azir",
+          "en": "Azir"
+        },
+        "detail": {
+          "ar": "ضرر الجنود زاد (46/69/110 قوة سحرية بدل 43/65/103).",
+          "en": "Soldier ability damage rose (46/69/110 AP, from 43/65/103 AP)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Cassiopeia",
+          "en": "Cassiopeia"
+        },
+        "detail": {
+          "ar": "ضرر المهارة زاد (425/630/1020 بدل 400/600/950) — تعويض بعد نيرف Defender اللي كانت بتعتمد عليه كتير.",
+          "en": "Ability damage rose (425/630/1020, from 400/600/950) — compensation after the Defender nerf she relied on heavily."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Rammus",
+          "en": "Rammus"
+        },
+        "detail": {
+          "ar": "الدرع زاد بشكل واضح (400/550/725 بدل 350/450/550).",
+          "en": "His Shield increased noticeably (400/550/725, from 350/450/550)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Lillia",
+          "en": "Lillia"
+        },
+        "detail": {
+          "ar": "العلاج زاد (350/525 قوة سحرية بدل 325/475) — يمكن تنجو لكاست تاني وتفضل في اللعبة كتانك مساندة.",
+          "en": "Healing rose (350/525 AP, from 325/475 AP) — she may now survive for a second cast and stick around as a utility tank."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "champion",
+        "name": {
+          "ar": "Nidalee",
+          "en": "Nidalee"
+        },
+        "detail": {
+          "ar": "في الشكل الفيزيائي: تم إصلاح باج في تجاهل الدرع، وضرر المهارة قلّ (210/315 من الـAD بدل 225/340). في الشكل السحري: ضرر الهجمة التالتة (على أبعد عدو) زاد (330/500 قوة سحرية بدل 300/450).",
+          "en": "In AD form: an Armor Penetration bug was fixed, and ability damage was reduced (210/315 AD, from 225/340 AD). In AP form: her third-attack snipe damage increased (330/500 AP, from 300/450 AP)."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "champion",
+        "name": {
+          "ar": "Lux",
+          "en": "Lux"
+        },
+        "detail": {
+          "ar": "بونص الضرر من Solar عند 3 نجوم زاد من 12% لـ15%.",
+          "en": "Her Solar bonus damage per 3-star rose from 12% to 15%."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "champion",
+        "name": {
+          "ar": "Taric",
+          "en": "Taric"
+        },
+        "detail": {
+          "ar": "قيمة الدرع الأساسية في الباسيف قلّت (75/150 بدل 100/225)، مقابل علاج أكتف أعلى (275/450 قوة سحرية بدل 250/375) — تفضيل واضح لتلعبه بأيتمز AP بدل ما يبقى مجرد تانك.",
+          "en": "His base passive Shield value dropped (75/150, from 100/225), traded for a higher active heal (275/450 AP, from 250/375 AP) — a clear push toward itemizing him with AP rather than playing him as a pure tank."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "item",
+        "name": {
+          "ar": "The Collector",
+          "en": "The Collector"
+        },
+        "detail": {
+          "ar": "بونص الـAD قلّ من 40% لـ35% — لسه قوي جدًا خصوصًا مع Draven وAphelios بس أقل رعب شوية.",
+          "en": "AD bonus dropped from 40% to 35% — still terrifying on Draven and Aphelios, just a little less so."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "item",
+        "name": {
+          "ar": "Statikk Shiv",
+          "en": "Statikk Shiv"
+        },
+        "detail": {
+          "ar": "القوة السحرية الأساسية زادت من 15% لـ25% — بقى خيار أحسن حتى لو نزل متأخر ومش هتلعب Kayle.",
+          "en": "Base Ability Power rose from 15% to 25% — a more appealing pickup even when it drops too late to field Kayle."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "item",
+        "name": {
+          "ar": "Eternal Pact",
+          "en": "Eternal Pact"
+        },
+        "detail": {
+          "ar": "المانا اللي بتديها للتانك مع كل كاست قلّت من 15 لـ10.",
+          "en": "Mana granted to the holding tank per cast dropped from 15 to 10."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "item",
+        "name": {
+          "ar": "Brawler Emblem",
+          "en": "Brawler Emblem"
+        },
+        "detail": {
+          "ar": "الضرر زاد من 2% لـ2.5% من الصحة القصوى — الباف الوحيد بين الـEmblems في الباتش ده.",
+          "en": "Damage rose from 2% to 2.5% of max Health — the one Emblem buff this patch."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "item",
+        "name": {
+          "ar": "Hunter / Invoker / Juggernaut Emblems",
+          "en": "Hunter / Invoker / Juggernaut Emblems"
+        },
+        "detail": {
+          "ar": "الثلاثة اتنزلوا شوية (Hunter AD لكل Takedown من 18% لـ15%، Invoker Mana Regen من 3 لـ2، Juggernaut Mana on Death من 15 لـ10) عشان الـTraits اللي بيفتحوها كانت قوية زيادة.",
+          "en": "All three were trimmed slightly (Hunter's AD-per-takedown 18%→15%, Invoker's mana regen 3→2, Juggernaut's mana-on-death 15→10) since the traits they unlock had become too strong."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "augment",
+        "name": {
+          "ar": "Retribution",
+          "en": "Retribution"
+        },
+        "detail": {
+          "ar": "نسبة الكريتيكال قلّت بشكل كبير من 25% لـ15% بعد ما بقى قوي زيادة مع باف Hand of Justice الباتش اللي فات.",
+          "en": "Critical strike chance dropped sharply from 25% to 15% after last patch's Hand of Justice buff made it overtuned."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Jeweled Lotus I",
+          "en": "Jeweled Lotus I"
+        },
+        "detail": {
+          "ar": "نسبة الكريتيكال زادت من 10% لـ15%.",
+          "en": "Critical strike chance rose from 10% to 15%."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Hold the Line",
+          "en": "Hold the Line"
+        },
+        "detail": {
+          "ar": "بونص الـAD زاد من 9% لـ11%، والـAP من 10% لـ11%.",
+          "en": "AD bonus rose from 9% to 11%, and AP from 10% to 11%."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Challenger's Grace",
+          "en": "Challenger's Grace"
+        },
+        "detail": {
+          "ar": "مدة البونص زادت من 3 لـ4 ثواني.",
+          "en": "Buff duration increased from 3 to 4 seconds."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Shimmerscale Essence",
+          "en": "Shimmerscale Essence"
+        },
+        "detail": {
+          "ar": "تأخير الجولة قلّ من 8 لـ6 (يعني بتوصل للمكافأة أسرع)، والعنصرين الأول والتاني اتغيروا لـGambler's Blade وMogul's Mail.",
+          "en": "Round delay dropped from 8 to 6 (a faster payoff), and its first two items changed to Gambler's Blade and Mogul's Mail."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Spirit of Redemption",
+          "en": "Spirit of Redemption"
+        },
+        "detail": {
+          "ar": "العلاج زاد من 7.5% لـ9%.",
+          "en": "Healing rose from 7.5% to 9%."
+        }
+      },
+      {
+        "type": "buff",
+        "category": "augment",
+        "name": {
+          "ar": "Upward Mobility",
+          "en": "Upward Mobility"
+        },
+        "detail": {
+          "ar": "عدد الريرولز المجانية مع كل لفل زاد من 1 لـ2.",
+          "en": "Free rerolls granted per level-up increased from 1 to 2."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "augment",
+        "name": {
+          "ar": "Early Learnings",
+          "en": "Early Learnings"
+        },
+        "detail": {
+          "ar": "بونص الـAD/AP الأساسي قلّ من 5% لـ3%.",
+          "en": "Baseline AD/AP bonus dropped from 5% to 3%."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "augment",
+        "name": {
+          "ar": "Electrocharge I",
+          "en": "Electrocharge I"
+        },
+        "detail": {
+          "ar": "الضرر حسب المرحلة قلّ (25/40/60/80 بدل 30/50/70/90).",
+          "en": "Per-stage damage dropped (25/40/60/80, from 30/50/70/90)."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "augment",
+        "name": {
+          "ar": "Future Focused",
+          "en": "Future Focused"
+        },
+        "detail": {
+          "ar": "الدهب اللي بيديه قلّ من 8 لـ5، بس بقى بيديك المكافأة بدري (في الجولة 2-7 بدل 3-1).",
+          "en": "The gold it grants dropped from 8 to 5, though it now pays out earlier (round 2-7 instead of 3-1)."
+        }
+      },
+      {
+        "type": "adjust",
+        "category": "augment",
+        "name": {
+          "ar": "Item Extraction",
+          "en": "Item Extraction"
+        },
+        "detail": {
+          "ar": "عدد مرات الاستخراج قلّ من 4 لـ3، لكن بقى بيدّيك Azir إضافي مجاني.",
+          "en": "Number of extractions dropped from 4 to 3, but it now also grants an additional free Azir."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "system",
+        "name": {
+          "ar": "Infinity Protection",
+          "en": "Infinity Protection"
+        },
+        "detail": {
+          "ar": "اتعطّل مؤقتًا بسبب باج.",
+          "en": "Temporarily disabled due to a bug."
+        }
+      },
+      {
+        "type": "nerf",
+        "category": "system",
+        "name": {
+          "ar": "Wisps قتالية شائعة",
+          "en": "Popular combat Wisps"
+        },
+        "detail": {
+          "ar": "بعد ما اتخفضت أسعارها بشكل كبير الباتش اللي فات، دلوقتي بعض الـWisps الأكتر استخدامًا اتغلّت أو ضعفت شوية: Stat Boosters (درع ومقاومة من 10 لـ8، سرعة هجوم من 8% لـ6%)، Blood and Iron (تكلفتها زادت لـ4 دهب)، Combust (ضرر الانفجار من 18% لـ15%)، وThree Me (تكلفتها زادت لـ10 دهب).",
+          "en": "After last patch's broad price cuts, some of the most-picked Wisps got pricier or weaker: Stat Boosters (Armor/MR 10→8, Attack Speed 8%→6%), Blood and Iron (cost up to 4 gold), Combust (explosion damage 18%→15%), and Three Me (cost up to 10 gold)."
+        }
+      }
+    ],
+    "releaseDate": "2026-09-22"
+  },
+  {
     "version": "18.2",
     "title": {
       "ar": "باتش 18.2",
