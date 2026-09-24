@@ -2236,5 +2236,218 @@
         ]
       }
     ]
+  },
+  {
+    "slug": "warwick-wolfbros",
+    "tier": "A",
+    "featured": false,
+    "color": "rgba(140,190,120,.35)",
+    "name": {
+      "ar": "Warwick Wolf Bros",
+      "en": "Warwick Wolf Bros",
+      "ja": "ウォーウィック・ウルフブロス"
+    },
+    "style": {
+      "ar": "أسلوب اللعب: ريرول لفل 6 (سهل)",
+      "en": "Playstyle: Level 6 Reroll (Easy)",
+      "ja": "プレイスタイル：レベル6リロール（初級）"
+    },
+    "summary": {
+      "ar": "ريرول لفل 6 سهل ومستقر رجع بقوة في باتش 18.3 بفضل باف Warwick وMurkwolf، مع Krug وBrambleback كدعم فرونت لاين.",
+      "en": "An easy, stable level-6 reroll that came back strong in patch 18.3 thanks to Warwick and Murkwolf buffs, with Krug and Brambleback holding the frontline.",
+      "ja": "パッチ18.3のバフでWarwickとMurkwolfが復活した、簡単で安定したレベル6リロール。KrugとBramblebackがフロントラインを支えます。"
+    },
+    "guide": {
+      "ar": "الكومب ده رجع بقوة بعد باف باتش 18.3 على Warwick وMurkwolf. الفكرة تلعب اقتصاد هادئ في الاستيدج التاني، تدخل فل 6 بدري، وتلف لحد ما تجيب الاتنين 3 نجوم مع Krug في مربع الـBlackthorn المركزي كتانك رئيسي.",
+      "en": "This comp came back strong after patch 18.3 buffed Warwick and Murkwolf. Play a quiet economy in stage 2, hit level 6 early, and reroll until both hit 3-star, with Krug in the central Blackthorn hex as your main tank.",
+      "ja": "パッチ18.3でWarwickとMurkwolfがバフされ復活した構成。ステージ2は経済重視でプレイし、早めにレベル6に到達、両方が3つ星になるまでリロールしましょう。Krugを中央のBlackthornマスに置きメインタンクにします。"
+    },
+    "traits": [
+      {
+        "name": {
+          "ar": "Blackthorn",
+          "en": "Blackthorn"
+        },
+        "count": 4
+      },
+      {
+        "name": {
+          "ar": "Ravager",
+          "en": "Ravager"
+        },
+        "count": 2
+      }
+    ],
+    "items": [
+      {
+        "ar": "Titan's Resolve",
+        "en": "Titan's Resolve"
+      },
+      {
+        "ar": "Spear of Shojin",
+        "en": "Spear of Shojin"
+      },
+      {
+        "ar": "Hand of Justice",
+        "en": "Hand of Justice"
+      },
+      {
+        "ar": "Sterak's Gage",
+        "en": "Sterak's Gage"
+      }
+    ],
+    "units": [
+      {
+        "name": {
+          "ar": "Rek'Sai",
+          "en": "Rek'Sai"
+        },
+        "cost": 1,
+        "image": "assets/champions/reksai.png"
+      },
+      {
+        "name": {
+          "ar": "Warwick",
+          "en": "Warwick"
+        },
+        "cost": 2,
+        "image": "assets/champions/warwick.png"
+      },
+      {
+        "name": {
+          "ar": "Murkwolf",
+          "en": "Murkwolf"
+        },
+        "cost": 2,
+        "image": "assets/champions/murkwolf.png"
+      },
+      {
+        "name": {
+          "ar": "Azir",
+          "en": "Azir"
+        },
+        "cost": 3,
+        "image": "assets/champions/azir.png"
+      },
+      {
+        "name": {
+          "ar": "Diana",
+          "en": "Diana"
+        },
+        "cost": 3,
+        "image": "assets/champions/diana.png"
+      },
+      {
+        "name": {
+          "ar": "Krug",
+          "en": "Krug"
+        },
+        "cost": 3,
+        "image": "assets/champions/krug.png"
+      },
+      {
+        "name": {
+          "ar": "Brambleback",
+          "en": "Brambleback"
+        },
+        "cost": 4,
+        "image": "assets/champions/brambleback.png"
+      },
+      {
+        "name": {
+          "ar": "Malphite",
+          "en": "Malphite"
+        },
+        "cost": 4,
+        "image": "assets/champions/malphite.png"
+      }
+    ],
+    "sections": [
+      {
+        "title": {
+          "ar": "ليه الكومب ده قوي؟",
+          "en": "Why this comp works"
+        },
+        "body": [
+          {
+            "ar": "باتش 18.3 رجّع الـ Wolf Bros (Warwick وMurkwolf) بالقوة بعد ما كانوا مهمّشين من ساعة الـ PBE. الاتنين اتباوفوا في نفس الباتش: Warwick بقى ضرره وعلاجه أعلى، وMurkwolf بقت هجمته المشحونة أقوى. الفكرة إنك بتعمل ريرول على فل 6 لحد ما تجيب Warwick وMurkwolf 3 نجوم، وبينهم Krug وBrambleback بيسندوا الفرونت والـBlackthorn.",
+            "en": "Patch 18.3 brought the Wolf Bros (Warwick and Murkwolf) back to life after they'd been sidelined since PBE. Both got buffed in the same patch: Warwick's damage and healing went up, and Murkwolf's empowered attack got stronger. The plan is to reroll at level 6 until Warwick and Murkwolf hit 3 stars, with Krug and Brambleback holding the frontline and Blackthorn trait."
+          },
+          {
+            "ar": "مانا Warwick هي مفتاح الكومب: كل ما يهاجم بياخد مانا، فلو حطيت عليه Titan's Resolve وSpear of Shojin هيوصل لسرعة هجوم عالية جدًا مع الوقت. Krug في مربع الـBlackthorn المركزي (تفضّل يكون 3 نجوم) بيدّي إحصائيات إضافية لكل الفريق، وBrambleback بيبقى كاري بديل لو مجاش معاك Murkwolf 3.",
+            "en": "Warwick's mana is the whole engine: every attack grants mana, so Titan's Resolve plus Spear of Shojin lets him ramp to very high Attack Speed over time. Krug in the central Blackthorn hex (ideally 3-star) grants bonus stats to the whole team, and Brambleback becomes your backup carry if Murkwolf 3 doesn't show up."
+          }
+        ]
+      },
+      {
+        "title": {
+          "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
+          "en": "When to play it — and when not to"
+        },
+        "body": [],
+        "bullets": [
+          {
+            "ar": "العبه لو: مش لاقي فتحة قوية لكومب تاني وعايز ريرول سهل ومستقر من غير ما تروح فل عالي.",
+            "en": "Play it if: you don't have a strong opener into another line and want an easy, stable reroll without pushing high levels."
+          },
+          {
+            "ar": "العبه لو: معاك Warwick أو Murkwolf بدري وقادر تعمل Win Streak بيهم في الاستيدج التاني من غير ما تشتري خبرة.",
+            "en": "Play it if: you have an early Warwick or Murkwolf and can win-streak with them in stage 2 without buying XP."
+          },
+          {
+            "ar": "العبه لو: لقيت Titan's Resolve أو Spear of Shojin بدري — دول قلب الكومب وبيفرقوا معاه فرق كبير.",
+            "en": "Play it if: you find Titan's Resolve or Spear of Shojin early — they're the heart of the comp and matter a lot."
+          },
+          {
+            "ar": "متلعبوش لو: Malphite أو Brambleback أو Azir متنافس عليهم بشدة من لاعبين تانيين — الكومب بيعتمد عليهم كفرونت لاين وبدونهم بيضعف كتير.",
+            "en": "Don't play it if: Malphite, Brambleback, or Azir are heavily contested by other players — the comp leans on them as frontline and weakens a lot without them."
+          }
+        ]
+      },
+      {
+        "title": {
+          "ar": "أخطاء شائعة",
+          "en": "Common mistakes"
+        },
+        "body": [],
+        "bullets": [
+          {
+            "ar": "شراء خبرة بدري: من الاستيدج التاني للتالت خلي الدهب يزيد للفايدة، وادخل فل 6 عند 3-2 ولف على Warwick وMurkwolf 2 نجوم.",
+            "en": "Buying XP too early: from stage 2 to 3, let your gold sit for interest, then hit level 6 at 3-2 and roll for a 2-star Warwick and Murkwolf."
+          },
+          {
+            "ar": "الاستمرار في اللف من غير اقتصاد: بعد ما تجيب 2-2، ابني اقتصادك تاني وبعدين ابدأ Slow Roll (فوق 50 دهب) للـ3 نجوم.",
+            "en": "Rolling continuously without rebuilding econ: after hitting 2-2, rebuild your economy first, then slow-roll (above 50 gold) for the 3-stars."
+          },
+          {
+            "ar": "التضحية بوحدة غلط في الـBlackthorn: ضحّي بمقاتل هجومي (Attack Fighter) مش تانك، وحط أقوى وحدة 3 نجوم عندك (يفضل Krug) في المربع المركزي.",
+            "en": "Sacrificing the wrong unit for Blackthorn: sacrifice an Attack Fighter, not a tank, and put your strongest 3-star unit (ideally Krug) in the center hex."
+          }
+        ]
+      }
+    ],
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "متشتريش خبرة خالص في الاستيدج التاني — خلّي الدهب يكبر بالفايدة. لو معاك Warwick أو Murkwolf 2 نجوم أو تقدر تعمل Slam لأيتم قوي، اعمل Win Streak عادي.",
+          "en": "Don't buy any XP in stage 2 — let your gold sit for interest. If you have a 2-star Warwick or Murkwolf, or can slam a strong item, it's fine to win-streak normally."
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "ادخل فل 6 عند الجولة 3-2 ولف لحد ما تجيب Warwick وMurkwolf 2 نجوم. لو الأيتمز الأساسية (Titan's Resolve أو Shojin) مجتش، فكّر تعمل Lose Streak عشان تضمنها من الكاروسيل.",
+          "en": "Hit level 6 at round 3-2 and roll until you find a 2-star Warwick and Murkwolf. If your core items (Titan's Resolve or Shojin) haven't shown up, consider a lose streak to guarantee one on the carousel."
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "ابني اقتصادك تاني وابدأ Slow Roll فوق 50 دهب لـWarwick وMurkwolf 3 نجوم. لو Murkwolf 3 اتأخر، العب Brambleback ككاري تاني، وارفع اللفل بعد ما تخلص.",
+          "en": "Rebuild your economy and slow-roll above 50 gold for a 3-star Warwick and Murkwolf. If Murkwolf 3 is taking too long, play Brambleback as a second carry, and push levels once you're done rolling."
+        }
+      }
+    ]
   }
 ]
