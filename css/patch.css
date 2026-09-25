@@ -8,7 +8,8 @@
 .change-row:first-child{border-top:0;padding-top:0}
 .change-row b{font:700 14px Outfit,Cairo;color:var(--text)}
 .change-row p{margin:4px 0 0;color:var(--muted);font-size:13px;line-height:1.85}
-.change-badge{flex:0 0 auto;font:700 10px Outfit;text-transform:uppercase;letter-spacing:.04em;border-radius:6px;padding:5px 8px;margin-top:2px}
+.change-badge{flex:0 0 auto;font:700 10px Outfit;text-transform:uppercase;letter-spacing:.04em;border-radius:6px;padding:5px 8px;margin-top:2px;display:inline-flex;align-items:center;gap:4px}
+.change-arrow{font-size:11px;line-height:1}
 .change-buff .change-badge{background:rgba(90,200,140,.16);color:#6fe3a4}
 .change-nerf .change-badge{background:rgba(230,90,90,.16);color:#f28b8b}
 .change-adjust .change-badge{background:rgba(233,185,100,.16);color:var(--gold)}
