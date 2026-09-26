@@ -111,13 +111,5 @@ function render() {
 
 search.addEventListener("input", render);
 
-document.querySelectorAll(".lang-toggle").forEach((button) => {
-  button.addEventListener("click", () => {
-    document.documentElement.lang = "en";
-    document.documentElement.dir = "ltr";
-    search.placeholder = "Search…";
-    button.textContent = "عربي";
-  });
-});
-
+setupLanguage(render);
 render();
