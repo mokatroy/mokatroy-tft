@@ -1,3 +1,4 @@
+import {lang,setupLanguage} from "./i18n.js";
 const traitBreakpoints = {
   Riftbeast: "3 / 5 / 7 / 10",
   Juggernaut: "2 / 4 / 6",
@@ -136,7 +137,7 @@ function render() {
   if (!visible) {
     const empty = document.createElement("p");
     empty.className = "empty";
-    empty.textContent = "مفيش نتائج مطابقة.";
+    empty.textContent = lang==="ar" ? "مفيش نتائج مطابقة." : lang==="ja" ? "一致する結果がありません。" : "No matching results.";
     board.appendChild(empty);
   }
 }
