@@ -26,7 +26,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Edge of Night",
+          "image": "assets/items/edgeofnight.png"
+        }
+      ]
     },
     {
       "name": {
@@ -47,7 +61,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Edge of Night",
+          "image": "assets/items/edgeofnight.png"
+        }
+      ]
     },
     {
       "name": {
@@ -72,7 +100,21 @@
         "ar": "أوراق حادة",
         "en": "Summons five razor leaves at the target, dealing 310/465/700% AD + 30/45/70 AP physical damage total and applying Wound and Burn for 4 seconds. Each cast, Cinderling gains 22% Attack Damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -97,7 +139,21 @@
         "ar": "رابطة كارما",
         "en": "Tethers the target for 280/420/630 AP magic damage over 1.5 seconds, then bursts for 125/185/300 AP magic damage to all enemies in a 1-hex radius and Slows them 30% for 2 seconds."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Red Buff",
+          "image": "assets/items/redbuff.png"
+        }
+      ]
     },
     {
       "name": {
@@ -118,7 +174,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -139,7 +209,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     },
     {
       "name": {
@@ -164,7 +248,21 @@
         "ar": "نفخة الكير",
         "en": "Gains a 400/460/550 AP Shield for 4 seconds and deals 200/300/450 AP magic damage in a cone. Blocked damage is stored and eventually converts into an Artifact Anvil."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -189,7 +287,21 @@
         "ar": "الليزر الأزرق",
         "en": "Channels a laser on the target, dealing 160/240/360 AP magic damage each second and reducing their Magic Resist by 3. Gains bonus Mana Regen the longer he channels."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Void Staff",
+          "image": "assets/items/voidstaff.png"
+        }
+      ]
     },
     {
       "name": {
@@ -218,7 +330,21 @@
         "ar": "رقصة الفتنة",
         "en": "Gains a 270/320/415 AP Shield for 4 seconds, then grants the ally who dealt the most damage this combat bonus Ability Power and decaying Attack Speed for 4 seconds."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -243,7 +369,21 @@
         "ar": "الخروج من الأرض",
         "en": "Passive: heals 10/14/20 Health per second, tripled for 3 seconds after casting. Active: lunges out of the ground, Stunning adjacent enemies for 1 second and dealing 70/105/160 AP magic damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -268,7 +408,21 @@
         "ar": "السهم النافذ",
         "en": "Winds up, then fires an arrow through the most enemies in line, dealing 415/625/1000% AD + 30/45/70 AP physical damage, reduced 40% for each enemy it passes through."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -293,7 +447,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Blue Buff",
+          "image": "assets/items/bluebuff.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Hextech Gunblade",
+          "image": "assets/items/hextechgunblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -322,7 +490,21 @@
         "ar": "الريش القاتل",
         "en": "Gains 50% Attack Speed for the next 5 attacks. These attacks are replaced with feathers dealing 68/102/155% AD physical damage and reducing Armor."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        }
+      ]
     },
     {
       "name": {
@@ -351,7 +533,21 @@
         "ar": "الطقوس الأخيرة",
         "en": "Passive: on death, spawns a Spirit Walker that taunts enemies. Active: restores Health and strikes the target, dealing 150/225/340 AP physical damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -376,7 +572,21 @@
         "ar": "الزئير المنتصر",
         "en": "Roars, cleansing disables and healing the two lowest-Health allies for 230/300/400 AP, then slams the target for 180/270/420 AP magic damage and Stuns them for 1.5 seconds."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     },
     {
       "name": {
@@ -401,7 +611,21 @@
         "ar": "ضربة الرأس",
         "en": "Passive: every third attack is replaced with a Headshot dealing 190/285/470% AD + 20/30/45 AP physical damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -422,7 +646,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -447,7 +685,21 @@
         "ar": "فقاعة الجروب",
         "en": "Adaptor (AP): throws a bubble that explodes for 225/340/535 AP magic damage, then deals 175/265/410 AP magic damage over time in a small radius. Adaptor (AD): heavily Slows the target instead."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Hextech Gunblade",
+          "image": "assets/items/hextechgunblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -468,7 +720,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -493,7 +759,21 @@
         "ar": "الصورة المرآة",
         "en": "Passive: after combat, has a chance to duplicate an ally on the board. Active: launches a mirror image dealing 260/390/615 AP magic damage to the target and 100/150/230 AP to nearby enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
+        }
+      ]
     },
     {
       "name": {
@@ -514,7 +794,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
+        },
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
+        }
+      ]
     },
     {
       "name": {
@@ -539,7 +833,21 @@
         "ar": "تقدر تحفر؟",
         "en": "Passive: attacks are replaced by a dance dealing physical damage to all adjacent enemies. Active: burrows underground, gaining Durability and healing 325/400/675 AP over the duration."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -564,7 +872,21 @@
         "ar": "غضب الشمس",
         "en": "Gains a Shield for 4 seconds, then cleaves for 90/135/205 AP magic damage in a cone and strikes for 120/180/270 AP magic damage in a line."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -589,7 +911,21 @@
         "ar": "حاجز الكي",
         "en": "Grants a Shield to himself and a nearby damaged ally for 4 seconds. Both then gain Attack Speed and deal 35/55/80 AP bonus magic damage on their next 3 attacks."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -610,7 +946,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Blue Buff",
+          "image": "assets/items/bluebuff.png"
+        }
+      ]
     },
     {
       "name": {
@@ -635,7 +985,21 @@
         "ar": "فكوك الوحش",
         "en": "Bites the target, dealing 230/345/535% AD physical damage and healing for 25% of the damage dealt. Gains 20% Attack Speed for the rest of combat."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
+        },
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        }
+      ]
     },
     {
       "name": {
@@ -660,7 +1024,21 @@
         "ar": "زراعة الروح",
         "en": "Dashes, then launches an orb at the target dealing 160/240/370% AD physical damage, which splits and hits 2 nearby enemies for 35% of that damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Blue Buff",
+          "image": "assets/items/bluebuff.png"
+        },
+        {
+          "name": "Void Staff",
+          "image": "assets/items/voidstaff.png"
+        },
+        {
+          "name": "Hextech Gunblade",
+          "image": "assets/items/hextechgunblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -689,7 +1067,21 @@
         "ar": "انهض!",
         "en": "Gains 150% Attack Speed and summons 2 soldiers for the next 6 attacks. These attacks are replaced by commands, each dealing 46/69/110 AP magic damage per soldier."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Void Staff",
+          "image": "assets/items/voidstaff.png"
+        },
+        {
+          "name": "Nashor's Tooth",
+          "image": "assets/items/nashorstooth.png"
+        }
+      ]
     },
     {
       "name": {
@@ -710,7 +1102,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Red Buff",
+          "image": "assets/items/redbuff.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Nashor's Tooth",
+          "image": "assets/items/nashorstooth.png"
+        }
+      ]
     },
     {
       "name": {
@@ -739,7 +1145,21 @@
         "ar": "الحاجز الشاحب",
         "en": "Gains a Shield for 2 seconds and sends 6 moonlight orbs among nearby enemies, each dealing 75/115/180 AP magic damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Nashor's Tooth",
+          "image": "assets/items/nashorstooth.png"
+        },
+        {
+          "name": "Kraken's Fury",
+          "image": "assets/items/krakenslayer.png"
+        },
+        {
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
+        }
+      ]
     },
     {
       "name": {
@@ -768,7 +1188,21 @@
         "ar": "الحصاد",
         "en": "Reduces the Magic Resist of the 3 nearest enemies, then drains life from them over 2 seconds, healing 410/485/850 AP and dealing 70/105/170 AP magic damage to each."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -793,7 +1227,21 @@
         "ar": "روح الرعب",
         "en": "Gains bonus resistances and heals 375/475/685 AP Health over 3 seconds, then launches spectral riders at the 3 nearest enemies dealing 80/120/195 AP magic damage and Stunning them."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -814,7 +1262,21 @@
         "ar": "تذوق خوفهم",
         "en": "Leaps to the farthest enemy within range and deals 285/400/580 AP magic damage. If that enemy has no adjacent allies, deals 310/445/660 AP damage instead and gains mana."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Blue Buff",
+          "image": "assets/items/bluebuff.png"
+        },
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Hextech Gunblade",
+          "image": "assets/items/hextechgunblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -843,7 +1305,21 @@
         "ar": "مطر المدفعية",
         "en": "Adaptor (AD): fires acid at the target and the nearest enemy, dealing 145/220/375% AD + 20/30/50 AP physical damage, increased 40% against enemies below 50% Health. Adaptor (AP): the damage becomes a damage-over-time effect."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -868,7 +1344,21 @@
         "ar": "الدحرجة",
         "en": "Passive: on death, splits into two Kruglettes that taunt enemies. Active: gains bonus max Health, then rolls into the target dealing 135/200/335% AD physical damage plus a percentage of their max Health."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -889,7 +1379,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
+        }
+      ]
     },
     {
       "name": {
@@ -910,7 +1414,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -935,7 +1453,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -956,7 +1488,21 @@
         "ar": "الوحشية",
         "en": "Jumps to the lowest-Health-percent enemy within range and stabs them, dealing 255/385/615% AD physical damage, then heals based on their missing Health."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Edge of Night",
+          "image": "assets/items/edgeofnight.png"
+        }
+      ]
     },
     {
       "name": {
@@ -985,7 +1531,21 @@
         "ar": "الشحنة المتفجرة",
         "en": "Attaches an explosive charge to the target for 4 seconds, gaining infinite range and Attack Speed. When it expires, it explodes for 160/240/385% AD physical damage split among nearby enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1010,7 +1570,21 @@
         "ar": "القبضات الغاضبة",
         "en": "Passive: heals a percentage of max Health on attack. Active: heals 200/265/360 AP Health, then gains massive Attack Speed, Durability, and becomes Unstoppable for 3 seconds."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
+        },
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1035,7 +1609,21 @@
         "ar": "قنبلة الروح",
         "en": "Launches a spirit bomb at the spot with the most surrounding enemies within range, dealing 455/685/3500 AP magic damage in a 3-hex radius, reduced the further from the center."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1060,7 +1648,21 @@
         "ar": "نوبة الغضب",
         "en": "Passive: heals and deals magic damage to nearby enemies every second. Active: deals 100/150/2000 AP magic damage to enemies within 2 hexes and Stuns them for 1/1/6 seconds."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Crownguard",
+          "image": "assets/items/crownguard.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1085,7 +1687,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1110,7 +1726,21 @@
         "ar": "هجوم ضوء القمر",
         "en": "Swipes the target 5 times over 2 seconds, each dealing 70/105/850% AD physical damage, then fires a final blast dealing 450/675/5000% AD + 40/60/225 AP physical damage split among nearby enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Kraken's Fury",
+          "image": "assets/items/krakenslayer.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Deathblade",
+          "image": "assets/items/deathblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1131,7 +1761,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1156,7 +1800,21 @@
         "ar": "زوبعة الغابة",
         "en": "Blinks away from the target, dealing 250/375/1200% AD physical damage and gaining Attack Speed. Every 4th cast fires a piercing blast dealing 385/580/2500% AD physical damage through the largest group of enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Kraken's Fury",
+          "image": "assets/items/krakenslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1177,7 +1835,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Protector's Vow",
+          "image": "assets/items/protectorsvow.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1202,7 +1874,21 @@
         "ar": "اللحاء المتحجر",
         "en": "Gains a large Shield for 4 seconds and becomes petrified. When the Shield breaks, unleashes a shockwave dealing magic damage plus a portion of his Armor and Magic Resist to nearby enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1227,7 +1913,21 @@
         "ar": "لعنة الوهن",
         "en": "Passive: gains Omnivamp. Active: fires a dark blast at 3 nearby enemies dealing magic damage and cursing them, then spawns a withering zone that deals damage over time; cursed enemies take extra damage per curse stack."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1252,7 +1952,21 @@
         "ar": "رمي الرمح",
         "en": "Adaptor (AP): gains Attack Speed for 3 attacks that become javelins dealing 170/255/2000 AP magic damage; the third targets the furthest enemy with the fewest items for 330/500 AP damage. Adaptor (AD): transforms into a melee cougar dealing 210/315 AD physical damage per swipe."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1277,7 +1991,21 @@
         "ar": "الضربة القاضية",
         "en": "Passive: gains mana the first time he drops below 40% Health each combat. Active: winds up, healing a large amount, then deals 150/225/5000% AD + a portion of max Health physical damage in a large cone."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Crownguard",
+          "image": "assets/items/crownguard.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1306,7 +2034,21 @@
         "ar": "الموجة الزرقاء",
         "en": "Gains a large Shield for 4 seconds, then slams the ground toward the most enemies, knocking them up and dealing 100/150/3500 AP magic damage plus a Mana Reave effect."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1331,7 +2073,21 @@
         "ar": "النصل المرتد",
         "en": "Throws a crossblade dealing 190/285/1050% AD + 15/20/100 AP physical damage to the target, which bounces between nearby enemies up to 8 times, gaining extra bounces on kill."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1356,7 +2112,21 @@
         "ar": "نداء النجوم",
         "en": "Calls down a star dealing 225/335/1000 AP magic damage. If a star has already hit that target before, calls 3 more stars dealing 100/150/1000 AP each."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1381,7 +2151,21 @@
         "ar": "النمو الجامح",
         "en": "Spawns 2/2/4 plants that attack the nearest enemy 10 times, each attack dealing 35/53/225 AP magic damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1410,7 +2194,21 @@
         "ar": "سقوط القمر",
         "en": "Rains 9 moonshards split among the 3 nearest enemies, each dealing 55/83/500 AP magic damage. If the moon is full, instead crashes it down for a massive 2350/3600/7500 AP magic damage split among all enemies."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
+        },
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1435,7 +2233,21 @@
         "ar": "شق الروح",
         "en": "Fires an arrow through the most enemies in a line, dealing 465/700/1000% AD physical damage (reduced per enemy hit), leaving a trail that deals damage over time and Slows enemies inside it."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Void Staff",
+          "image": "assets/items/voidstaff.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1456,7 +2268,21 @@
         "ar": "الموت الدوّار",
         "en": "Passive: attacks apply a bleed that deals physical damage over 12 seconds. Active: throws two giant axes at the most-bleeding enemy, consuming their bleed for instant damage, then the axes return dealing more damage on the way back."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Kraken's Fury",
+          "image": "assets/items/krakenslayer.png"
+        },
+        {
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
+        },
+        {
+          "name": "Deathblade",
+          "image": "assets/items/deathblade.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1477,7 +2303,21 @@
         }
       ],
       "ability": null,
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1506,7 +2346,21 @@
         "ar": "جين الغضب",
         "en": "Passive: builds Rage over time and on attack. Active: transforms into Mega Gnar, leaping into the largest group of enemies, dealing physical damage, reducing their resistances, and Stunning them. Follows up with Grab n' Throw, hurling an enemy into others for massive physical damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
+        },
+        {
+          "name": "Deathblade",
+          "image": "assets/items/deathblade.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1527,7 +2381,21 @@
         "ar": "بذرة التفجير",
         "en": "Grants a Shield and Damage Amp to several allies for 6 seconds, then deals magic damage to enemies adjacent to them. After 6 casts, also grants those allies stacking Attack Speed."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1552,7 +2420,21 @@
         "ar": "عاصفة نارية",
         "en": "Charges up (gaining Ability Power per Burning enemy), gains a Shield, rushes through enemies dealing magic damage, then unleashes a firestorm dealing a total of 475/715/5000 AP magic damage split among all enemies hit."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Guardbreaker",
+          "image": "assets/items/guardbreaker.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1569,7 +2451,21 @@
         }
       ],
       "ability": null,
-      "specialNote": "Avatar: her chosen aspect can become one of the compatible origins and counts twice for that origin."
+      "specialNote": "Avatar: her chosen aspect can become one of the compatible origins and counts twice for that origin.",
+      "bestItems": [
+        {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
+        },
+        {
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1594,7 +2490,21 @@
         "ar": "ازرع البذور",
         "en": "Passive: after blocking a set amount of damage, a sapling jumps to a nearby enemy dealing magic damage; more saplings spawn on death. Active: deals magic damage to the target and restores Health equal to a portion of their missing Health."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     },
     {
       "name": {
@@ -1619,7 +2529,21 @@
         "ar": "إشعاع الزمرد",
         "en": "Passive: the first time Taric or his paired ally drops below 50% Health, both unleash energy granting nearby allies a 75/150 AP Shield. Active: heals himself for 275/450 AP and empowers his and his paired ally's next 2 attacks with bonus magic damage."
       },
-      "specialNote": null
+      "specialNote": null,
+      "bestItems": [
+        {
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
+        },
+        {
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
+        }
+      ]
     }
   ]
 }
