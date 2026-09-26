@@ -10,7 +10,7 @@
         "ja": "Akali"
       },
       "cost": 1,
-      "image": "assets/champions/akali.png",
+      "image": null,
       "traits": [
         {
           "name": "Inferno",
@@ -919,7 +919,7 @@
         "ja": "Raptor"
       },
       "cost": 3,
-      "image": "assets/champions/raptor.png",
+      "image": null,
       "traits": [
         {
           "name": "Riftbeast",
