@@ -584,7 +584,50 @@
       "en": "Morgana holds utility items. You can tank either Sentinel or Sett. Best emblem is Invoker on Ahri. Late game, cap with Ashe + Alune over Karma.",
       "ja": "Morganaは補助アイテムを持ちます。フロントラインはSentinelかSettでタンクできます。最適なエンブレムはAhriへのInvoker。終盤はKarmaの代わりにAsheとAluneで仕上げましょう。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Invoker",
+          "en": "Invoker"
+        },
+        "count": 4
+      },
+      {
+        "name": {
+          "ar": "Blossom",
+          "en": "Blossom"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Riftbeast",
+          "en": "Riftbeast"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Spellweaver",
+          "en": "Spellweaver"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Vanguard",
+          "en": "Vanguard"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Brawler",
+          "en": "Brawler"
+        },
+        "count": 2
+      }
+    ],
     "items": [
       {
         "ar": "Spear of Shojin",
@@ -823,7 +866,43 @@
       "en": "Consider this as a flex option for a Sivir board if you were already playing around Juggernauts in the midgame. If you get the Juggernaut emblem, you can play 6 Juggernauts. Can also play other 5-cost AD carries like Dragon and Draven.",
       "ja": "中盤からすでにJuggernautsを使っていた場合のSivir盤面へのフレックス選択肢として考えましょう。Juggernautエンブレムを入手すれば6ジャガーノートを編成できます。DragonやDravenなど他の5コストAD キャリーも使えます。Turtle Primalバフを取りましょう。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Juggernaut",
+          "en": "Juggernaut"
+        },
+        "count": 4
+      },
+      {
+        "name": {
+          "ar": "Hunter",
+          "en": "Hunter"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Vanguard",
+          "en": "Vanguard"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Primal",
+          "en": "Primal"
+        },
+        "count": 2
+      }
+    ],
     "items": [
       {
         "ar": "Infinity Edge",
@@ -1061,7 +1140,64 @@
       "en": "Place Krug on the Blackthorn hex. Prioritize Nidalee items over Sivir. Kog'Maw provides free Shred and Sunder. Max cap is dropping Riftbeasts for Gnar + Ashe + Taric. Hunter emblem is excellent on Nidalee.",
       "ja": "KrugはBlackthornのマスに配置しましょう。アイテムはSivirよりNidaleeを優先します。Kog'MawはShredとSunderを無料で提供します。上限編成はRiftbeastを落としてGnar・Ashe・Taricにすることです。HunterエンブレムはNidaleeに最適です。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Riftbeast",
+          "en": "Riftbeast"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Invoker",
+          "en": "Invoker"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Hunter",
+          "en": "Hunter"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Primal",
+          "en": "Primal"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Adaptor",
+          "en": "Adaptor"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Brawler",
+          "en": "Brawler"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Blackthorn",
+          "en": "Blackthorn"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Caustic",
+          "en": "Caustic"
+        },
+        "count": 1
+      }
+    ],
     "items": [
       {
         "ar": "Infinity Edge",
@@ -1300,7 +1436,71 @@
       "en": "Red Buff is BIS on Aphelios but you can also play a Rageblade build. Amumu or Sentinel 2-star can be your main tank (you're often contested, so prioritize whichever you can upgrade). Kog'Maw provides free Shred and Sunder.",
       "ja": "RedBuffがApheliosの最適装備ですが、Rageblade型も選べます。AmumuかSentinelの2つ星をメインタンクにできます（競合しやすいので、先に強化できた方を優先しましょう）。Kog'MawはShredとSunderを無料で提供します。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Caustic",
+          "en": "Caustic"
+        },
+        "count": 1
+      },
+      {
+        "name": {
+          "ar": "Adaptor",
+          "en": "Adaptor"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Primal",
+          "en": "Primal"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Invoker",
+          "en": "Invoker"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Rapidfire",
+          "en": "Rapidfire"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Juggernaut",
+          "en": "Juggernaut"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Vanguard",
+          "en": "Vanguard"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Lunar",
+          "en": "Lunar"
+        },
+        "count": 2
+      }
+    ],
     "items": [
       {
         "ar": "Recurve Bow",
@@ -1539,7 +1739,50 @@
       "en": "The core is Malphite + Azir + 2 Flora Fatalis for healing. You can play Ahri, Zyra, or Ezreal as an additional carry, and Lillia, Amumu, Kennen, or Maokai as supporting frontline.",
       "ja": "核となるのはMalphite＋Azir＋Flora Fatalis2体による回復です。追加キャリーとしてAhri・Zyra・Ezrealを、補助フロントラインとしてLillia・Amumu・Kennen・Maokaiを編成できます。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Summoner",
+          "en": "Summoner"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Executioner",
+          "en": "Executioner"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Flora Fatalis",
+          "en": "Flora Fatalis"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Thornmaiden",
+          "en": "Thornmaiden"
+        },
+        "count": 1
+      },
+      {
+        "name": {
+          "ar": "Eldritch",
+          "en": "Eldritch"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Inferno",
+          "en": "Inferno"
+        },
+        "count": 2
+      }
+    ],
     "items": [
       {
         "ar": "Gargoyle Stoneplate",
@@ -1778,7 +2021,71 @@
       "en": "Ideally, Kha'Zix gains Ravager, then Executioner, then Spellweaver, then Rapidfire with takedowns. You can play a third Executioner, Lux, or Ivern before Alune.",
       "ja": "早期にアイテム付きのKha'Zixがいる場合のみプレイし、Rivalを連鎖させましょう。強化済みのフロントラインタンクでKha'Zixまでの時間を稼ぎます。理想はKha'ZixがRavager→Executioner→Spellweaver→Rapidfireの順にトレイトを得ることです。3体目のExecutioner・Lux・Ivernや、Alune前にもう1体Executionerを編成することもできます。"
     },
-    "traits": [],
+    "traits": [
+      {
+        "name": {
+          "ar": "Elderwood",
+          "en": "Elderwood"
+        },
+        "count": 3
+      },
+      {
+        "name": {
+          "ar": "Defender",
+          "en": "Defender"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Executioner",
+          "en": "Executioner"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Flora Fatalis",
+          "en": "Flora Fatalis"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Lunar",
+          "en": "Lunar"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Spellweaver",
+          "en": "Spellweaver"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Vanguard",
+          "en": "Vanguard"
+        },
+        "count": 2
+      },
+      {
+        "name": {
+          "ar": "Attuned",
+          "en": "Attuned"
+        },
+        "count": 1
+      },
+      {
+        "name": {
+          "ar": "Rival",
+          "en": "Rival"
+        },
+        "count": 1
+      }
+    ],
     "items": [
       {
         "ar": "Edge of Night",
