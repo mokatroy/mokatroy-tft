@@ -1,5 +1,5 @@
 import {itemTooltip,traitTooltip,traitIcon} from "./hover-data.js";
-import {copy,lang,nextLang,currentLocaleUrl} from "./i18n.js";
+import {copy,nextLang,currentLocaleUrl} from "./i18n.js";
 const lang=/\/en(?:\/|$)/.test(location.pathname)?"en":/\/ja(?:\/|$)/.test(location.pathname)?"ja":"ar";
 const labels={
 ar:{title:"التشامبيونز",subtitle:"كل تشامبيونات السيت الحالي مع التكلفة والتريتس والقدرة.",search:"ابحث عن تشامبيون أو Trait…",all:"الكل",cost:"كوست",best:"أفضل 3 Items"},
