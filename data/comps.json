@@ -64,19 +64,23 @@
     "items": [
       {
         "ar": "Infinity Edge",
-        "en": "Infinity Edge"
+        "en": "Infinity Edge",
+        "image": "assets/items/infinityedge.png"
       },
       {
         "ar": "B.F. Sword",
-        "en": "B.F. Sword"
+        "en": "B.F. Sword",
+        "image": "assets/items/bfsword.png"
       },
       {
         "ar": "Sparring Gloves",
-        "en": "Sparring Gloves"
+        "en": "Sparring Gloves",
+        "image": "assets/items/sparringgloves.png"
       },
       {
         "ar": "Giant's Belt",
-        "en": "Giant's Belt"
+        "en": "Giant's Belt",
+        "image": "assets/items/giantsbelt.png"
       }
     ],
     "stages": [
@@ -342,19 +346,18 @@
     "items": [
       {
         "ar": "Guinsoo's Rageblade",
-        "en": "Guinsoo's Rageblade"
+        "en": "Guinsoo's Rageblade",
+        "image": "assets/items/guinsoosrageblade.png"
       },
       {
         "ar": "Last Whisper",
-        "en": "Last Whisper"
-      },
-      {
-        "ar": "Kraken's Fury",
-        "en": "Kraken's Fury"
+        "en": "Last Whisper",
+        "image": "assets/items/lastwhisper.png"
       },
       {
         "ar": "Giant's Belt",
-        "en": "Giant's Belt"
+        "en": "Giant's Belt",
+        "image": "assets/items/giantsbelt.png"
       }
     ],
     "stages": [
@@ -585,19 +588,23 @@
     "items": [
       {
         "ar": "Spear of Shojin",
-        "en": "Spear of Shojin"
+        "en": "Spear of Shojin",
+        "image": "assets/items/spearofshojin.png"
       },
       {
         "ar": "Jeweled Gauntlet",
-        "en": "Jeweled Gauntlet"
+        "en": "Jeweled Gauntlet",
+        "image": "assets/items/jeweledgauntlet.png"
       },
       {
         "ar": "Giant's Belt",
-        "en": "Giant's Belt"
+        "en": "Giant's Belt",
+        "image": "assets/items/giantsbelt.png"
       },
       {
         "ar": "Tear of the Goddess",
-        "en": "Tear of the Goddess"
+        "en": "Tear of the Goddess",
+        "image": "assets/items/tearofthegoddess.png"
       }
     ],
     "stages": [
@@ -820,7 +827,8 @@
     "items": [
       {
         "ar": "Infinity Edge",
-        "en": "Infinity Edge"
+        "en": "Infinity Edge",
+        "image": "assets/items/infinityedge.png"
       },
       {
         "ar": "Warmog's Armor",
@@ -828,11 +836,13 @@
       },
       {
         "ar": "Recurve Bow",
-        "en": "Recurve Bow"
+        "en": "Recurve Bow",
+        "image": "assets/items/recurvebow.png"
       },
       {
         "ar": "B.F. Sword",
-        "en": "B.F. Sword"
+        "en": "B.F. Sword",
+        "image": "assets/items/bfsword.png"
       }
     ],
     "stages": [
@@ -1055,19 +1065,23 @@
     "items": [
       {
         "ar": "Infinity Edge",
-        "en": "Infinity Edge"
+        "en": "Infinity Edge",
+        "image": "assets/items/infinityedge.png"
       },
       {
         "ar": "B.F. Sword",
-        "en": "B.F. Sword"
+        "en": "B.F. Sword",
+        "image": "assets/items/bfsword.png"
       },
       {
         "ar": "Sparring Gloves",
-        "en": "Sparring Gloves"
+        "en": "Sparring Gloves",
+        "image": "assets/items/sparringgloves.png"
       },
       {
         "ar": "Giant's Belt",
-        "en": "Giant's Belt"
+        "en": "Giant's Belt",
+        "image": "assets/items/giantsbelt.png"
       }
     ],
     "stages": [
@@ -1290,19 +1304,23 @@
     "items": [
       {
         "ar": "Recurve Bow",
-        "en": "Recurve Bow"
+        "en": "Recurve Bow",
+        "image": "assets/items/recurvebow.png"
       },
       {
         "ar": "B.F. Sword",
-        "en": "B.F. Sword"
+        "en": "B.F. Sword",
+        "image": "assets/items/bfsword.png"
       },
       {
         "ar": "Sparring Gloves",
-        "en": "Sparring Gloves"
+        "en": "Sparring Gloves",
+        "image": "assets/items/sparringgloves.png"
       },
       {
         "ar": "Chain Vest",
-        "en": "Chain Vest"
+        "en": "Chain Vest",
+        "image": "assets/items/chainvest.png"
       }
     ],
     "stages": [
@@ -1525,19 +1543,23 @@
     "items": [
       {
         "ar": "Gargoyle Stoneplate",
-        "en": "Gargoyle Stoneplate"
+        "en": "Gargoyle Stoneplate",
+        "image": "assets/items/gargoylestoneplate.png"
       },
       {
         "ar": "Tear of the Goddess",
-        "en": "Tear of the Goddess"
+        "en": "Tear of the Goddess",
+        "image": "assets/items/tearofthegoddess.png"
       },
       {
         "ar": "Needlessly Large Rod",
-        "en": "Needlessly Large Rod"
+        "en": "Needlessly Large Rod",
+        "image": "assets/items/needlesslylargerod.png"
       },
       {
         "ar": "Recurve Bow",
-        "en": "Recurve Bow"
+        "en": "Recurve Bow",
+        "image": "assets/items/recurvebow.png"
       }
     ],
     "stages": [
@@ -1760,19 +1782,23 @@
     "items": [
       {
         "ar": "Edge of Night",
-        "en": "Edge of Night"
+        "en": "Edge of Night",
+        "image": "assets/items/edgeofnight.png"
       },
       {
         "ar": "Rabadon's Deathcap",
-        "en": "Rabadon's Deathcap"
+        "en": "Rabadon's Deathcap",
+        "image": "assets/items/rabadonsdeathcap.png"
       },
       {
         "ar": "Hand of Justice",
-        "en": "Hand of Justice"
+        "en": "Hand of Justice",
+        "image": "assets/items/handofjustice.png"
       },
       {
         "ar": "Needlessly Large Rod",
-        "en": "Needlessly Large Rod"
+        "en": "Needlessly Large Rod",
+        "image": "assets/items/needlesslylargerod.png"
       }
     ],
     "stages": [
@@ -2039,19 +2065,18 @@
     "items": [
       {
         "ar": "Guinsoo's Rageblade",
-        "en": "Guinsoo's Rageblade"
-      },
-      {
-        "ar": "Kraken's Fury",
-        "en": "Kraken's Fury"
+        "en": "Guinsoo's Rageblade",
+        "image": "assets/items/guinsoosrageblade.png"
       },
       {
         "ar": "Recurve Bow",
-        "en": "Recurve Bow"
+        "en": "Recurve Bow",
+        "image": "assets/items/recurvebow.png"
       },
       {
         "ar": "Giant's Belt",
-        "en": "Giant's Belt"
+        "en": "Giant's Belt",
+        "image": "assets/items/giantsbelt.png"
       }
     ],
     "stages": [
@@ -2281,19 +2306,23 @@
     "items": [
       {
         "ar": "Titan's Resolve",
-        "en": "Titan's Resolve"
+        "en": "Titan's Resolve",
+        "image": "assets/items/titansresolve.png"
       },
       {
         "ar": "Spear of Shojin",
-        "en": "Spear of Shojin"
+        "en": "Spear of Shojin",
+        "image": "assets/items/spearofshojin.png"
       },
       {
         "ar": "Hand of Justice",
-        "en": "Hand of Justice"
+        "en": "Hand of Justice",
+        "image": "assets/items/handofjustice.png"
       },
       {
         "ar": "Sterak's Gage",
-        "en": "Sterak's Gage"
+        "en": "Sterak's Gage",
+        "image": "assets/items/steraksgage.png"
       }
     ],
     "units": [
