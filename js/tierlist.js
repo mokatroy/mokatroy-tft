@@ -87,10 +87,10 @@ function render() {
 
       const stats = document.createElement("div");
       stats.className = "tooltip-stats";
-      stats.textContent = (itemDetails[item.name] && itemDetails[item.name].stats) || "Stats unavailable";
+      stats.textContent = (itemDetails[item.name] && itemDetails[item.name].stats) || (lang==="ar"?"الإحصائيات غير متاحة":lang==="ja"?"ステータス情報なし":"Stats unavailable");
 
       const effect = document.createElement("p");
-      effect.textContent = (itemDetails[item.name] && itemDetails[item.name].effect) || "Effect details unavailable";
+      effect.textContent = (itemDetails[item.name] && itemDetails[item.name].effect) || (lang==="ar"?"تفاصيل التأثير غير متاحة":lang==="ja"?"効果の詳細はありません":"Effect details unavailable");
 
       tooltip.append(title, stats, effect);
       entry.append(img, name, tooltip);
