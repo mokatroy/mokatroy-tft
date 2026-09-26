@@ -33,3 +33,13 @@ body.traits-page #tier-board .tier-c{--tier-color:#70e000}
 body.traits-page #tier-board .tier-row{grid-template-columns:72px 1fr;min-height:112px;border-width:2px;border-radius:22px;background:rgba(15,17,18,.92)}
 body.traits-page #tier-board .tier-label{font-size:16px}
 @media(max-width:600px){body.traits-page #tier-board .tier-row{grid-template-columns:1fr}body.traits-page #tier-board .tier-label{min-height:35px}}
+
+/* Hover details for tier-list items and traits */
+.tier-entry{position:relative;cursor:pointer}
+.tier-tooltip{position:absolute;z-index:50;left:50%;bottom:calc(100% + 10px);transform:translateX(-50%) translateY(5px);width:245px;padding:12px 13px;border:1px solid rgba(233,185,100,.45);border-radius:10px;background:rgba(8,11,20,.98);box-shadow:0 14px 35px rgba(0,0,0,.45);opacity:0;visibility:hidden;pointer-events:none;transition:opacity .15s,transform .15s}
+.tier-entry:hover .tier-tooltip,.tier-entry:focus-within .tier-tooltip{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0)}
+.tier-tooltip strong{display:block;color:var(--gold);font:800 14px Outfit;margin-bottom:7px}
+.tier-tooltip .tooltip-stats{color:#fff;font:700 12px/1.6 Outfit}
+.tier-tooltip p{color:var(--muted);font:500 11px/1.6 Cairo,Arial,sans-serif;margin:5px 0 0}
+body.traits-page #tier-board .tier-tooltip{width:230px}
+body.traits-page #tier-board .tier-entry{overflow:visible}
