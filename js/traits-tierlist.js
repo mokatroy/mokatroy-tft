@@ -1,4 +1,5 @@
 const traitBreakpoints = {
+  Riftbeast: "3 / 5 / 7 / 10",
   Juggernaut: "2 / 4 / 6",
   Coven: "3 / 4 / 5 / 7",
   Vanguard: "2 / 4 / 6",
@@ -22,6 +23,7 @@ const traitBreakpoints = {
 };
 
 const traitEffects = {
+  Riftbeast: "At 3, use the Alpha Mark to grant a Riftbeast its unique Buff; at 5, every 3 combats your next shop is overrun with Riftbeasts; higher breakpoints add growth and team size.",
   Juggernaut: "Your team gains Durability; Juggernauts gain more.",
   Coven: "Gain Essence when you lose combat.",
   Vanguard: "Vanguards and the team gain defensive bonuses.",
@@ -59,6 +61,7 @@ const data = [
   { name: "Lunar", tier: "A", img: "assets/traits/lunar.png" },
   { name: "Invoker", tier: "A", img: "assets/traits/invoker.png" },
   { name: "Elderwood", tier: "A", img: "assets/traits/elderwood.png" },
+  { name: "Riftbeast", tier: "A", img: "assets/traits/riftbeast.svg" },
   { name: "Ravager", tier: "A", img: "assets/traits/ravager.png" },
   { name: "Blackthorn", tier: "A", img: "assets/traits/blackthorn.png" },
   { name: "Hunter", tier: "A", img: "assets/traits/hunter.png" },
