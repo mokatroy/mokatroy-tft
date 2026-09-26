@@ -1,0 +1,835 @@
+{
+  "set": "18",
+  "patch": "18.3",
+  "source": "TFT Search — current Set 18 listing. Initial database build contains a verified subset of the current augments; performance rankings are intentionally excluded.",
+  "entries": [
+    {
+      "id": "augment-1",
+      "name": "AFK",
+      "rarity": "Silver",
+      "description": "You cannot perform actions for the next 3 rounds. Afterwards, gain 17 gold."
+    },
+    {
+      "id": "augment-2",
+      "name": "Augmented Power",
+      "rarity": "Silver",
+      "description": "Your next augment is one tier higher."
+    },
+    {
+      "id": "augment-3",
+      "name": "Backup Bows",
+      "rarity": "Silver",
+      "description": "Gain a Recurve Bow. After your champions attack 1000 times, get 2 more."
+    },
+    {
+      "id": "augment-4",
+      "name": "Band of Thieves",
+      "rarity": "Silver",
+      "description": "Gain 1 Thief's Gloves."
+    },
+    {
+      "id": "augment-5",
+      "name": "Best Friends I",
+      "rarity": "Silver",
+      "description": "Allies isolated in pairs gain 10% Attack Speed and 9 Armor and Magic Resist at the start of combat."
+    },
+    {
+      "id": "augment-6",
+      "name": "Big Friend I",
+      "rarity": "Silver",
+      "description": "Allies that start combat next to an ally with over 1750 Health gain 10% Durability. Gain a Giant's Belt."
+    },
+    {
+      "id": "augment-7",
+      "name": "Boxing Lessons",
+      "rarity": "Silver",
+      "description": "Your team gains 30 Health for each champion that starts combat in the front row."
+    },
+    {
+      "id": "augment-8",
+      "name": "Branching Out",
+      "rarity": "Silver",
+      "description": "Gain a random Emblem."
+    },
+    {
+      "id": "augment-9",
+      "name": "Branching Out+",
+      "rarity": "Silver",
+      "description": "Gain a random Emblem and a Reforger."
+    },
+    {
+      "id": "augment-10",
+      "name": "Called Shot",
+      "rarity": "Silver",
+      "description": "Set your win streak to +4. Gain 4 gold."
+    },
+    {
+      "id": "augment-11",
+      "name": "Capital Gains I",
+      "rarity": "Silver",
+      "description": "Store gold equal to the interest you earn. On 3-3, gain gold equal to 100% of the stored gold. Gain 1 gold now."
+    },
+    {
+      "id": "augment-12",
+      "name": "Caretaker's Ally",
+      "rarity": "Silver",
+      "description": "Gain a random 2-cost champion now. Gain the same one again every time you level up."
+    },
+    {
+      "id": "augment-13",
+      "name": "Carve a Path",
+      "rarity": "Silver",
+      "description": "Gain a B.F. Sword. After your champions deal 65000 physical damage, gain 2 more."
+    },
+    {
+      "id": "augment-14",
+      "name": "Celestial Blessing I",
+      "rarity": "Silver",
+      "description": "Your team gains 12% Omnivamp."
+    },
+    {
+      "id": "augment-15",
+      "name": "Cognitive Tax",
+      "rarity": "Silver",
+      "description": "Gain 8 gold and 1 XP."
+    },
+    {
+      "id": "augment-16",
+      "name": "Cognitive Tax+",
+      "rarity": "Silver",
+      "description": "Gain 12 gold and 3 XP."
+    },
+    {
+      "id": "augment-17",
+      "name": "Component Buffet",
+      "rarity": "Silver",
+      "description": "Whenever you would get a component, gain a component anvil instead. Gain a random component. The anvil offers 4 choices."
+    },
+    {
+      "id": "augment-18",
+      "name": "Continuous Conjuration",
+      "rarity": "Silver",
+      "description": "Gain a Needlessly Large Rod. After your team deals 42000 magic damage, gain 2 more."
+    },
+    {
+      "id": "augment-19",
+      "name": "Corrosion",
+      "rarity": "Silver",
+      "description": "Enemies in the first two rows lose 4 Armor and Magic Resist every 2 seconds."
+    },
+    {
+      "id": "augment-20",
+      "name": "Crafted Crafting",
+      "rarity": "Silver",
+      "description": "Whenever you craft a completed item, gain 2 rerolls."
+    },
+    {
+      "id": "augment-21",
+      "name": "Eye For An Eye",
+      "rarity": "Silver",
+      "description": "For every 15 ally champions that die, gain a random component (max 3)."
+    },
+    {
+      "id": "augment-22",
+      "name": "Eye For An Eye+",
+      "rarity": "Silver",
+      "description": "Gain a random component. For every 18 ally champions that die, gain another component (max 2)."
+    },
+    {
+      "id": "augment-23",
+      "name": "Feeling Lucky",
+      "rarity": "Silver",
+      "description": "Gain 12 gold, then flip a coin. If heads, gain 4 more gold."
+    },
+    {
+      "id": "augment-24",
+      "name": "Find Your Center",
+      "rarity": "Silver",
+      "description": "Your champion that starts combat in the center of the front row gains 15% Damage Amp and 25% max Health."
+    },
+    {
+      "id": "augment-25",
+      "name": "Firesale",
+      "rarity": "Silver",
+      "description": "Each round, steal a random 3-cost or lower champion from the shop. Gain 1 gold."
+    },
+    {
+      "id": "augment-26",
+      "name": "Flame On",
+      "rarity": "Silver",
+      "description": "Your 1 and 2-cost Inferno champions gain 0.2 Attack Damage and Ability Power. The one who did the most damage last combat gains double. Gain a Varus and an Akali."
+    },
+    {
+      "id": "augment-27",
+      "name": "Flowing Tears",
+      "rarity": "Silver",
+      "description": "Gain a Tear of the Goddess. After your champions spend 6500 Mana, gain 2 more."
+    },
+    {
+      "id": "augment-28",
+      "name": "Focused Fire",
+      "rarity": "Silver",
+      "description": "Your team gains 10% Attack Damage. Every 5 seconds, they gain 5% more."
+    },
+    {
+      "id": "augment-29",
+      "name": "Forge a Friend",
+      "rarity": "Silver",
+      "description": "The next 1-cost champion you buy is 3-star. Gain 5 gold."
+    },
+    {
+      "id": "augment-30",
+      "name": "Future Focused",
+      "rarity": "Silver",
+      "description": "Your Tactician loses 20 Health, but after 5 player combats, gain 3 4-cost champions and 8 gold."
+    },
+    {
+      "id": "augment-31",
+      "name": "Glass Cannon I",
+      "rarity": "Silver",
+      "description": "Allies that start combat in the back row begin combat at 80% Health but gain 16% Damage Amp."
+    },
+    {
+      "id": "augment-32",
+      "name": "Good For Something I",
+      "rarity": "Silver",
+      "description": "Champions that aren't holding items have a 40% chance to drop 1 gold on death."
+    },
+    {
+      "id": "augment-33",
+      "name": "Group Hug I",
+      "rarity": "Silver",
+      "description": "Combat start: Champions grant other adjacent champions 6 Armor and Magic Resist. This effect stacks."
+    },
+    {
+      "id": "augment-34",
+      "name": "Pandora's Items I",
+      "rarity": "Silver",
+      "description": "Round start: items on your bench are randomized. Gain 1 random component."
+    },
+    {
+      "id": "augment-35",
+      "name": "Partial Ascension",
+      "rarity": "Silver",
+      "description": "After 12 seconds of combat, your units gain 20% Damage Amp."
+    },
+    {
+      "id": "augment-36",
+      "name": "Patience Is A Virtue",
+      "rarity": "Silver",
+      "description": "Gain 4 rerolls now. Each round, gain 1 free reroll if you did not buy a champion last round."
+    },
+    {
+      "id": "augment-37",
+      "name": "Placebo",
+      "rarity": "Silver",
+      "description": "Your team gains 1% Attack Speed. Gain 8 gold."
+    },
+    {
+      "id": "augment-38",
+      "name": "Placebo+",
+      "rarity": "Silver",
+      "description": "Your team gains 1% Attack Speed. Gain 14 gold."
+    },
+    {
+      "id": "augment-39",
+      "name": "Pocket Recombobulator",
+      "rarity": "Silver",
+      "description": "Get 2 Pocket Recombobulators, a consumable that transforms a 1 or 2-cost champion into one of a higher cost. They keep their Star level. Also receive 2 Reforgers."
+    },
+    {
+      "id": "augment-40",
+      "name": "Preparation I",
+      "rarity": "Silver",
+      "description": "Champions on your bench permanently gain 30 Health, 3% Attack Damage, and 3% Ability Power every round. Champions start with 1 stack of this effect, and can stack up to 4 times."
+    },
+    {
+      "id": "augment-41",
+      "name": "Quick Streaks",
+      "rarity": "Silver",
+      "description": "You gain twice as much progress towards win and loss streaks. Gain 2 gold."
+    },
+    {
+      "id": "augment-42",
+      "name": "Reroll Transfer",
+      "rarity": "Silver",
+      "description": "For every 1 unused Augment Reroll, gain 3 free shop rerolls. Gain 1 gold. Does not include the round this augment is selected."
+    },
+    {
+      "id": "augment-43",
+      "name": "Residual Magic",
+      "rarity": "Silver",
+      "description": "Your team gains 60 Health. Each time you purchase a Wisp, increase this by 10. After 10 seconds of combat, your team heals 40% of their missing Health."
+    },
+    {
+      "id": "augment-44",
+      "name": "Silver Destiny",
+      "rarity": "Silver",
+      "description": "Gain a random Silver Augment and 2 gold."
+    },
+    {
+      "id": "augment-45",
+      "name": "Silver Destiny+",
+      "rarity": "Silver",
+      "description": "Gain a random Silver Augment and 4 gold."
+    },
+    {
+      "id": "augment-46",
+      "name": "Silver Destiny++",
+      "rarity": "Silver",
+      "description": "Gain a random Silver Augment and 7 gold."
+    },
+    {
+      "id": "augment-47",
+      "name": "Silver Spoon",
+      "rarity": "Silver",
+      "description": "Gain 10 XP."
+    },
+    {
+      "id": "augment-48",
+      "name": "Size Matters",
+      "rarity": "Silver",
+      "description": "Gain a Giant's Belt. After a champion starts combat with more than max Health, gain a Warmog's Armor."
+    },
+    {
+      "id": "augment-49",
+      "name": "Slice of Life",
+      "rarity": "Silver",
+      "description": "Twice per stage, gain a random champion. Its cost increases by Stage. This effect ends after receiving 1 5-cost champion."
+    },
+    {
+      "id": "augment-50",
+      "name": "Slightly Magic Roll",
+      "rarity": "Silver",
+      "description": "Roll a die. Gain rewards based on the number rolled."
+    },
+    {
+      "id": "augment-51",
+      "name": "Small Grab Bag",
+      "rarity": "Silver",
+      "description": "Gain 2 random item components."
+    },
+    {
+      "id": "augment-52",
+      "name": "Stand United",
+      "rarity": "Silver",
+      "description": "Your units gain 1.5% Attack Damage and 1.5% Ability Power for each non-unique Trait active across your team."
+    },
+    {
+      "id": "augment-53",
+      "name": "Survivor",
+      "rarity": "Silver",
+      "description": "Gain 4 gold. After 3 players are eliminated, gain 100 more gold."
+    },
+    {
+      "id": "augment-54",
+      "name": "Team Building",
+      "rarity": "Silver",
+      "description": "Gain a Lesser Champion Duplicator. Gain another after 5 player combats. This item allows you to copy a 3-cost or less champion."
+    },
+    {
+      "id": "augment-55",
+      "name": "The Tower",
+      "rarity": "Silver",
+      "description": "Gain a giant Training Dummy. Every 4 seconds, it zaps the 3 nearest enemies dealing 5% max Health true damage."
+    },
+    {
+      "id": "augment-56",
+      "name": "Wisp Rebate+",
+      "rarity": "Silver",
+      "description": "Each time you purchase a Wisp, gain 2 gold. Gain 8 gold now."
+    },
+    {
+      "id": "augment-57",
+      "name": "Young and Wild and Free",
+      "rarity": "Silver",
+      "description": "You can always move freely on Carousel rounds. Gain 5 gold."
+    },
+    {
+      "id": "augment-58",
+      "name": "A Magic Roll",
+      "rarity": "Gold",
+      "description": "Roll 3 dice. Gain rewards based on their total."
+    },
+    {
+      "id": "augment-59",
+      "name": "A Story of Seven Gold",
+      "rarity": "Gold",
+      "description": "Collect Golden Balls by defeating players in combat. Collect all 7 for a reward, then restart the quest with more powerful rewards. Gain a 2-star 1-cost champion to start your journey."
+    },
+    {
+      "id": "augment-60",
+      "name": "Advanced Loan",
+      "rarity": "Gold",
+      "description": "Gain 20 Gold. Your next augment is one tier lower."
+    },
+    {
+      "id": "augment-61",
+      "name": "Advanced Loan+",
+      "rarity": "Gold",
+      "description": "Gain 33 Gold. Your next augment is one tier lower."
+    },
+    {
+      "id": "augment-62",
+      "name": "Aim For The Top!",
+      "rarity": "Gold",
+      "description": "You are more likely to fight stronger players, and you know who you will fight. When you lose, gain 2 XP. After your first win and every 3 wins after, gain a component."
+    },
+    {
+      "id": "augment-63",
+      "name": "All That Shimmers",
+      "rarity": "Gold",
+      "description": "Choose a gold-generating Artifact item and gain a Magnetic Remover."
+    },
+    {
+      "id": "augment-64",
+      "name": "Another One!",
+      "rarity": "Gold",
+      "description": "The next completed item you make grants an additional copy of it. Gain 5 gold now."
+    },
+    {
+      "id": "augment-65",
+      "name": "Arcane Viktor-y",
+      "rarity": "Gold",
+      "description": "After 8 seconds of combat, stun the enemy team for 1.5 seconds. Repeat this after 18 seconds of combat."
+    },
+    {
+      "id": "augment-66",
+      "name": "Ascension",
+      "rarity": "Gold",
+      "description": "After 12 seconds of combat, your units gain 35% Damage Amp."
+    },
+    {
+      "id": "augment-67",
+      "name": "Aura Farming",
+      "rarity": "Gold",
+      "description": "Gain a 2-star 5-cost champion holding a recommended item. You cannot field it until Stage 4-3."
+    },
+    {
+      "id": "augment-68",
+      "name": "Backline Blueprint",
+      "rarity": "Gold",
+      "description": "Gain a 3-cost non-Tank champion and an Emblem that matches their class."
+    },
+    {
+      "id": "augment-69",
+      "name": "Beast Within",
+      "rarity": "Gold",
+      "description": "Primal grants an additional Blessing. Gain a Vi now and a Nidalee after 3 rounds."
+    },
+    {
+      "id": "augment-70",
+      "name": "Beast Within+",
+      "rarity": "Gold",
+      "description": "Primal grants an additional Blessing. Gain a Vi and a Nidalee."
+    },
+    {
+      "id": "augment-71",
+      "name": "Big Grab Bag",
+      "rarity": "Gold",
+      "description": "Gain 3 random components, 2 gold, and 1 Reforger."
+    },
+    {
+      "id": "augment-72",
+      "name": "Birthday Reunion",
+      "rarity": "Gold",
+      "description": "Gain a random 2-star 2-cost champion. At Level 6, gain a random item component. At Level 9, gain a random 2-star 5-cost champion."
+    },
+    {
+      "id": "augment-73",
+      "name": "Blood Offering",
+      "rarity": "Gold",
+      "description": "Gain a Bloodthirster. Combat start: Allies holding Bloodthirsters lose 15% Health but gain a 20% Health shield and 12% Attack Damage and Ability Power."
+    },
+    {
+      "id": "augment-74",
+      "name": "Blood Rage",
+      "rarity": "Gold",
+      "description": "Your allies gain 12-25% Damage Amp based on their missing Health. Maximum Damage Amp gained at 30% Health."
+    },
+    {
+      "id": "augment-75",
+      "name": "Cybernetic Uplink",
+      "rarity": "Gold",
+      "description": "Your champions holding an item gain 100 Health and 2 Mana Regen. Gain a Tear of the Goddess."
+    },
+    {
+      "id": "augment-76",
+      "name": "Dark Ritual",
+      "rarity": "Gold",
+      "description": "Converting Coven Essence to rewards grants Coven champions Ability Power instead of loot. Gain a Camille, an Elise, and a Caitlyn."
+    },
+    {
+      "id": "augment-77",
+      "name": "Double Trouble",
+      "rarity": "Gold",
+      "description": "When you field exactly 2 copies of a champion, they both gain 30% Attack Damage and 30% Ability Power, Armor, and Magic Resist. When you 3-star, gain a 2-star copy."
+    },
+    {
+      "id": "augment-78",
+      "name": "Duo Queue",
+      "rarity": "Gold",
+      "description": "Gain 2 random 5-cost champions and 2 copies of a random component."
+    },
+    {
+      "id": "augment-79",
+      "name": "Embiggen",
+      "rarity": "Gold",
+      "description": "Fae pixies are now larger and grant 50% more Attack Damage and Ability Power. Fae champions gain 10% Attack Damage and Ability Power immediately. Gain a Xayah and a Rakan."
+    },
+    {
+      "id": "augment-80",
+      "name": "Epic Rolldown",
+      "rarity": "Gold",
+      "description": "When you reach Level 8, gain 20 Shop rerolls."
+    },
+    {
+      "id": "augment-81",
+      "name": "Epoch",
+      "rarity": "Gold",
+      "description": "Now, and at the start of every stage, gain 4 XP and 2 free rerolls."
+    },
+    {
+      "id": "augment-82",
+      "name": "Exclusive Customization",
+      "rarity": "Gold",
+      "description": "Gain a Lucky Item Chest, a Magnetic Remover and 7 gold."
+    },
+    {
+      "id": "augment-83",
+      "name": "Exiles II",
+      "rarity": "Gold",
+      "description": "Your champions that start combat with no adjacent champions gain a 30% max Health shield for 10 seconds."
+    },
+    {
+      "id": "augment-84",
+      "name": "Feed the Flames",
+      "rarity": "Gold",
+      "description": "Gain a Sunfire Cape. Your team gains 12% Omnivamp when attacking Burning enemies."
+    },
+    {
+      "id": "augment-85",
+      "name": "FOURcing",
+      "rarity": "Gold",
+      "description": "Gain a random 4-cost champion. For each item equipped to that champion, your team gains 100 Health."
+    },
+    {
+      "id": "augment-86",
+      "name": "Frontline Foundation",
+      "rarity": "Gold",
+      "description": "Gain a 2-star 1-cost Tank champion and an Emblem that matches their class."
+    },
+    {
+      "id": "augment-87",
+      "name": "Gilded Steel",
+      "rarity": "Gold",
+      "description": "Gain two 5-cost champions. If you field at least one 5-cost champion, your 1 to 4-cost champions gain 8% Durability."
+    },
+    {
+      "id": "augment-88",
+      "name": "Glass Cannon II",
+      "rarity": "Gold",
+      "description": "Allies that start combat in the back row begin combat at 80% Health but gain 25% Damage Amp."
+    },
+    {
+      "id": "augment-89",
+      "name": "Gold Destiny",
+      "rarity": "Gold",
+      "description": "Gain a random Gold Augment and 3 gold."
+    },
+    {
+      "id": "augment-90",
+      "name": "Gold For Dummies",
+      "rarity": "Gold",
+      "description": "Gain a Training Dummy. Every 10 seconds, all Training Dummies grant 1 gold."
+    },
+    {
+      "id": "augment-91",
+      "name": "Infinity Protection",
+      "rarity": "Gold",
+      "description": "Gain 3 gold now. On Stage 3-7, gain an Infinity Force. Infinity Force gives allies in the same row a 12% Health shield."
+    },
+    {
+      "id": "augment-92",
+      "name": "Know Your Enemy",
+      "rarity": "Gold",
+      "description": "You can see who you will fight next. Your team gains 8% Damage Amp, increased to 15% if you and your opponent have any of the same traits active."
+    },
+    {
+      "id": "augment-93",
+      "name": "Late Game Scaling",
+      "rarity": "Gold",
+      "description": "Gain 2 XP at the start of player combat rounds. Your 5-cost champions gain 12% Health and 12% Attack Speed."
+    },
+    {
+      "id": "augment-94",
+      "name": "Last Second Save",
+      "rarity": "Gold",
+      "description": "The first time each ally falls below 35% Health, they restore 20% maximum Health."
+    },
+    {
+      "id": "augment-95",
+      "name": "Portable Forge",
+      "rarity": "Gold",
+      "description": "Choose 1 of 4 Artifacts. Artifacts are more powerful items with a unique effect."
+    },
+    {
+      "id": "augment-96",
+      "name": "Preparation II",
+      "rarity": "Gold",
+      "description": "Champions on your bench permanently gain 50 Health, 5% Attack Damage, and 5% Ability Power every round. Champions start with 1 stack of this effect, and can stack up to 4 times."
+    },
+    {
+      "id": "augment-97",
+      "name": "Prizefighter",
+      "rarity": "Gold",
+      "description": "Gain 2 item components. Every 5 wins gives you an item component."
+    },
+    {
+      "id": "augment-98",
+      "name": "Promised Protection",
+      "rarity": "Gold",
+      "description": "Gain a Protector's Vow. Protector's Vow grants its holder 20% additional Mana from all sources and 200 max Health."
+    },
+    {
+      "id": "augment-99",
+      "name": "Psychic Forge",
+      "rarity": "Gold",
+      "description": "Round start Completed Items on benched champions turn into one of their recommended items. Gain a random completed item."
+    },
+    {
+      "id": "augment-100",
+      "name": "Pumping Up II",
+      "rarity": "Gold",
+      "description": "Your team gains 10% Attack Speed. After each round, they gain 1% more."
+    },
+    {
+      "id": "augment-101",
+      "name": "Pyromaniac",
+      "rarity": "Gold",
+      "description": "Gain a Red Buff. Your Burns deal 50% increased damage."
+    },
+    {
+      "id": "augment-102",
+      "name": "Quiet Quitting",
+      "rarity": "Gold",
+      "description": "For the next 3 player combats, you cannot use your shop. After, gain 24 gold and a Completed Item Anvil."
+    },
+    {
+      "id": "augment-103",
+      "name": "Raining Gold",
+      "rarity": "Gold",
+      "description": "Gain 7 gold now and 1 gold every round."
+    },
+    {
+      "id": "augment-104",
+      "name": "ReinFOURcement",
+      "rarity": "Gold",
+      "description": "The next 4-cost champion you buy with gold is instantly upgraded to 2-star. Gain 7 gold."
+    },
+    {
+      "id": "augment-105",
+      "name": "Spreading Roots",
+      "rarity": "Gold",
+      "description": "Gain random Emblems. After 3 combats, gain another."
+    },
+    {
+      "id": "augment-106",
+      "name": "Staffsmith",
+      "rarity": "Gold",
+      "description": "Gain 2 random completed items that build from Needlessly Large Rod."
+    },
+    {
+      "id": "augment-107",
+      "name": "Stars Are Born",
+      "rarity": "Gold",
+      "description": "The first 1-cost and 2-cost champions you buy are instantly upgraded to 2-star. Gain 7 gold."
+    },
+    {
+      "id": "augment-108",
+      "name": "Sun and Moon",
+      "rarity": "Gold",
+      "description": "Your Lunar champions gain 100 Health and 8% Damage Amp for each unique Solar champion fielded. Gain a Leona, a Kayle, and a Diana."
+    },
+    {
+      "id": "augment-109",
+      "name": "Sunfire Board",
+      "rarity": "Gold",
+      "description": "Combat Start: Burn all enemies for 18% of their max Health over 18 seconds and reduce healing received by 33%."
+    },
+    {
+      "id": "augment-110",
+      "name": "Swordsmith",
+      "rarity": "Gold",
+      "description": "Gain 2 random completed items that build from B.F. Sword."
+    },
+    {
+      "id": "augment-111",
+      "name": "Verticality II",
+      "rarity": "Gold",
+      "description": "Champions gain 2% Attack Damage, 2% Ability Power, Armor, and Magic Resist for each ally that shares a trait with them."
+    },
+    {
+      "id": "augment-112",
+      "name": "Warpath",
+      "rarity": "Gold",
+      "description": "Gain a 2-star 2-cost champion. After dealing 80 player damage, gain a chest of high cost champions and items."
+    },
+    {
+      "id": "augment-113",
+      "name": "Woven Magic",
+      "rarity": "Gold",
+      "description": "Gain a random item component. Every 2200 Mana spent by your champions grants an additional component."
+    },
+    {
+      "id": "augment-114",
+      "name": "You Have My Bow",
+      "rarity": "Gold",
+      "description": "Gain a Recurve Bow. Your team gains 12% Attack Speed."
+    },
+    {
+      "id": "augment-115",
+      "name": "An Exalted Adventure",
+      "rarity": "Prismatic",
+      "description": "Gain three 2-cost champions. If you 3-star two of them, gain an orb filled with loot. Gain a Lesser Champion Duplicator at the start of next 2 stages."
+    },
+    {
+      "id": "augment-116",
+      "name": "At What Cost",
+      "rarity": "Prismatic",
+      "description": "Immediately go to level 6 and gain 8 XP. You don't get to choose your future augments."
+    },
+    {
+      "id": "augment-117",
+      "name": "Band of Thieves II",
+      "rarity": "Prismatic",
+      "description": "Gain 2 Thief's Gloves. After 5 player combats, gain another."
+    },
+    {
+      "id": "augment-118",
+      "name": "Level Up!",
+      "rarity": "Prismatic",
+      "description": "When you buy XP, gain an additional 2. Gain 6 immediately."
+    },
+    {
+      "id": "augment-119",
+      "name": "Living Forge",
+      "rarity": "Prismatic",
+      "description": "Gain an Artifact Anvil now and after every 10 player combats."
+    },
+    {
+      "id": "augment-120",
+      "name": "Lucky Gloves",
+      "rarity": "Prismatic",
+      "description": "Thief's Gloves will always give your champions ideal items. Gain 2 Sparring Gloves and gold."
+    },
+    {
+      "id": "augment-121",
+      "name": "Luxury Subscription",
+      "rarity": "Prismatic",
+      "description": "Gain a package containing a 5-cost champion, a 2-star 1-cost champion, and 3 gold. At the start of the next 2 stages, gain the package again."
+    },
+    {
+      "id": "augment-122",
+      "name": "Master of All Origins",
+      "rarity": "Prismatic",
+      "description": "Open an armory and choose one of 3 traits. Gain a Lux with that trait and a Spear of Shojin. Traits on your board are more likely to appear in the armory. Lux provides +2 to her chosen trait."
+    },
+    {
+      "id": "augment-123",
+      "name": "Min-Max",
+      "rarity": "Prismatic",
+      "description": "Gain a Golden Item Remover and 4 random components."
+    },
+    {
+      "id": "augment-124",
+      "name": "Money Monsoon",
+      "rarity": "Prismatic",
+      "description": "Gain 7 gold now and every round for the rest of the game."
+    },
+    {
+      "id": "augment-125",
+      "name": "Nesting Anvils",
+      "rarity": "Prismatic",
+      "description": "Gain an Artifact Anvil. After you open it, gain a Component Anvil. After you open that, gain 4 gold."
+    },
+    {
+      "id": "augment-126",
+      "name": "Nesting Anvils+",
+      "rarity": "Prismatic",
+      "description": "Gain an Artifact Anvil. After you open it, gain a Component Anvil. After you open that, gain 8 gold."
+    },
+    {
+      "id": "augment-127",
+      "name": "Nesting Dolls",
+      "rarity": "Prismatic",
+      "description": "After a champion dies in combat, spawn a copy of them one star level lower with 60% health. Gain 3 free rerolls."
+    },
+    {
+      "id": "augment-128",
+      "name": "New Recruit",
+      "rarity": "Prismatic",
+      "description": "Gain +1 max team size and 1 four-cost champion."
+    },
+    {
+      "id": "augment-129",
+      "name": "New Recruit+",
+      "rarity": "Prismatic",
+      "description": "Gain +1 max team size and 2 four-cost champions."
+    },
+    {
+      "id": "augment-130",
+      "name": "Nine Lives",
+      "rarity": "Prismatic",
+      "description": "Set your current and max player Health to 9. On combat loss, you only lose 1 health and gain loot. You can't gain health."
+    },
+    {
+      "id": "augment-131",
+      "name": "One Buff Two Buff",
+      "rarity": "Prismatic",
+      "description": "Gain a Red Buff, a Blue Buff, and a Champion Duplicator."
+    },
+    {
+      "id": "augment-132",
+      "name": "Pandora's Items III",
+      "rarity": "Prismatic",
+      "description": "Round start: items on your bench are randomized. Gain 1 Radiant item."
+    },
+    {
+      "id": "augment-133",
+      "name": "Prismatic Destiny",
+      "rarity": "Prismatic",
+      "description": "Gain a random Prismatic Augment and 4 gold."
+    },
+    {
+      "id": "augment-134",
+      "name": "Prismatic Ticket",
+      "rarity": "Prismatic",
+      "description": "Each time your shop is rerolled you have a 45% chance to gain a free reroll."
+    },
+    {
+      "id": "augment-135",
+      "name": "Pumping Up III",
+      "rarity": "Prismatic",
+      "description": "Your team gains 16% Attack Speed. After each round, they gain 2% more."
+    },
+    {
+      "id": "augment-136",
+      "name": "Quality Over Quantity",
+      "rarity": "Prismatic",
+      "description": "Champions holding exactly 1 item upgrade that item to Radiant. Champions holding Radiant items gain 7% Health. Gain 2 Magnetic Removers."
+    },
+    {
+      "id": "augment-137",
+      "name": "Radiant Rascal",
+      "rarity": "Prismatic",
+      "description": "Gain a Radiant Thief's Gloves item. This equips 2 random Radiant items every round."
+    },
+    {
+      "id": "augment-138",
+      "name": "Radiant Refactor",
+      "rarity": "Prismatic",
+      "description": "Gain a Masterwork Upgrade and 1 component anvil. Masterwork Upgrade upgrades an item to Radiant."
+    }
+  ]
+}
