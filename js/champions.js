@@ -1,5 +1,5 @@
 import {itemTooltip,traitTooltip,traitIcon} from "./hover-data.js";
-import {copy,nextLang,currentLocaleUrl} from "./i18n.js";
+import {copy,setupLanguage} from "./i18n.js";
 const lang=/\/en(?:\/|$)/.test(location.pathname)?"en":/\/ja(?:\/|$)/.test(location.pathname)?"ja":"ar";
 const labels={
 ar:{title:"التشامبيونز",subtitle:"كل تشامبيونات السيت الحالي مع التكلفة والتريتس والقدرة.",search:"ابحث عن تشامبيون أو Trait…",all:"الكل",cost:"كوست",best:"أفضل 3 Items"},
@@ -44,5 +44,4 @@ function closeModal(){modal.classList.remove("open");modal.innerHTML="";}
 search.addEventListener("input",e=>{query=e.target.value;render();});
 
 fetch("data/champions.json").then(r=>r.json()).then(d=>{champions=d.champions;render();});
-apply();
-document.querySelectorAll(".lang-toggle").forEach(b=>b.addEventListener("click",()=>location.assign(currentLocaleUrl(nextLang()))));
+setupLanguage(apply);
