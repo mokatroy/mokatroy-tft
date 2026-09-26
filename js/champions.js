@@ -9,7 +9,7 @@ let champions=[],cost="All",query="";
 const grid=document.querySelector("#champ-grid"),search=document.querySelector("#champ-search"),filters=document.querySelector("#cost-filters");
 let modal=document.querySelector("#champ-modal");
 if(!modal){modal=document.createElement("div");modal.id="champ-modal";modal.className="champ-modal";document.body.appendChild(modal);}
-function apply(){const L=labels[lang]||labels.en;document.documentElement.lang=lang;document.documentElement.dir=lang==="ar"?"rtl":"ltr";document.querySelector("#title").textContent=L.title;document.querySelector("#subtitle").textContent=L.subtitle;search.placeholder=L.search;document.querySelector(".lang-toggle").textContent=lang==="ar"?"EN":lang==="en"?"日本語":"عربي";render();}
+function apply(){const L=labels[lang]||labels.en;document.documentElement.lang=lang;document.documentElement.dir=lang==="ar"?"rtl":"ltr";const navKeys={"index.html":"navHome","comps.html":"navComps","augments.html":"navAugments","champions.html":"navChampions","items.html":"navItems","traits.html":"navTraits","patch.html":"navPatch"};document.querySelectorAll(".site-header nav a").forEach(a=>{const key=navKeys[a.getAttribute("href")];if(key)a.textContent=copy[lang]?.[key]||copy.en[key]||a.textContent});document.querySelector("#title").textContent=L.title;document.querySelector("#subtitle").textContent=L.subtitle;search.placeholder=L.search;document.querySelector(".lang-toggle").textContent=lang==="ar"?"EN":lang==="en"?"日本語":"عربي";render();}
 function render(){
  grid.innerHTML="";
  const q=query.trim().toLowerCase();
