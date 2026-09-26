@@ -11,6 +11,7 @@ const data=[
  {name:"Lunar",tier:'A',img:'assets/traits/lunar.png'},
  {name:"Invoker",tier:'A',img:'assets/traits/invoker.png'},
  {name:"Elderwood",tier:'A',img:'assets/traits/elderwood.png'},
+ {name:"Florafatalis",tier:'A',img:'assets/traits/florafatalis.png'},
  {name:"Ravager",tier:'A',img:'assets/traits/ravager.png'},
  {name:"Blackthorn",tier:'A',img:'assets/traits/blackthorn.png'},
  {name:"Hunter",tier:'A',img:'assets/traits/hunter.png'},
