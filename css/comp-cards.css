@@ -12,3 +12,13 @@
 .ability-tip .tip-ability{display:block;color:var(--gold);font:700 11px Outfit,Cairo;text-transform:uppercase;letter-spacing:.04em;margin:2px 0 8px}
 .ability-tip p{margin:0;color:var(--muted);font-size:12.5px;line-height:1.8}
 .ability-tip .tip-soon{color:#6f7890;font-style:italic}
+
+.unit-traits{position:absolute;z-index:3;left:50%;bottom:23%;transform:translateX(-50%);display:flex;gap:3px;justify-content:center;max-width:82%;pointer-events:none}
+.unit-trait{display:grid;place-items:center;width:17px;height:17px;border:1px solid rgba(233,185,100,.6);background:rgba(6,9,18,.78);border-radius:4px;box-shadow:0 2px 6px rgba(0,0,0,.35)}
+.unit-trait img{width:13px;height:13px;object-fit:contain;display:block}
+.hex-small .unit-traits{bottom:25%;gap:2px;max-width:90%}
+.hex-small .unit-trait{width:14px;height:14px;border-radius:3px}
+.hex-small .unit-trait img{width:11px;height:11px}
+.hex-mini .unit-traits{bottom:27%;gap:1px}
+.hex-mini .unit-trait{width:10px;height:10px;border-radius:2px}
+.hex-mini .unit-trait img{width:8px;height:8px}
