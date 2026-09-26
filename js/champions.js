@@ -1,11 +1,11 @@
 import {itemTooltip,traitTooltip,traitIcon} from "./hover-data.js";
-import {copy} from "./i18n.js";
+import {copy,lang} from "./i18n.js";
 const labels={
 ar:{title:"التشامبيونز",subtitle:"كل تشامبيونات السيت الحالي مع التكلفة والتريتس والقدرة.",search:"ابحث عن تشامبيون أو Trait…",all:"الكل",cost:"كوست",best:"أفضل 3 Items"},
 en:{title:"Champions",subtitle:"Every current-set champion with cost, traits, and ability.",search:"Search a champion or trait…",all:"All",cost:"Cost",best:"Top 3 Items"},
 ja:{title:"チャンピオン",subtitle:"現在のセットの全チャンピオン、コスト、トレイト、アビリティ。",search:"チャンピオンやトレイトを検索…",all:"すべて",cost:"コスト",best:"おすすめ3アイテム"}
 };
-let lang=localStorage.getItem("mokatroy-lang")||"ar";
+
 let champions=[],cost="All",query="";
 const grid=document.querySelector("#champ-grid"),search=document.querySelector("#champ-search"),filters=document.querySelector("#cost-filters");
 let modal=document.querySelector("#champ-modal");
@@ -41,6 +41,6 @@ function openModal(c){
 }
 function closeModal(){modal.classList.remove("open");modal.innerHTML="";}
 search.addEventListener("input",e=>{query=e.target.value;render();});
-document.querySelector(".lang-toggle").addEventListener("click",()=>{lang=lang==="ar"?"en":lang==="en"?"ja":"ar";localStorage.setItem("mokatroy-lang",lang);apply();});
+
 fetch("data/champions.json").then(r=>r.json()).then(d=>{champions=d.champions;render();});
 apply();
