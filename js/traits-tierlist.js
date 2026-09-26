@@ -53,13 +53,25 @@ function render() {
       const entry = document.createElement("article");
       entry.className = "tier-entry";
       entry.title = item.name;
+      entry.tabIndex = 0;
 
       const img = document.createElement("img");
       img.src = item.img;
       img.alt = item.name;
       img.loading = "lazy";
-
       entry.appendChild(img);
+
+      const tooltip = document.createElement("div");
+      tooltip.className = "tier-tooltip";
+      const title = document.createElement("strong");
+      title.textContent = item.name;
+      const stats = document.createElement("div");
+      stats.className = "tooltip-stats";
+      stats.textContent = "Breakpoints: " + (traitBreakpoints[item.name] || "Not available");
+      const effect = document.createElement("p");
+      effect.textContent = traitEffects[item.name] || "Trait effect details unavailable";
+      tooltip.append(title, stats, effect);
+      entry.appendChild(tooltip);
       items.appendChild(entry);
     });
 
