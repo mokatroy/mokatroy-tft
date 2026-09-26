@@ -1,7 +1,26 @@
 const isTraits=location.pathname.endsWith('traits.html');
 const tiers=['S','A','B','C'];
 const data=isTraits?[
- {name:'Riftbeast',tier:'A',img:'assets/traits/riftbeast.png'}, {name:'Blackthorn',tier:'A',img:'assets/traits/blackthorn.png'}, {name:'Blossom',tier:'A',img:'assets/traits/blossom.png'}, {name:'Juggernaut',tier:'A',img:'assets/traits/juggernaut.png'}, {name:'Hunter',tier:'B',img:'assets/traits/hunter.png'}, {name:'Invoker',tier:'B',img:'assets/traits/invoker.png'}, {name:'Vanguard',tier:'B',img:'assets/traits/vanguard.png'}, {name:'Inferno',tier:'B',img:'assets/traits/inferno.png'}
+ {name:'Juggernaut',tier:'S',img:'assets/traits/juggernaut.png'},
+ {name:'Coven',tier:'S',img:'assets/traits/coven.png'},
+ {name:'Vanguard',tier:'S',img:'assets/traits/vanguard.png'},
+ {name:'Executioner',tier:'S',img:'assets/traits/executioner.png'},
+ {name:'Brawler',tier:'S',img:'assets/traits/brawler.png'},
+ {name:'Florafatalis',tier:'S',img:'assets/traits/florafatalis.png'},
+ {name:'Spellweaver',tier:'S',img:'assets/traits/spellweaver.png'},
+ {name:'Rapidfire',tier:'S',img:'assets/traits/rapidfire.png'},
+ {name:'Lunar',tier:'A',img:'assets/traits/lunar.png'},
+ {name:'Invoker',tier:'A',img:'assets/traits/invoker.png'},
+ {name:'Elderwood',tier:'A',img:'assets/traits/elderwood.png'},
+ {name:'Ravager',tier:'A',img:'assets/traits/ravager.png'},
+ {name:'Blackthorn',tier:'A',img:'assets/traits/blackthorn.png'},
+ {name:'Hunter',tier:'A',img:'assets/traits/hunter.png'},
+ {name:'Fae',tier:'B',img:'assets/traits/fae.png'},
+ {name:'Inferno',tier:'B',img:'assets/traits/inferno.png'},
+ {name:'Primal',tier:'B',img:'assets/traits/primal.png'},
+ {name:'Blossom',tier:'B',img:'assets/traits/blossom.png'},
+ {name:'Sprykin',tier:'B',img:'assets/traits/sprykin.png'},
+ {name:'Defender',tier:'C',img:'assets/traits/defender.png'}
 ]:[
  {name:'Gargoyle Stoneplate',tier:'S',img:'assets/items/gargoylestoneplate.png'},
  {name:"Spear of Shojin",tier:'S',img:'assets/items/spearofshojin.png'},
