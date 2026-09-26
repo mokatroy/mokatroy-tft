@@ -1,4 +1,5 @@
 import {itemTooltip,traitTooltip,traitIcon} from "./hover-data.js";
+import {copy} from "./i18n.js";
 const labels={
 ar:{title:"التشامبيونز",subtitle:"كل تشامبيونات السيت الحالي مع التكلفة والتريتس والقدرة.",search:"ابحث عن تشامبيون أو Trait…",all:"الكل",cost:"كوست",best:"أفضل 3 Items"},
 en:{title:"Champions",subtitle:"Every current-set champion with cost, traits, and ability.",search:"Search a champion or trait…",all:"All",cost:"Cost",best:"Top 3 Items"},
