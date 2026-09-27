@@ -28,7 +28,7 @@
       "ability": {
         "name": "Kunai Strike",
         "en": "Throw a volley of kunai at the target, dealing 155/235/370 physical damage. If the target is Burning, deal an additional 35/52/80 damage. If the ability kills, cast it again.",
-        "ar": "Throw a volley of kunai at the target, dealing 155/235/370 physical damage. If the target is Burning, deal an additional 35/52/80 damage. If the ability kills, cast it again."
+        "ar": "ترمي وابلًا من الشوريكن على الهدف، مسببةً 155/235/370 ضررًا جسديًا. إذا كان الهدف محترقًا، تسبب 35/52/80 ضررًا إضافيًا. وإذا قتلت القدرة الهدف، تُلقى مرة أخرى."
       },
       "specialNote": null,
       "bestItems": [
@@ -67,7 +67,7 @@
       "ability": {
         "name": "Defensive Sweep",
         "en": "Slice the target for 170/255/435 physical damage and gain a 60 Shield for 2 seconds.",
-        "ar": "Slice the target for 170/255/435 physical damage and gain a 60 Shield for 2 seconds."
+        "ar": "تضرب الهدف مسببةً 170/255/435 ضررًا جسديًا، وتحصل على درع بقوة 60 لمدة ثانيتين."
       },
       "specialNote": null,
       "bestItems": [
@@ -184,7 +184,7 @@
       "ability": {
         "name": "Dance of Life",
         "en": "Restore 314/364/509 Health over 2 seconds. The next attack is replaced with a bash that deals 140/175/220 magic damage.",
-        "ar": "Restore 314/364/509 Health over 2 seconds. The next attack is replaced with a bash that deals 140/175/220 magic damage."
+        "ar": "يستعيد 314/364/509 من الصحة على مدار ثانيتين. ويتحول هجومه التالي إلى ضربة قوية تسبب 140/175/220 ضررًا سحريًا."
       },
       "specialNote": null,
       "bestItems": [
@@ -223,7 +223,7 @@
       "ability": {
         "name": "Shield Bash",
         "en": "Passive: Start combat with 60/70/80 bonus Armor and Magic Resist that decays over 12 seconds. Active: Bash the current target, dealing 60/108/162 magic damage and Stunning them for 1.5 seconds.",
-        "ar": "Passive: Start combat with 60/70/80 bonus Armor and Magic Resist that decays over 12 seconds. Active: Bash the current target, dealing 60/108/162 magic damage and Stunning them for 1.5 seconds."
+        "ar": "سلبي: تبدأ القتال مع 60/70/80 درعًا ومقاومة سحرية إضافية تتناقص على مدار 12 ثانية. نشط: تضرب الهدف الحالي مسببةً 60/108/162 ضررًا سحريًا وتصيبه بالذهول لمدة 1.5 ثانية."
       },
       "specialNote": null,
       "bestItems": [
@@ -465,7 +465,7 @@
       "ability": {
         "name": "Primordial Burst",
         "en": "Launch a giant blast at the target that deals 175/265/395 magic damage, increased to 265/400/595 if they are below 30% maximum Health. If they die, permanently gain 1.5% Ability Power.",
-        "ar": "Launch a giant blast at the target that deals 175/265/395 magic damage, increased to 265/400/595 if they are below 30% maximum Health. If they die, permanently gain 1.5% Ability Power."
+        "ar": "يطلق انفجارًا قويًا على الهدف يسبب 175/265/395 ضررًا سحريًا، ويرتفع إلى 265/400/595 إذا كانت صحة الهدف أقل من 30% من صحته القصوى. إذا مات الهدف، يحصل فيجار بشكل دائم على 1.5% من قوة القدرة."
       },
       "specialNote": null,
       "bestItems": [
@@ -668,7 +668,7 @@
       "ability": {
         "name": "Spider Queen",
         "en": "Transform into a spider and gain 375 maximum Health. Attacks in Spider Form deal 35/50/80 bonus magic damage and heal for 55/90/170. Subsequent casts grant 175% decaying Attack Speed for 4 seconds.",
-        "ar": "Transform into a spider and gain 375 maximum Health. Attacks in Spider Form deal 35/50/80 bonus magic damage and heal for 55/90/170. Subsequent casts grant 175% decaying Attack Speed for 4 seconds."
+        "ar": "تتحول إلى عنكبوت وتكتسب 375 صحة قصوى. تسبب هجماتها في هيئة العنكبوت 35/50/80 ضررًا سحريًا إضافيًا وتستعيد 55/90/170 صحة. تمنح الإلقاءات التالية 175% سرعة هجوم تتناقص تدريجيًا لمدة 4 ثوانٍ."
       },
       "specialNote": null,
       "bestItems": [
@@ -746,7 +746,7 @@
       "ability": {
         "name": "Solar Judgement",
         "en": "Passive: Kayle ascends based on her star level, gaining stacking bonuses. Attacks deal bonus magic damage; later ascensions add Shred, waves that damage other units, and infinite range.",
-        "ar": "Passive: Kayle ascends based on her star level, gaining stacking bonuses. Attacks deal bonus magic damage; later ascensions add Shred, waves that damage other units, and infinite range."
+        "ar": "سلبي: ترتقي كايل بحسب مستوى النجوم، وتكتسب مكافآت متراكمة. تسبب الهجمات ضررًا سحريًا إضافيًا؛ وتضيف الارتقاءات اللاحقة تقليلًا للمقاومة، وموجات تصيب وحدات أخرى، ومدى هجوم غير محدود."
       },
       "specialNote": null,
       "bestItems": [
@@ -824,7 +824,7 @@
       "ability": {
         "name": "Rending Claws",
         "en": "Leap to the lowest-Health enemy within range and deal physical damage. The next attacks deal bonus physical damage.",
-        "ar": "Leap to the lowest-Health enemy within range and deal physical damage. The next attacks deal bonus physical damage."
+        "ar": "يقفز إلى العدو ذي أقل صحة ضمن المدى ويسبب له ضررًا جسديًا. وتسبب الهجمات التالية ضررًا جسديًا إضافيًا."
       },
       "specialNote": null,
       "bestItems": [
@@ -980,7 +980,7 @@
       "ability": {
         "name": "Fungus Among Us",
         "en": "Throw 2 clusters of mushrooms that deal 60/90/135 magic damage to the 3 nearest enemies, then hurl a giant mushroom at the target for 135/200/310 magic damage. Each cast has a chance to forage an extra mushroom.",
-        "ar": "Throw 2 clusters of mushrooms that deal 60/90/135 magic damage to the 3 nearest enemies, then hurl a giant mushroom at the target for 135/200/310 magic damage. Each cast has a chance to forage an extra mushroom."
+        "ar": "يرمي مجموعتين من الفطر تسببان 60/90/135 ضررًا سحريًا لأقرب 3 أعداء، ثم يرمي فطرًا ضخمًا على الهدف يسبب 135/200/310 ضررًا سحريًا. لكل إلقاء فرصة للعثور على فطر إضافي."
       },
       "specialNote": null,
       "bestItems": [
@@ -1140,7 +1140,7 @@
       "ability": {
         "name": "Noxious Blast",
         "en": "Poison the target and the nearest non-poisoned enemy, dealing 425/640/1020 magic damage over 15 seconds. Poisons stack.",
-        "ar": "Poison the target and the nearest non-poisoned enemy, dealing 425/640/1020 magic damage over 15 seconds. Poisons stack."
+        "ar": "يسمم الهدف وأقرب عدو غير مسموم، مسببًا 425/640/1020 ضررًا سحريًا على مدار 15 ثانية. ويمكن أن تتراكم تأثيرات السم."
       },
       "specialNote": null,
       "bestItems": [
@@ -1421,7 +1421,7 @@
       "ability": {
         "name": "Wuju Style",
         "en": "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed. Adaptor: Double Strikes grant stacking Attack Speed or deal bonus damage and heal, depending on the chosen form.",
-        "ar": "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed. Adaptor: Double Strikes grant stacking Attack Speed or deal bonus damage and heal, depending on the chosen form."
+        "ar": "سلبي: كل هجوم ثالث يصبح ضربة مزدوجة. عند الإطاحة بعدو، يحصل على دفعة من سرعة الحركة. مع صفة المتكيف، تمنح الضربات المزدوجة سرعة هجوم متراكمة أو تسبب ضررًا إضافيًا وتستعيد الصحة، حسب الشكل المختار."
       },
       "specialNote": null,
       "bestItems": [
@@ -1460,7 +1460,7 @@
       "ability": {
         "name": "Defensive Ball Curl",
         "en": "Taunt enemies. For 4 seconds, gain a 350/450/550 Shield and 60 Armor and Magic Resist. When the Shield breaks, deal 50/75/120 physical damage to enemies within 2 hexes.",
-        "ar": "Taunt enemies. For 4 seconds, gain a 350/450/550 Shield and 60 Armor and Magic Resist. When the Shield breaks, deal 50/75/120 physical damage to enemies within 2 hexes."
+        "ar": "يسخر من الأعداء. لمدة 4 ثوانٍ، يحصل على درع بقوة 350/450/550 و60 درعًا ومقاومة سحرية. عند تحطم الدرع، يسبب 50/75/120 ضررًا جسديًا للأعداء ضمن خليتين."
       },
       "specialNote": null,
       "bestItems": [
@@ -1503,7 +1503,7 @@
       "ability": {
         "name": "Flock Friends",
         "en": "Summon 4 untargetable Tiny Beaks nearby for 5 seconds. Whenever Mama Beak attacks, Tiny Beaks attack the same enemy, dealing 22/33/48 physical damage.",
-        "ar": "Summon 4 untargetable Tiny Beaks nearby for 5 seconds. Whenever Mama Beak attacks, Tiny Beaks attack the same enemy, dealing 22/33/48 physical damage."
+        "ar": "تستدعي 4 فراخ صغيرة لا يمكن استهدافها بالقرب منها لمدة 5 ثوانٍ. كلما هاجمت ماما بيك، تهاجم الفراخ العدو نفسه، مسببةً 22/33/48 ضررًا جسديًا."
       },
       "specialNote": null,
       "bestItems": [
@@ -1819,7 +1819,7 @@
       "ability": {
         "name": "Crimson Fury",
         "en": "Passive: When the target dies, leap at the next target, dealing 155/235/1000 physical damage. Active: Gain 80/80/300% Attack Damage for 8 seconds. During this time, ignore 45/45/90% Armor. Red Buff: Attacks Burn enemies and heal Brambleback for 4% of max Health.",
-        "ar": "Passive: When the target dies, leap at the next target, dealing 155/235/1000 physical damage. Active: Gain 80/80/300% Attack Damage for 8 seconds. During this time, ignore 45/45/90% Armor. Red Buff: Attacks Burn enemies and heal Brambleback for 4% of max Health."
+        "ar": "سلبي: عند موت الهدف، يقفز إلى الهدف التالي ويسبب 155/235/1000 ضررًا جسديًا. نشط: يكتسب 80/80/300% من ضرر الهجوم لمدة 8 ثوانٍ، ويتجاهل خلالها 45/45/90% من درع العدو. مع التعزيز الأحمر، تحرق هجماته الأعداء وتستعيد له 4% من صحته القصوى."
       },
       "specialNote": null,
       "bestItems": [
@@ -1897,7 +1897,7 @@
       "ability": {
         "name": "Lilting Lullaby",
         "en": "Restore 300/400/800 Health and send 4 butterflies at nearby enemies. Enemies hit take 90/135/2000 magic damage and are put to Sleep for 1.5 seconds.",
-        "ar": "Restore 300/400/800 Health and send 4 butterflies at nearby enemies. Enemies hit take 90/135/2000 magic damage and are put to Sleep for 1.5 seconds."
+        "ar": "تستعيد 300/400/800 صحة، ثم ترسل 4 فراشات نحو الأعداء القريبين. يتلقى الأعداء المصابون 90/135/2000 ضررًا سحريًا ويدخلون في سبات لمدة 1.5 ثانية."
       },
       "specialNote": null,
       "bestItems": [
@@ -2521,7 +2521,7 @@
       "ability": {
         "name": "Final Spark",
         "en": "Passive: On cast, all allies that share a trait with Lux gain 3 Mana. Active: Fire a laser toward the largest group of enemies, dealing 375/565/6500 magic damage, reduced by 25/25/10% for each enemy hit. Her chosen Avatar aspect adds a unique effect.",
-        "ar": "Passive: On cast, all allies that share a trait with Lux gain 3 Mana. Active: Fire a laser toward the largest group of enemies, dealing 375/565/6500 magic damage, reduced by 25/25/10% for each enemy hit. Her chosen Avatar aspect adds a unique effect."
+        "ar": "سلبي: عند إلقاء القدرة، يحصل الحلفاء الذين يشاركون لوكس إحدى الصفات على 3 مانا. نشط: تطلق شعاعًا نحو أكبر تجمع للأعداء، مسببًا 375/565/6500 ضررًا سحريًا، ويقل الضرر بنسبة 25/25/10% لكل عدو يصيبه. يضيف جانب الأفاتار المختار تأثيرًا فريدًا."
       },
       "specialNote": "Avatar: her chosen aspect can become one of the compatible origins and counts twice for that origin.",
       "bestItems": [
