@@ -10,7 +10,7 @@
         "ja": "Akali"
       },
       "cost": 1,
-      "image": "assets/champions/akali.png",
+      "image": "/assets/champions/akali.png",
       "traits": [
         {
           "name": "Inferno",
@@ -1485,7 +1485,7 @@
         "ja": "ママビーク"
       },
       "cost": 3,
-      "image": "assets/champions/mamabeak.png",
+      "image": "/assets/champions/mamabeak.png",
       "traits": [
         {
           "name": "Riftbeast",
