@@ -1,4 +1,11 @@
 export const itemDetails = {
+  "B.F. Sword": {"stats":"+10% Attack Damage","effect":"Basic component."},
+  "Recurve Bow": {"stats":"+10% Attack Speed","effect":"Basic component."},
+  "Chain Vest": {"stats":"+20 Armor","effect":"Basic component."},
+  "Giant's Belt": {"stats":"+150 Health","effect":"Basic component."},
+  "Needlessly Large Rod": {"stats":"+10 Ability Power","effect":"Basic component."},
+  "Sparring Gloves": {"stats":"+20% Critical Strike","effect":"Basic component."},
+  "Tear of the Goddess": {"stats":"+1 Mana Regen","effect":"Basic component."},
   "Gargoyle Stoneplate": {
     "stats": "100 Health • 25 Armor • 25 Magic Resist",
     "effect": "Gain 10 Armor and 10 Magic Resist for each enemy targeting the holder."
