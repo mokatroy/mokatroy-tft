@@ -498,62 +498,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Draven AD 9 كومب لفل 9 صعب مبني على 5 كوست بتكبر مع الوقت زي Draven وMaokai وIvern. وفوقهم الـ Elderwood بيدّيك شجرة حليفة (Lifeblossom أو Stonebark) بتقوى كل ما الـ Trait يكبر. الأيتمز الأساسية على Draven: Guinsoo's Rageblade ثم Last Whisper ثم Kraken's Fury.",
-            "en": "Draven AD 9 is a hard level-9 comp built on scaling 5-costs like Draven, Maokai and Ivern, with Elderwood adding a tree ally (Lifeblossom or Stonebark) that grows as the trait scales. Draven's core items are Guinsoo's Rageblade, then Last Whisper, then Kraken's Fury."
+            "en": "Draven AD 9 is a hard level-9 comp built on scaling 5-costs like Draven, Maokai and Ivern, with Elderwood adding a tree ally (Lifeblossom or Stonebark) that grows as the trait scales. Draven's core items are Guinsoo's Rageblade, then Last Whisper, then Kraken's Fury.",
+            "ja": "Draven AD 9は、Draven・Maokai・Ivernのようなスケーリングする5コストを軸にした難度の高いレベル9構成です。Elderwoodによって得られる樹木の味方（LifeblossomまたはStonebark）も、トレイトが伸びるほど強くなります。DravenのコアアイテムはGuinsoo's Rageblade、Last Whisper、Kraken's Furyです。"
           },
           {
             "ar": "أفضل كويستات Draven هي اللي بتديك دهب مقابل الضرر، بس ابعد عن ضرر 10 آلاف في جولة واحدة لأنه ممكن يوقعك في فخ. والعيب زي أي لفل 9: محتاج دهب كتير وصحة كافية تدخل بيها الاستيدج الخامس.",
-            "en": "Draven's best quests are the ones that pay gold for damage, but avoid the 10k-damage-in-one-round quest since it can trap you. The trade-off is the usual level-9 one: you need a big bank and enough HP to reach stage 5."
+            "en": "Draven's best quests are the ones that pay gold for damage, but avoid the 10k-damage-in-one-round quest since it can trap you. The trade-off is the usual level-9 one: you need a big bank and enough HP to reach stage 5.",
+            "ja": "Dravenのクエストはダメージでゴールドを得るものが強力ですが、1ラウンドで1万ダメージを狙うクエストは罠になる可能性があるため避けましょう。レベル9構成なので、ステージ5まで進むための十分なゴールドとHPが必要です。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: بدأت بـ Win Streak بدري ومعاك دهب كتير — الكومب ده بيتلعب من ستريك مش من تعثر.",
-            "en": "Play it if: you start from an early win streak with plenty of gold — this comp is played from a streak, not from a stumble."
+            "en": "Play it if: you start from an early win streak with plenty of gold — this comp is played from a streak, not from a stumble.",
+            "ja": "プレイするなら：序盤から連勝していて、十分なゴールドがある場合。この構成は連勝を土台にします。"
           },
           {
             "ar": "العبه لو: معاك Opener بيشتغل كمحرك موارد زي Rengar أو Blossom في الاستيدج التاني، وتقدر تعمل Slam للأيتمز على Draven.",
-            "en": "Play it if: you have a resource-engine opener like Rengar or Blossom in stage 2 and can slam items on Draven."
+            "en": "Play it if: you have a resource-engine opener like Rengar or Blossom in stage 2 and can slam items on Draven.",
+            "ja": "プレイするなら：ステージ2でRengarやBlossomのようなリソース源となるオープナーがあり、Dravenにアイテムを早めに装備できる場合。"
           },
           {
             "ar": "العبه لو: معاك أوجمنت إيكونومي تقدر تعمل بيه Fast 7 قبل 3-3 عشان تحافظ على الستريك.",
-            "en": "Play it if: you have an economy augment that lets you Fast 7 before 3-3 to keep the streak alive."
+            "en": "Play it if: you have an economy augment that lets you Fast 7 before 3-3 to keep the streak alive.",
+            "ja": "プレイするなら：3-3前にFast 7へ進めて連勝を維持できるエコノミー系オーグメントがある場合。"
           },
           {
             "ar": "متلعبوش لو: مفيش Win Streak ولا دهب — هتوصل لفل 9 متأخر أو من غير رول داون.",
-            "en": "Don't play it if: you have no win streak and no gold — you would reach level 9 late or without a roll-down."
+            "en": "Don't play it if: you have no win streak and no gold — you would reach level 9 late or without a roll-down.",
+            "ja": "避けるなら：連勝もゴールドもなく、レベル9到達が遅れたりロールダウン資金が足りなくなる場合。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "الوصول لفل 9 متأخر: الهدف نهاية الاستيدج 4 أو أول الخامس. لو اتأخرت هتدخل الرول داون من غير وقت.",
-            "en": "Hitting level 9 late: aim for the end of stage 4 or the start of stage 5. If you're late you'll roll down with no time left."
+            "en": "Hitting level 9 late: aim for the end of stage 4 or the start of stage 5. If you're late you'll roll down with no time left.",
+            "ja": "レベル9が遅い：ステージ4終盤からステージ5序盤を目標にしましょう。遅れるとロールダウンする時間が足りなくなります。"
           },
           {
             "ar": "اللعب بنفس الأسلوب في كل المراحل: الاستيدج 2 و3 للستريك والـ Slam، ومن الاستيدج 4 تبدأ تخسر جولات بهدوء وانت بتجمع Econ.",
-            "en": "Playing every stage the same way: stages 2–3 are for the streak and slamming items, and from stage 4 you can start losing rounds quietly while banking econ."
+            "en": "Playing every stage the same way: stages 2–3 are for the streak and slamming items, and from stage 4 you can start losing rounds quietly while banking econ.",
+            "ja": "全ステージを同じようにプレイする：ステージ2～3は連勝とアイテムの早期装備を優先し、ステージ4からはエコノミーを貯めながら静かにラウンドを落とすこともできます。"
           },
           {
             "ar": "نسيان الـ Elderwood: الشجرة الحليفة جزء من قوة الكومب مش إضافة، فكمّل تفعيل الـ Trait.",
-            "en": "Forgetting Elderwood: the tree ally is part of the comp's power, not a bonus — keep the trait active."
+            "en": "Forgetting Elderwood: the tree ally is part of the comp's power, not a bonus — keep the trait active.",
+            "ja": "Elderwoodを忘れる：樹木の味方はおまけではなく、この構成の強さの一部です。トレイトを維持しましょう。"
           }
         ]
       }
@@ -780,62 +792,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Ahri Morgana كومب 4 كوست Fast 8 متوسط: Ahri الكاري الأساسي وMorgana بتحمل الأيتمز المساعدة (Utility). أفضل Emblem هو Invoker على Ahri. الأيتمز الأساسية Spear of Shojin ثم Jeweled Gauntlet ثم Giant's Belt ثم Tear of the Goddess.",
-            "en": "Ahri Morgana is a medium 4-cost Fast 8 comp: Ahri is the main carry and Morgana holds the utility items. The best emblem is Invoker on Ahri. Core items are Spear of Shojin, then Jeweled Gauntlet, then Giant's Belt, then Tear of the Goddess."
+            "en": "Ahri Morgana is a medium 4-cost Fast 8 comp: Ahri is the main carry and Morgana holds the utility items. The best emblem is Invoker on Ahri. Core items are Spear of Shojin, then Jeweled Gauntlet, then Giant's Belt, then Tear of the Goddess.",
+            "ja": "Ahri Morganaは中難度の4コストFast 8構成です。Ahriがメインキャリーで、Morganaがユーティリティアイテムを持ちます。最適なエンブレムはAhriのInvokerで、コアアイテムはSpear of Shojin、Jeweled Gauntlet、Giant's Belt、Tear of the Goddessです。"
           },
           {
             "ar": "قوته في مرونة الفرونت لاين: تقدر تسند بـ Sentinel أو Sett، وتلعب Juggernauts أو Defenders أو Vanguards حسب اللي يجيلك. ولما تستقر تقدر تروح لفل 9 وتجيب Lux، أو تعمل Cap بـ Ashe وAlune مكان Karma في آخر اللعبة.",
-            "en": "Its strength is a flexible frontline: you can tank with Sentinel or Sett and play Juggernauts, Defenders or Vanguards depending on what you find. Once stable you can go level 9 for Lux, or cap late game with Ashe and Alune over Karma."
+            "en": "Its strength is a flexible frontline: you can tank with Sentinel or Sett and play Juggernauts, Defenders or Vanguards depending on what you find. Once stable you can go level 9 for Lux, or cap late game with Ashe and Alune over Karma.",
+            "ja": "前衛が柔軟なのも強みです。SentinelやSettをタンクにし、見つかった駒に応じてJuggernauts、Defenders、Vanguardsを組み合わせられます。安定した後はレベル9でLuxを追加するか、終盤にAsheとAluneを入れてKarmaを外す形で上限を伸ばせます。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: لقيت 3 Blossom بدري وقدرت تبدأ ستريك في الاستيدج التاني.",
-            "en": "Play it if: you find 3 Blossom early and can start a streak in stage 2."
+            "en": "Play it if: you find 3 Blossom early and can start a streak in stage 2.",
+            "ja": "プレイするなら：序盤にBlossomを3体そろえ、ステージ2から連勝を始められる場合。"
           },
           {
             "ar": "العبه لو: معاك Karma تشيل الأيتمز لـ Ahri وتانك نجمتين زي Yorick تعمل عليه أيتمز.",
-            "en": "Play it if: you have Karma to hold items for Ahri and a 2-star tank like Yorick to itemize."
+            "en": "Play it if: you have Karma to hold items for Ahri and a 2-star tank like Yorick to itemize.",
+            "ja": "プレイするなら：Ahri用アイテムを持たせられるKarmaと、アイテムを持たせる2スタータンク（例：Yorick）がいる場合。"
           },
           {
             "ar": "العبه لو: معاك Invoker Emblem أو فرصة تجيبه لـ Ahri — ده أحسن Emblem في الكومب.",
-            "en": "Play it if: you have, or can find, an Invoker emblem for Ahri — it is the best emblem in the comp."
+            "en": "Play it if: you have, or can find, an Invoker emblem for Ahri — it is the best emblem in the comp.",
+            "ja": "プレイするなら：Ahri用のInvokerエンブレムを持っている、または見つけられる場合。これはこの構成で最適です。"
           },
           {
             "ar": "متلعبوش لو: بعد الرول على لفل 8 مفيش Ahri ولا Morgana ولا فرونت لاين متطور — فكّر في كومب AP تاني.",
-            "en": "Don't play it if: after your level-8 roll you have neither Ahri nor Morgana nor an upgraded frontline — consider another AP comp."
+            "en": "Don't play it if: after your level-8 roll you have neither Ahri nor Morgana nor an upgraded frontline — consider another AP comp.",
+            "ja": "避けるなら：レベル8のロール後にAhriもMorganaも強化された前衛もいない場合。別のAP構成を検討しましょう。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "حط الأيتمز الغلط على Morgana: هي بتشيل الـ Utility بس، أيتمز الضرر (Shojin وJeweled Gauntlet) لـ Ahri.",
-            "en": "Putting the wrong items on Morgana: she only holds utility — the damage items (Shojin, Jeweled Gauntlet) belong on Ahri."
+            "en": "Putting the wrong items on Morgana: she only holds utility — the damage items (Shojin, Jeweled Gauntlet) belong on Ahri.",
+            "ja": "Morganaに間違ったアイテムを載せる：Morganaはユーティリティ担当で、ダメージアイテム（Shojin、Jeweled Gauntlet）はAhriに持たせます。"
           },
           {
             "ar": "إهمال الفرونت لاين: طوّر Yorick أو أي تانك نجمتين في الاستيدج التاني، وبعدين لف على Ahri وMorgana والتانك.",
-            "en": "Neglecting the frontline: itemize Yorick or any 2-star tank in stage 2, then level and roll for Ahri, Morgana and the tank."
+            "en": "Neglecting the frontline: itemize Yorick or any 2-star tank in stage 2, then level and roll for Ahri, Morgana and the tank.",
+            "ja": "前衛を軽視する：ステージ2でYorickなどの2スタータンクにアイテムを持たせ、レベルを上げてAhri、Morgana、タンクを探します。"
           },
           {
             "ar": "الرغبة في لفل 9 قبل الاستقرار: استقر الأول، وبعدين روح لفل 9 على Lux.",
-            "en": "Rushing level 9 before you're stable: stabilize first, then go level 9 for Lux."
+            "en": "Rushing level 9 before you're stable: stabilize first, then go level 9 for Lux.",
+            "ja": "安定する前にレベル9へ急ぐ：まず盤面を安定させ、その後Luxを探すためにレベル9へ進みます。"
           }
         ]
       }
@@ -1054,62 +1078,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Ashe Juggernauts كومب Fast 8 صعب. الفكرة تبني Juggernauts (ولو جاتلك Juggernaut Emblem تقدر تلعب 6) وتضيف Sivir كاري، وبعدين على لفل 9 تدور على Ashe وتتحول لـ 5 كوست. ممكن كمان تلعب 5 كوست AD زي Dragon وDraven. الأيتمز: Infinity Edge ثم Warmog's Armor ثم Recurve Bow ثم B.F. Sword.",
-            "en": "Ashe Juggernauts is a hard Fast 8 comp. You build Juggernauts (6 if you find the Juggernaut emblem), add Sivir as the carry, then at level 9 look for Ashe and transition to 5-costs. You can also play other AD 5-costs like Dragon and Draven. Items: Infinity Edge, then Warmog's Armor, then Recurve Bow, then B.F. Sword."
+            "en": "Ashe Juggernauts is a hard Fast 8 comp. You build Juggernauts (6 if you find the Juggernaut emblem), add Sivir as the carry, then at level 9 look for Ashe and transition to 5-costs. You can also play other AD 5-costs like Dragon and Draven. Items: Infinity Edge, then Warmog's Armor, then Recurve Bow, then B.F. Sword.",
+            "ja": "Ashe Juggernautsは難度の高いFast 8構成です。Juggernautsを6体（Juggernautエンブレムがあれば6体化）そろえ、Sivirをキャリーにして、レベル9でAsheを探しながら5コストへ移行します。DragonやDravenのような他のAD 5コストも使えます。アイテムはInfinity Edge、Warmog's Armor、Recurve Bow、B.F. Swordの順です。"
           },
           {
             "ar": "مش كومب بتبدأ منه غالبًا: هو خيار Flex لو كنت بتلعب حوالين Juggernauts في الميدجيم أصلًا وعايز Sivir board. وخد Turtle Primal buff.",
-            "en": "It is rarely a starting point: it is a flex option for a Sivir board if you were already playing around Juggernauts in the midgame. Take the Turtle Primal buff."
+            "en": "It is rarely a starting point: it is a flex option for a Sivir board if you were already playing around Juggernauts in the midgame. Take the Turtle Primal buff.",
+            "ja": "この構成は最初から決め打ちすることは少なく、中盤ですでにJuggernautsを軸にしているSivir盤面から派生するフレックス案です。Turtle Primalバフを取りましょう。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: كنت أصلًا بتلعب حوالين Juggernauts في الميدجيم وعايز مسار لـ Sivir board.",
-            "en": "Play it if: you were already playing around Juggernauts in the midgame and want a Sivir-board route."
+            "en": "Play it if: you were already playing around Juggernauts in the midgame and want a Sivir-board route.",
+            "ja": "プレイするなら：中盤ですでにJuggernautsを軸にしていて、Sivir盤面へ移行したい場合。"
           },
           {
             "ar": "العبه لو: معاك Opener AD قوي، والأفضل حوالين Yunara، وأيتمز AD عامة وتانك تعمل بيها ستريك.",
-            "en": "Play it if: you have a strong AD opener, ideally around Yunara, plus generic AD and tank items to build a streak."
+            "en": "Play it if: you have a strong AD opener, ideally around Yunara, plus generic AD and tank items to build a streak.",
+            "ja": "プレイするなら：強いADオープナーがあり、できればYunaraを起点にしつつ、汎用ADとタンクアイテムで連勝を狙える場合。"
           },
           {
             "ar": "العبه لو: جاتلك Juggernaut Emblem — ده بيفتح 6 Juggernauts.",
-            "en": "Play it if: you find a Juggernaut emblem — it unlocks 6 Juggernauts."
+            "en": "Play it if: you find a Juggernaut emblem — it unlocks 6 Juggernauts.",
+            "ja": "プレイするなら：Juggernautエンブレムを見つけた場合。6 Juggernautsが可能になります。"
           },
           {
             "ar": "متلعبوش لو: مفيش Juggernauts ولا Sivir ولا أيتمز AD — الكومب ده صعب من غير أساس واضح.",
-            "en": "Don't play it if: you have no Juggernauts, no Sivir and no AD items — the comp is hard without a clear base."
+            "en": "Don't play it if: you have no Juggernauts, no Sivir and no AD items — the comp is hard without a clear base.",
+            "ja": "避けるなら：JuggernautsもSivirもADアイテムもなく、明確な土台が作れない場合。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "الوصول لفل 9 قبل ما تكمل 6 Juggernauts وSivir: الأول لف واستقر، وبعدين روح 9 وابحث عن Ashe.",
-            "en": "Going to level 9 before finishing 6 Juggernauts and Sivir: roll and stabilize first, then go 9 and look for Ashe."
+            "en": "Going to level 9 before finishing 6 Juggernauts and Sivir: roll and stabilize first, then go 9 and look for Ashe.",
+            "ja": "6 JuggernautsとSivirを完成させる前にレベル9へ行く：まずロールして盤面を安定させ、その後9へ進んでAsheを探します。"
           },
           {
             "ar": "مطاردة Ashe بدري: هي جزء من التحول لـ 5 كوست بعد ما تستقر، مش نقطة البداية.",
-            "en": "Chasing Ashe early: she is part of the 5-cost transition once you are stable, not the starting point."
+            "en": "Chasing Ashe early: she is part of the 5-cost transition once you are stable, not the starting point.",
+            "ja": "Asheを早く追いすぎる：Asheは安定後の5コスト移行パーツであり、スタート地点ではありません。"
           },
           {
             "ar": "نسيان Turtle Primal: خده كأولوية، وسيبه بس لو الأيتمز اللي هتاخدها أقوى بكتير.",
-            "en": "Forgetting the Turtle Primal buff: take it by default and skip it only if the items on offer are clearly better."
+            "en": "Forgetting the Turtle Primal buff: take it by default and skip it only if the items on offer are clearly better.",
+            "ja": "Turtle Primalバフを忘れる：基本的に取ってよく、提示アイテムが明らかに優れている場合だけスキップします。"
           }
         ]
       }
@@ -1350,62 +1386,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Primal Jungle كومب 4 كوست Fast 8 متوسط: الكاري الأساسي Nidalee ثم Sivir، وأولوية الأيتمز لـ Nidalee. Hunter Emblem ممتاز على Nidalee، وKog'Maw بيدّيك Shred وSunder مجانًا. الأيتمز: Infinity Edge ثم B.F. Sword ثم Sparring Gloves ثم Giant's Belt.",
-            "en": "Primal Jungle is a medium 4-cost Fast 8 comp: Nidalee is the main carry, then Sivir, and items go to Nidalee first. A Hunter emblem is excellent on Nidalee, and Kog'Maw gives free Shred and Sunder. Items: Infinity Edge, then B.F. Sword, then Sparring Gloves, then Giant's Belt."
+            "en": "Primal Jungle is a medium 4-cost Fast 8 comp: Nidalee is the main carry, then Sivir, and items go to Nidalee first. A Hunter emblem is excellent on Nidalee, and Kog'Maw gives free Shred and Sunder. Items: Infinity Edge, then B.F. Sword, then Sparring Gloves, then Giant's Belt.",
+            "ja": "Primal Jungleは中難度の4コストFast 8構成です。Nidaleeがメインキャリー、次点がSivirで、アイテムはまずNidaleeへ渡します。NidaleeのHunterエンブレムは非常に強く、Kog'Mawは無料のShredとSunderを提供します。アイテムはInfinity Edge、B.F. Sword、Sparring Gloves、Giant's Beltの順です。"
           },
           {
             "ar": "الكومب مرن: حط Krug على الـ Blackthorn hex، وخد Tiger Primal buff. تقدر تبدّل Malphite بـ Sett + Vanguard، وفي الـ Cap تشيل الـ Riftbeasts وتلعب Gnar وAshe وTaric.",
-            "en": "The comp is flexible: put Krug on the Blackthorn hex and take the Tiger Primal buff. You can drop Malphite for Sett plus Vanguard, and as a cap drop the Riftbeasts for Gnar, Ashe and Taric."
+            "en": "The comp is flexible: put Krug on the Blackthorn hex and take the Tiger Primal buff. You can drop Malphite for Sett plus Vanguard, and as a cap drop the Riftbeasts for Gnar, Ashe and Taric.",
+            "ja": "柔軟性も高く、KrugをBlackthornヘックスに置いてTiger Primalバフを取れます。MalphiteをSett＋Vanguardに入れ替えることもでき、最終盤ではRiftbeastsを外してGnar、Ashe、Taricを入れる形で上限を伸ばせます。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: معاك Opener AD قوي حوالين Cinderling نجمتين مع Riftbeasts وأيتمز AD وتانك تكسب بيهم ستريك.",
-            "en": "Play it if: you have a strong AD opener around a 2-star Cinderling with Riftbeasts, and AD plus tank items to win a streak."
+            "en": "Play it if: you have a strong AD opener around a 2-star Cinderling with Riftbeasts, and AD plus tank items to win a streak.",
+            "ja": "プレイするなら：Riftbeastsを含む2スターCinderlingを軸に強いADオープナーがあり、ADとタンクアイテムで連勝を狙える場合。"
           },
           {
             "ar": "العبه لو: بتلاقي سيوف (B.F. Sword) كتير من الأوجمنتس والكاروسيل — الكومب جعان لها.",
-            "en": "Play it if: you are getting lots of B.F. Swords from augments and carousels — the comp is very sword-hungry."
+            "en": "Play it if: you are getting lots of B.F. Swords from augments and carousels — the comp is very sword-hungry.",
+            "ja": "プレイするなら：オーグメントやカルーセルからB.F. Swordを多く得ている場合。この構成は剣への依存度が高いです。"
           },
           {
             "ar": "العبه لو: معاك Hunter Emblem لـ Nidalee.",
-            "en": "Play it if: you have a Hunter emblem for Nidalee."
+            "en": "Play it if: you have a Hunter emblem for Nidalee.",
+            "ja": "プレイするなら：Nidalee用のHunterエンブレムがある場合。"
           },
           {
             "ar": "متلعبوش لو: Malphite متنافس عليه بشدة ومفيش تانك بديل (Sentinel أو Krug) — الفرونت لاين هيبقى ضعيف.",
-            "en": "Don't play it if: Malphite is heavily contested and you have no backup tank (Sentinel or Krug) — the frontline will be weak."
+            "en": "Don't play it if: Malphite is heavily contested and you have no backup tank (Sentinel or Krug) — the frontline will be weak.",
+            "ja": "避けるなら：Malphiteが強く競合していて、代替タンク（SentinelまたはKrug）もない場合。前衛が弱くなります。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "حط أيتمز على Sivir قبل Nidalee: الأولوية دايمًا لـ Nidalee.",
-            "en": "Itemizing Sivir before Nidalee: Nidalee always gets priority."
+            "en": "Itemizing Sivir before Nidalee: Nidalee always gets priority.",
+            "ja": "Nidaleeより先にSivirへアイテムを載せる：優先度は常にNidaleeです。"
           },
           {
             "ar": "التمسك بـ Malphite لو متنافس عليه: بدّله بـ Sentinel أو Krug كتانك.",
-            "en": "Forcing Malphite when it's contested: swap to Sentinel or Krug as your tank."
+            "en": "Forcing Malphite when it's contested: swap to Sentinel or Krug as your tank.",
+            "ja": "競合中のMalphiteに固執する：タンクをSentinelまたはKrugへ切り替えましょう。"
           },
           {
             "ar": "تجاهل الـ 5 Riftbeast: لو الشوب مش بيدّيك، ممكن تلعب 5 Riftbeast عشان شوبات أحسن أو فرونت لاين أعم.",
-            "en": "Ignoring 5 Riftbeast: if your shops aren't giving you what you need, you can flex into 5 Riftbeast for better shops or more generic frontline."
+            "en": "Ignoring 5 Riftbeast: if your shops aren't giving you what you need, you can flex into 5 Riftbeast for better shops or more generic frontline.",
+            "ja": "5 Riftbeastを無視する：ショップ運が悪い場合は5 Riftbeastへ柔軟に寄せ、ショップ改善や汎用前衛を狙えます。"
           }
         ]
       }
@@ -1653,62 +1701,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Aphelios Nidalee كومب 4 كوست Fast 8 متوسط: Aphelios الكاري الأساسي وNidalee كاري تاني. أحسن أيتم لـ Aphelios هو Red Buff، بس تقدر تلعب بيلد Rageblade كمان. Kog'Maw بيدّيك Shred وSunder مجانًا. الأيتمز: Recurve Bow ثم B.F. Sword ثم Sparring Gloves ثم Chain Vest.",
-            "en": "Aphelios Nidalee is a medium 4-cost Fast 8 comp: Aphelios is the main carry and Nidalee the second. Red Buff is best in slot on Aphelios, but a Rageblade build works too. Kog'Maw gives free Shred and Sunder. Items: Recurve Bow, then B.F. Sword, then Sparring Gloves, then Chain Vest."
+            "en": "Aphelios Nidalee is a medium 4-cost Fast 8 comp: Aphelios is the main carry and Nidalee the second. Red Buff is best in slot on Aphelios, but a Rageblade build works too. Kog'Maw gives free Shred and Sunder. Items: Recurve Bow, then B.F. Sword, then Sparring Gloves, then Chain Vest.",
+            "ja": "Aphelios Nidaleeは中難度の4コストFast 8構成です。Apheliosがメインキャリー、Nidaleeがサブです。ApheliosはRed Buffが最適ですが、Rageblade構成でも機能します。Kog'Mawが無料のShredとSunderを提供します。アイテムはRecurve Bow、B.F. Sword、Sparring Gloves、Chain Vestの順です。"
           },
           {
             "ar": "الكومب بياخد أيتمز كتير، فالـ BIS مش شرط — المهم تعمل Slam بدري وتكسب. وممكن تعتمد على Amumu أو Sentinel نجمتين كتانك رئيسي؛ لأن الكومب متنافس عليه كتير، اختار اللي يتطور أول.",
-            "en": "The comp uses a lot of items, so best-in-slot isn't required — slam early and win. Amumu or Sentinel at 2 stars can be your main tank; since the comp is often contested, prioritize whichever gets upgraded first."
+            "en": "The comp uses a lot of items, so best-in-slot isn't required — slam early and win. Amumu or Sentinel at 2 stars can be your main tank; since the comp is often contested, prioritize whichever gets upgraded first.",
+            "ja": "多くのアイテムを使うため、Best-in-Slotにこだわる必要はありません。序盤から装備して連勝しましょう。AmumuまたはSentinelの2スターをメインタンクにでき、競合しやすい構成なので、先に2スターになった方を優先します。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: معاك ستريك AD حوالين Rapidfires في الاستيدج التاني.",
-            "en": "Play it if: you have an AD win streak around Rapidfire units in stage 2."
+            "en": "Play it if: you have an AD win streak around Rapidfire units in stage 2.",
+            "ja": "プレイするなら：ステージ2でRapidfireを軸にAD連勝できる場合。"
           },
           {
             "ar": "العبه لو: جاتلك أوجمنت أيتمز — الكومب بياخد قطع كتير.",
-            "en": "Play it if: you hit an item augment — the comp takes many pieces."
+            "en": "Play it if: you hit an item augment — the comp takes many pieces.",
+            "ja": "プレイするなら：アイテムオーグメントを引いた場合。この構成は多くのパーツを使います。"
           },
           {
             "ar": "العبه لو: الـ Riftbeasts شغالة عندك، لأن Mama Beak ممكن يبقى كاري قوي هنا.",
-            "en": "Play it if: your Riftbeasts are online — Mama Beak can be a strong carry here."
+            "en": "Play it if: your Riftbeasts are online — Mama Beak can be a strong carry here.",
+            "ja": "プレイするなら：Riftbeastsが整っている場合。Mama Beakはここで強いキャリー候補です。"
           },
           {
             "ar": "متلعبوش لو: فيه لاعبين تانيين واضح إنهم على نفس الـ AD — الكومب متنافس عليه وهتتعب في إيجاد Aphelios والـ 4 كوست.",
-            "en": "Don't play it if: other players are clearly on the same AD line — the comp is contested and finding Aphelios and the 4-costs gets hard."
+            "en": "Don't play it if: other players are clearly on the same AD line — the comp is contested and finding Aphelios and the 4-costs gets hard.",
+            "ja": "避けるなら：他のプレイヤーも明確に同じADラインを狙っている場合。Apheliosと4コストを集めにくくなります。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "انتظار الـ BIS: مش لازم، اعمل Slam بدري عشان تكسب وتحافظ على الستريك.",
-            "en": "Waiting for best in slot: you don't need it — slam early to win and keep the streak."
+            "en": "Waiting for best in slot: you don't need it — slam early to win and keep the streak.",
+            "ja": "Best-in-Slotを待つ：必要ありません。早めに装備して勝ち、連勝を維持しましょう。"
           },
           {
             "ar": "الدخول لفل 9 بدري: لف على لفل 8 بقوة لـ Aphelios والـ 4 كوست، وروح 9 بس لما تكون كل الـ 4 كوست تقريبًا متطورة.",
-            "en": "Pushing level 9 early: roll heavily at level 8 for Aphelios and the 4-costs, and only go 9 once almost all your 4-costs are upgraded."
+            "en": "Pushing level 9 early: roll heavily at level 8 for Aphelios and the 4-costs, and only go 9 once almost all your 4-costs are upgraded.",
+            "ja": "早くレベル9へ進む：レベル8でApheliosと4コストを重点的にロールし、ほぼ全ての4コストが強化されたら9へ進みます。"
           },
           {
             "ar": "الاعتماد على تانك واحد: Amumu أو Sentinel نجمتين — اللي اتطور أول هو اللي يمسك الفرونت.",
-            "en": "Committing to one tank: Amumu or Sentinel at 2 stars — whichever upgrades first holds the front."
+            "en": "Committing to one tank: Amumu or Sentinel at 2 stars — whichever upgrades first holds the front.",
+            "ja": "タンクを1体に固定する：2スターのAmumuかSentinel、先に強化できた方を前衛にします。"
           }
         ]
       }
@@ -1935,62 +1995,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Malphite AP Flex كومب 4 كوست Fast 8 متوسط. الأساس Malphite + Azir + 2 Flora Fatalis للعلاج. تقدر تضيف Ahri أو Zyra أو Ezreal كاري إضافي، وLillia أو Amumu أو Kennen أو Maokai كفرونت مساعد. الأيتمز: Gargoyle Stoneplate ثم Tear of the Goddess ثم Needlessly Large Rod ثم Recurve Bow.",
-            "en": "Malphite AP Flex is a medium 4-cost Fast 8 comp. The core is Malphite plus Azir plus 2 Flora Fatalis for healing. You can add Ahri, Zyra or Ezreal as extra carries and Lillia, Amumu, Kennen or Maokai as supporting frontline. Items: Gargoyle Stoneplate, then Tear of the Goddess, then Needlessly Large Rod, then Recurve Bow."
+            "en": "Malphite AP Flex is a medium 4-cost Fast 8 comp. The core is Malphite plus Azir plus 2 Flora Fatalis for healing. You can add Ahri, Zyra or Ezreal as extra carries and Lillia, Amumu, Kennen or Maokai as supporting frontline. Items: Gargoyle Stoneplate, then Tear of the Goddess, then Needlessly Large Rod, then Recurve Bow.",
+            "ja": "Malphite AP Flexは中難度の4コストFast 8構成です。核はMalphite＋Azir＋2体のFlora Fatalisによる回復です。Ahri、Zyra、Ezrealを追加キャリーにし、Lillia、Amumu、Kennen、Maokaiを前衛サポートとして使えます。アイテムはGargoyle Stoneplate、Tear of the Goddess、Needlessly Large Rod、Recurve Bowの順です。"
           },
           {
             "ar": "ده كومب Flex بمعنى الكلمة: مش مربوط بكاري واحد، بتشتغل مع اللي جاتلك وبتحط الأيتمز على الوحدات المتطورة.",
-            "en": "This is a true flex comp: it isn't tied to one carry — you work with what you hit and put items on your upgraded units."
+            "en": "This is a true flex comp: it isn't tied to one carry — you work with what you hit and put items on your upgraded units.",
+            "ja": "これは本当のフレックス構成で、特定の1キャリーに固定されません。ロールダウンで引いた強化駒に合わせてアイテムを配分します。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: معاك Opener AP قوي، والأفضل حوالين Blossom، وأيتمز AP عامة وأيتمز Malphite تكسب بيهم ستريك.",
-            "en": "Play it if: you have a strong AP opener, ideally around Blossom, plus generic AP items and Malphite items to win a streak."
+            "en": "Play it if: you have a strong AP opener, ideally around Blossom, plus generic AP items and Malphite items to win a streak.",
+            "ja": "プレイするなら：強いAPオープナーがあり、できればBlossomを起点に、汎用APとMalphite用タンクアイテムで連勝できる場合。"
           },
           {
             "ar": "العبه لو: بتلاقي 3 كوست مفيدة زي Fiddlesticks وCassiopeia وAzir تقدر تفلكس حوالين Traits بتاعتهم.",
-            "en": "Play it if: you are finding useful 3-costs like Fiddlesticks, Cassiopeia and Azir that you can flex around their traits."
+            "en": "Play it if: you are finding useful 3-costs like Fiddlesticks, Cassiopeia and Azir that you can flex around their traits.",
+            "ja": "プレイするなら：Fiddlesticks、Cassiopeia、Azirのような有用な3コストを見つけ、それらのトレイトを軸に柔軟に組める場合。"
           },
           {
             "ar": "العبه لو: مرتاح تشتغل مع اللي جاتلك في الرول داون بدل ما تطارد وحدة معينة.",
-            "en": "Play it if: you're comfortable working with whatever you hit on the roll-down rather than chasing one unit."
+            "en": "Play it if: you're comfortable working with whatever you hit on the roll-down rather than chasing one unit.",
+            "ja": "プレイするなら：1体を追い続けるより、ロールダウンで引いた駒を活かせる場合。"
           },
           {
             "ar": "متلعبوش لو: عايز خطة ثابتة بكاري واحد محدد — الكومب ده بيتغير حسب الشوب.",
-            "en": "Don't play it if: you want a fixed plan around one specific carry — this comp changes with your shops."
+            "en": "Don't play it if: you want a fixed plan around one specific carry — this comp changes with your shops.",
+            "ja": "避けるなら：特定の1キャリーを固定したプランをしたい場合。この構成はショップ次第で変化します。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "التركيز الزيادة على وحدة واحدة في الرول داون: Malphite هو الأساس، بس اشتغل مع اللي جاتلك وما تتمسكش بحاجة معينة.",
-            "en": "Tunnelling on one unit during the roll-down: Malphite is the core, but work with what you hit and don't fixate."
+            "en": "Tunnelling on one unit during the roll-down: Malphite is the core, but work with what you hit and don't fixate.",
+            "ja": "ロールダウンで1体に固執する：Malphiteが核ですが、引いた駒を活かし、1体だけを追い続けないようにします。"
           },
           {
             "ar": "توزيع الأيتمز على وحدات نجمة واحدة: القاعدة إن الأيتمز تتحط على الوحدات المتطورة.",
-            "en": "Spreading items on 1-star units: the rule is to put items on upgraded units."
+            "en": "Spreading items on 1-star units: the rule is to put items on upgraded units.",
+            "ja": "1スターの駒にアイテムを分散する：基本は強化済みの駒にアイテムを載せます。"
           },
           {
             "ar": "إهمال الـ Flora Fatalis: هما مصدر العلاج وقلب الكومب.",
-            "en": "Ignoring Flora Fatalis: the two of them are your healing and the heart of the comp."
+            "en": "Ignoring Flora Fatalis: the two of them are your healing and the heart of the comp.",
+            "ja": "Flora Fatalisを無視する：2体のFlora Fatalisが回復の中心であり、この構成の核です。"
           }
         ]
       }
@@ -2253,62 +2325,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "الكومب كله متبني حوالين Kha'Zix: كل Takedown بياخده بيفتحله Trait جديد بالترتيب Ravager ثم Executioner ثم Spellweaver ثم Rapidfire، يعني كل ما كسب فايتات أكتر بقى أقوى. علشان كده الأيتمز على Kha'Zix بدري هي اللي بتفرق، ولو بدأ الـ Snowball بيبقى صعب توقفه.",
-            "en": "The whole comp is built around Kha'Zix: every takedown unlocks another trait for him, in the order Ravager, Executioner, Spellweaver, then Rapidfire, so the more fights he wins the stronger he gets. That is why early items on Kha'Zix matter so much — once he starts snowballing he is hard to stop."
+            "en": "The whole comp is built around Kha'Zix: every takedown unlocks another trait for him, in the order Ravager, Executioner, Spellweaver, then Rapidfire, so the more fights he wins the stronger he gets. That is why early items on Kha'Zix matter so much — once he starts snowballing he is hard to stop.",
+            "ja": "この構成はKha'Zixを完全に中心に組み立てます。撃破するたびにRavager、Executioner、Spellweaver、Rapidfireの順で追加トレイトが解放され、戦闘に勝つほど強くなります。そのため序盤からKha'Zixへアイテムを渡すことが重要で、雪だるま式に強くなると止めにくくなります。"
           },
           {
             "ar": "ده ريرول 3 كوست مش لفل 9، يعني مش بتطارد 5 كوست. بتلعب على لفل 6 ولفل 7 وبتبطّأ الرول على لفل 7 لحد ما 3 كوست زي Kha'Zix وHecarim وDiana يوصلوا 3 نجوم. العيب إنه معتمد على إنك تلاقي النسخ بدري — من غير Kha'Zix وأيتمز في الاستيدج التاني الكومب بيتأخر.",
-            "en": "This is a 3-cost reroll, not a level 9 comp — you are not chasing 5-costs. You play on levels 6–7 and slow-roll at 7 until 3-costs like Kha'Zix, Hecarim and Diana reach 3 stars. The trade-off is that it depends on finding copies early — without Kha'Zix and items by stage 2, the comp falls behind."
+            "en": "This is a 3-cost reroll, not a level 9 comp — you are not chasing 5-costs. You play on levels 6–7 and slow-roll at 7 until 3-costs like Kha'Zix, Hecarim and Diana reach 3 stars. The trade-off is that it depends on finding copies early — without Kha'Zix and items by stage 2, the comp falls behind.",
+            "ja": "これは3コストリロールであり、レベル9構成ではありません。レベル6～7でプレイし、7でスローロールしながらKha'Zix、Hecarim、Dianaなどの3コストを3スターまで育てます。序盤にコピーを集める必要があり、ステージ2までにKha'Zixとアイテムが揃わないと遅れやすいです。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: معاك Kha'Zix بدري ومعاه أيتمز في الاستيدج التاني — ده الشرط الأساسي عشان الـ Snowball يبدأ.",
-            "en": "Play it if: you have an early Kha'Zix with items in stage 2 — that is the requirement for the snowball to start."
+            "en": "Play it if: you have an early Kha'Zix with items in stage 2 — that is the requirement for the snowball to start.",
+            "ja": "プレイするなら：ステージ2でアイテム付きのKha'Zixを早く引けた場合。ここが雪だるま式の成長を始める条件です。"
           },
           {
             "ar": "العبه لو: معاك أي تانك متطور (نجمتين) تسند بيه لحد ما Kha'Zix يبدأ ياخد Takedowns.",
-            "en": "Play it if: you have any upgraded tank to stall while Kha'Zix starts taking takedowns."
+            "en": "Play it if: you have any upgraded tank to stall while Kha'Zix starts taking takedowns.",
+            "ja": "プレイするなら：Kha'Zixが撃破を重ねる間に時間を稼げる強化タンクがいる場合。"
           },
           {
             "ar": "العبه لو: جاتلك أوجمنت أيتمز أو إيكونومي، لأن الكومب بيحتاج قطع كتير وبيتحسن بالرولات على لفل 7.",
-            "en": "Play it if: you hit an item or economy augment — the comp wants lots of pieces and rewards rolling at level 7."
+            "en": "Play it if: you hit an item or economy augment — the comp wants lots of pieces and rewards rolling at level 7.",
+            "ja": "プレイするなら：アイテムまたはエコノミー系オーグメントを引いた場合。多くのパーツを必要とし、レベル7でのロールが重要です。"
           },
           {
             "ar": "متلعبوش لو: مفيش Kha'Zix ولا أيتمز تتحط عليه بدري — من غير الـ Snowball المبكر الكومب ده مش بيقوم، اختار مسار تاني.",
-            "en": "Don't play it if: there is no early Kha'Zix and no items to put on him — without the early snowball the comp doesn't come online, so pick another line."
+            "en": "Don't play it if: there is no early Kha'Zix and no items to put on him — without the early snowball the comp doesn't come online, so pick another line.",
+            "ja": "避けるなら：序盤のKha'Zixも彼に載せるアイテムもない場合。序盤の加速がないと構成が立ち上がりません。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "اللف المبكر من غير داعي: على لفل 6 لف خفيف بس لو معاك أزواج مهمة تستاهل ترقيتها أو Charms، غير كده اعمل Econ لحد لفل 7 وبعدين بطّأ الرول.",
-            "en": "Rolling early for no reason: at level 6 only roll lightly if you have crucial pairs or charms to upgrade; otherwise econ up to level 7 and slow-roll there."
+            "en": "Rolling early for no reason: at level 6 only roll lightly if you have crucial pairs or charms to upgrade; otherwise econ up to level 7 and slow-roll there.",
+            "ja": "理由なく早くロールする：レベル6では重要なペアやチャームがある時だけ軽くロールし、それ以外はレベル7までエコを優先して、7でスローロールします。"
           },
           {
             "ar": "توزيع الأيتمز غلط: الأولوية Hand of Justice ثم Edge of Night على Kha'Zix (ممكن Hand of Justice مرتين)، والـ AP الزيادة تروح لـ Diana مش لأي حد.",
-            "en": "Misplacing items: Hand of Justice then Edge of Night go on Kha'Zix first (double Hand of Justice is fine), and leftover AP should go to Diana rather than being spread around."
+            "en": "Misplacing items: Hand of Justice then Edge of Night go on Kha'Zix first (double Hand of Justice is fine), and leftover AP should go to Diana rather than being spread around.",
+            "ja": "アイテム配置を間違える：Hand of JusticeとEdge of NightはまずKha'Zixへ（Hand of Justiceの2個積みも可）。余ったAPは分散せずDianaへ渡します。"
           },
           {
             "ar": "تسيب Kha'Zix من غير فرونت لاين: أي تانك متطور بيشتريلك وقت، ولو مفيش هيموت قبل ما يقوى.",
-            "en": "Leaving Kha'Zix without a frontline: any upgraded tank buys him time; without one he dies before he gets strong."
+            "en": "Leaving Kha'Zix without a frontline: any upgraded tank buys him time; without one he dies before he gets strong.",
+            "ja": "Kha'Zixを前衛なしにする：強化済みタンクなら時間を稼げます。前衛がないと強くなる前に倒されます。"
           }
         ]
       }
@@ -2508,62 +2592,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "Caitlyn Hunters ريرول 2 كوست وسهل. الفكرة تكمل Caitlyn 3 نجوم مع Juggernauts 2 كوست وتلعب 4 Juggernaut + Hunters. الأيتمز: Guinsoo's Rageblade ثم Kraken's Fury ثم Recurve Bow ثم Giant's Belt. Caitlyn مش بتكاست، فأيتمز المانا عليها ملهاش لازمة.",
-            "en": "Caitlyn Hunters is an easy 2-cost reroll. You 3-star Caitlyn with 2-cost Juggernauts and play 4 Juggernaut plus Hunters. Items: Guinsoo's Rageblade, then Kraken's Fury, then Recurve Bow, then Giant's Belt. Caitlyn never casts, so mana items on her are useless."
+            "en": "Caitlyn Hunters is an easy 2-cost reroll. You 3-star Caitlyn with 2-cost Juggernauts and play 4 Juggernaut plus Hunters. Items: Guinsoo's Rageblade, then Kraken's Fury, then Recurve Bow, then Giant's Belt. Caitlyn never casts, so mana items on her are useless.",
+            "ja": "Caitlyn Huntersは簡単な2コストリロール構成です。Caitlynを3スターにし、2コストJuggernautsと組み合わせて4 Juggernaut＋Huntersを作ります。アイテムはGuinsoo's Rageblade、Kraken's Fury、Recurve Bow、Giant's Beltの順です。Caitlynはキャストしないため、マナアイテムは役に立ちません。"
           },
           {
             "ar": "الكومب بيطلع تير أو اتنين بأيتمز Radiant، خصوصًا Radiant Guinsoo's، وخد Turtle Primal buff. هو في B tier يعني أضعف من الكومبات التانية، بس سهل وثابت.",
-            "en": "The comp gains a tier or two with radiant items, especially radiant Guinsoo's, and you take the Turtle Primal buff. It sits in B tier, so it is weaker than the other comps, but it is easy and consistent."
+            "en": "The comp gains a tier or two with radiant items, especially radiant Guinsoo's, and you take the Turtle Primal buff. It sits in B tier, so it is weaker than the other comps, but it is easy and consistent.",
+            "ja": "レディアントアイテム、とくにRadiant Guinsoo'sで1～2段階強くなり、Turtle Primalバフを取ります。Bティアなので他の構成より弱めですが、簡単で安定しています。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: معاك Caitlyn وأيتمز Rageblade أو Bow في الاستيدج التاني — دول أساس الستريك، ولو الـ BIS صعب تجيبه ممكن تعمل Slam بـ Gunblade أو Giant Slayer.",
-            "en": "Play it if: you have Caitlyn and Rageblade or bow items in stage 2 — they are the streak's foundation, and if BIS is hard to hit you can slam Gunblade or Giant Slayer."
+            "en": "Play it if: you have Caitlyn and Rageblade or bow items in stage 2 — they are the streak's foundation, and if BIS is hard to hit you can slam Gunblade or Giant Slayer.",
+            "ja": "プレイするなら：ステージ2でCaitlynとRagebladeまたは弓アイテムがある場合。連勝の土台になります。BISが難しければGunbladeやGiant Slayerを早めに装備してもOKです。"
           },
           {
             "ar": "العبه لو: معاك Juggernauts 2 كوست (Sejuani وScuttlecrab) بدري وتقدر تطوّرهم.",
-            "en": "Play it if: you have early 2-cost Juggernauts (Sejuani, Scuttlecrab) you can upgrade."
+            "en": "Play it if: you have early 2-cost Juggernauts (Sejuani, Scuttlecrab) you can upgrade.",
+            "ja": "プレイするなら：早い段階で2コストJuggernauts（Sejuani、Scuttlecrab）を引いて強化できる場合。"
           },
           {
             "ar": "العبه لو: عايز كومب سهل ومستقر من غير ما تروح لفل 9.",
-            "en": "Play it if: you want an easy, stable comp without going to level 9."
+            "en": "Play it if: you want an easy, stable comp without going to level 9.",
+            "ja": "プレイするなら：レベル9へ進まず、簡単で安定した構成をプレイしたい場合。"
           },
           {
             "ar": "متلعبوش لو: مفيش وحدات 2 كوست تطوّرها بدري — الريرول محتاج نسخ كتير.",
-            "en": "Don't play it if: you have no 2-cost units to upgrade early — a reroll needs lots of copies."
+            "en": "Don't play it if: you have no 2-cost units to upgrade early — a reroll needs lots of copies.",
+            "ja": "避けるなら：序盤に強化できる2コスト駒が不足している場合。リロール構成は大量のコピーが必要です。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "أيتمز مانا على Caitlyn: هي مش بتكاست، فالمانا ملهاش لازمة.",
-            "en": "Mana items on Caitlyn: she never casts, so mana is wasted."
+            "en": "Mana items on Caitlyn: she never casts, so mana is wasted.",
+            "ja": "Caitlynにマナアイテム：キャストしないため、マナが無駄になります。"
           },
           {
             "ar": "الريرول من غير خطة: على لفل 6 لف لـ 4 Juggernaut و2 Hunter، طوّر Caitlyn نجمتين وJuggernaut 2 كوست، وبعدين Econ وبطّأ الرول فوق 50 دهب للـ 3 نجوم.",
-            "en": "Rolling without a plan: at level 6 roll for 4 Juggernaut and 2 Hunter, upgrade Caitlyn to 2 stars and a 2-cost Juggernaut, then econ and slow-roll above 50 gold for 3 stars."
+            "en": "Rolling without a plan: at level 6 roll for 4 Juggernaut and 2 Hunter, upgrade Caitlyn to 2 stars and a 2-cost Juggernaut, then econ and slow-roll above 50 gold for 3 stars.",
+            "ja": "計画なしにロールする：レベル6で4 Juggernaut＋2 Hunterを目指し、Caitlynと2コストJuggernautを2スターにしたらエコへ戻し、50ゴールド以上を維持して3スターを狙います。"
           },
           {
             "ar": "نسيان Turtle Primal: خده إلا لو محظوظ جدًا وتقدر تاخد أيتمز.",
-            "en": "Forgetting Turtle Primal: take it unless you are really high-rolling and can take items instead."
+            "en": "Forgetting Turtle Primal: take it unless you are really high-rolling and can take items instead.",
+            "ja": "Turtle Primalを忘れる：かなりハイロールしてアイテムを取れる場合以外は、基本的に取ります。"
           }
         ]
       }
@@ -2702,62 +2798,74 @@
       {
         "title": {
           "ar": "ليه الكومب ده قوي؟",
-          "en": "Why this comp works"
+          "en": "Why this comp works",
+          "ja": "この構成が強い理由"
         },
         "body": [
           {
             "ar": "باتش 18.3 رجّع الـ Wolf Bros (Warwick وMurkwolf) بالقوة بعد ما كانوا مهمّشين من ساعة الـ PBE. الاتنين اتباوفوا في نفس الباتش: Warwick بقى ضرره وعلاجه أعلى، وMurkwolf بقت هجمته المشحونة أقوى. الفكرة إنك بتعمل ريرول على فل 6 لحد ما تجيب Warwick وMurkwolf 3 نجوم، وبينهم Krug وBrambleback بيسندوا الفرونت والـBlackthorn.",
-            "en": "Patch 18.3 brought the Wolf Bros (Warwick and Murkwolf) back to life after they'd been sidelined since PBE. Both got buffed in the same patch: Warwick's damage and healing went up, and Murkwolf's empowered attack got stronger. The plan is to reroll at level 6 until Warwick and Murkwolf hit 3 stars, with Krug and Brambleback holding the frontline and Blackthorn trait."
+            "en": "Patch 18.3 brought the Wolf Bros (Warwick and Murkwolf) back to life after they'd been sidelined since PBE. Both got buffed in the same patch: Warwick's damage and healing went up, and Murkwolf's empowered attack got stronger. The plan is to reroll at level 6 until Warwick and Murkwolf hit 3 stars, with Krug and Brambleback holding the frontline and Blackthorn trait.",
+            "ja": "18.3パッチでWolf Bros（WarwickとMurkwolf）が復活しました。2体とも同じパッチで強化され、Warwickはダメージと回復量が上がり、Murkwolfの強化攻撃も強くなりました。レベル6でリロールしてWarwickとMurkwolfを3スターにし、KrugとBramblebackで前衛とBlackthornを担います。"
           },
           {
             "ar": "مانا Warwick هي مفتاح الكومب: كل ما يهاجم بياخد مانا، فلو حطيت عليه Titan's Resolve وSpear of Shojin هيوصل لسرعة هجوم عالية جدًا مع الوقت. Krug في مربع الـBlackthorn المركزي (تفضّل يكون 3 نجوم) بيدّي إحصائيات إضافية لكل الفريق، وBrambleback بيبقى كاري بديل لو مجاش معاك Murkwolf 3.",
-            "en": "Warwick's mana is the whole engine: every attack grants mana, so Titan's Resolve plus Spear of Shojin lets him ramp to very high Attack Speed over time. Krug in the central Blackthorn hex (ideally 3-star) grants bonus stats to the whole team, and Brambleback becomes your backup carry if Murkwolf 3 doesn't show up."
+            "en": "Warwick's mana is the whole engine: every attack grants mana, so Titan's Resolve plus Spear of Shojin lets him ramp to very high Attack Speed over time. Krug in the central Blackthorn hex (ideally 3-star) grants bonus stats to the whole team, and Brambleback becomes your backup carry if Murkwolf 3 doesn't show up.",
+            "ja": "Warwickのマナが構成のエンジンです。すべての攻撃でマナを得るため、Titan's ResolveとSpear of Shojinで時間とともに高い攻撃速度へ到達できます。中央のBlackthornヘックスに置いたKrug（理想は3スター）がチーム全体にボーナスを与え、Murkwolf 3が引けない場合はBramblebackがサブキャリーになります。"
           }
         ]
       },
       {
         "title": {
           "ar": "إمتى تلعب الكومب ده وإمتى متلعبوش",
-          "en": "When to play it — and when not to"
+          "en": "When to play it — and when not to",
+          "ja": "いつプレイするか — いつ避けるか"
         },
         "body": [],
         "bullets": [
           {
             "ar": "العبه لو: مش لاقي فتحة قوية لكومب تاني وعايز ريرول سهل ومستقر من غير ما تروح فل عالي.",
-            "en": "Play it if: you don't have a strong opener into another line and want an easy, stable reroll without pushing high levels."
+            "en": "Play it if: you don't have a strong opener into another line and want an easy, stable reroll without pushing high levels.",
+            "ja": "プレイするなら：他のラインへの強いオープナーがなく、高レベルを目指さない簡単で安定したリロールをしたい場合。"
           },
           {
             "ar": "العبه لو: معاك Warwick أو Murkwolf بدري وقادر تعمل Win Streak بيهم في الاستيدج التاني من غير ما تشتري خبرة.",
-            "en": "Play it if: you have an early Warwick or Murkwolf and can win-streak with them in stage 2 without buying XP."
+            "en": "Play it if: you have an early Warwick or Murkwolf and can win-streak with them in stage 2 without buying XP.",
+            "ja": "プレイするなら：序盤にWarwickまたはMurkwolfを引き、XPを買わずにステージ2で連勝できる場合。"
           },
           {
             "ar": "العبه لو: لقيت Titan's Resolve أو Spear of Shojin بدري — دول قلب الكومب وبيفرقوا معاه فرق كبير.",
-            "en": "Play it if: you find Titan's Resolve or Spear of Shojin early — they're the heart of the comp and matter a lot."
+            "en": "Play it if: you find Titan's Resolve or Spear of Shojin early — they're the heart of the comp and matter a lot.",
+            "ja": "プレイするなら：Titan's ResolveまたはSpear of Shojinを早く引いた場合。これらが構成の中心です。"
           },
           {
             "ar": "متلعبوش لو: Malphite أو Brambleback أو Azir متنافس عليهم بشدة من لاعبين تانيين — الكومب بيعتمد عليهم كفرونت لاين وبدونهم بيضعف كتير.",
-            "en": "Don't play it if: Malphite, Brambleback, or Azir are heavily contested by other players — the comp leans on them as frontline and weakens a lot without them."
+            "en": "Don't play it if: Malphite, Brambleback, or Azir are heavily contested by other players — the comp leans on them as frontline and weakens a lot without them.",
+            "ja": "避けるなら：他プレイヤーがMalphite、Brambleback、Azirを強く競合している場合。前衛を依存しているため、いないと大きく弱くなります。"
           }
         ]
       },
       {
         "title": {
           "ar": "أخطاء شائعة",
-          "en": "Common mistakes"
+          "en": "Common mistakes",
+          "ja": "よくあるミス"
         },
         "body": [],
         "bullets": [
           {
             "ar": "شراء خبرة بدري: من الاستيدج التاني للتالت خلي الدهب يزيد للفايدة، وادخل فل 6 عند 3-2 ولف على Warwick وMurkwolf 2 نجوم.",
-            "en": "Buying XP too early: from stage 2 to 3, let your gold sit for interest, then hit level 6 at 3-2 and roll for a 2-star Warwick and Murkwolf."
+            "en": "Buying XP too early: from stage 2 to 3, let your gold sit for interest, then hit level 6 at 3-2 and roll for a 2-star Warwick and Murkwolf.",
+            "ja": "早すぎるXP購入：ステージ2～3はゴールドを利息用に残し、3-2でレベル6にしてWarwickとMurkwolfを2スターにします。"
           },
           {
             "ar": "الاستمرار في اللف من غير اقتصاد: بعد ما تجيب 2-2، ابني اقتصادك تاني وبعدين ابدأ Slow Roll (فوق 50 دهب) للـ3 نجوم.",
-            "en": "Rolling continuously without rebuilding econ: after hitting 2-2, rebuild your economy first, then slow-roll (above 50 gold) for the 3-stars."
+            "en": "Rolling continuously without rebuilding econ: after hitting 2-2, rebuild your economy first, then slow-roll (above 50 gold) for the 3-stars.",
+            "ja": "エコを戻さず連続ロールする：2スターを作ったらまずエコを立て直し、その後50ゴールド以上でスローロールして3スターを狙います。"
           },
           {
             "ar": "التضحية بوحدة غلط في الـBlackthorn: ضحّي بمقاتل هجومي (Attack Fighter) مش تانك، وحط أقوى وحدة 3 نجوم عندك (يفضل Krug) في المربع المركزي.",
-            "en": "Sacrificing the wrong unit for Blackthorn: sacrifice an Attack Fighter, not a tank, and put your strongest 3-star unit (ideally Krug) in the center hex."
+            "en": "Sacrificing the wrong unit for Blackthorn: sacrifice an Attack Fighter, not a tank, and put your strongest 3-star unit (ideally Krug) in the center hex.",
+            "ja": "Blackthorn用に間違った駒を犠牲にする：タンクではなくAttack Fighterを犠牲にし、最強の3スター駒（理想はKrug）を中央ヘックスに置きます。"
           }
         ]
       }
@@ -2767,21 +2875,24 @@
         "stage": 2,
         "text": {
           "ar": "متشتريش خبرة خالص في الاستيدج التاني — خلّي الدهب يكبر بالفايدة. لو معاك Warwick أو Murkwolf 2 نجوم أو تقدر تعمل Slam لأيتم قوي، اعمل Win Streak عادي.",
-          "en": "Don't buy any XP in stage 2 — let your gold sit for interest. If you have a 2-star Warwick or Murkwolf, or can slam a strong item, it's fine to win-streak normally."
+          "en": "Don't buy any XP in stage 2 — let your gold sit for interest. If you have a 2-star Warwick or Murkwolf, or can slam a strong item, it's fine to win-streak normally.",
+          "ja": "ステージ2ではXPを一切買わず、ゴールドを利息用に残します。WarwickまたはMurkwolfが2スター、もしくは強いアイテムを早く装備できるなら、通常通り連勝を狙って問題ありません。"
         }
       },
       {
         "stage": 3,
         "text": {
           "ar": "ادخل فل 6 عند الجولة 3-2 ولف لحد ما تجيب Warwick وMurkwolf 2 نجوم. لو الأيتمز الأساسية (Titan's Resolve أو Shojin) مجتش، فكّر تعمل Lose Streak عشان تضمنها من الكاروسيل.",
-          "en": "Hit level 6 at round 3-2 and roll until you find a 2-star Warwick and Murkwolf. If your core items (Titan's Resolve or Shojin) haven't shown up, consider a lose streak to guarantee one on the carousel."
+          "en": "Hit level 6 at round 3-2 and roll until you find a 2-star Warwick and Murkwolf. If your core items (Titan's Resolve or Shojin) haven't shown up, consider a lose streak to guarantee one on the carousel.",
+          "ja": "3-2でレベル6にして、WarwickとMurkwolfの2スターが揃うまでロールします。コアアイテム（Titan's ResolveまたはShojin）がまだない場合は、カルーセルで確保するために連敗を検討できます。"
         }
       },
       {
         "stage": 4,
         "text": {
           "ar": "ابني اقتصادك تاني وابدأ Slow Roll فوق 50 دهب لـWarwick وMurkwolf 3 نجوم. لو Murkwolf 3 اتأخر، العب Brambleback ككاري تاني، وارفع اللفل بعد ما تخلص.",
-          "en": "Rebuild your economy and slow-roll above 50 gold for a 3-star Warwick and Murkwolf. If Murkwolf 3 is taking too long, play Brambleback as a second carry, and push levels once you're done rolling."
+          "en": "Rebuild your economy and slow-roll above 50 gold for a 3-star Warwick and Murkwolf. If Murkwolf 3 is taking too long, play Brambleback as a second carry, and push levels once you're done rolling.",
+          "ja": "エコを立て直し、50ゴールド以上でスローロールしてWarwickとMurkwolfを3スターにします。Murkwolf 3が遅い場合はBramblebackを2体目のキャリーにし、ロール終了後にレベルを上げます。"
         }
       }
     ]
