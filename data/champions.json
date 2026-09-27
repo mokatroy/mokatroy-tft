@@ -10,7 +10,7 @@
         "ja": "Akali"
       },
       "cost": 1,
-      "image": null,
+      "image": "assets/champions/akali.png",
       "traits": [
         {
           "name": "Inferno",
@@ -1432,12 +1432,12 @@
     },
     {
       "name": {
-        "en": "Raptor",
-        "ar": "Raptor",
-        "ja": "Raptor"
+        "en": "Mama Beak",
+        "ar": "Mama Beak",
+        "ja": "ママビーク"
       },
       "cost": 3,
-      "image": null,
+      "image": "assets/champions/mamabeak.png",
       "traits": [
         {
           "name": "Riftbeast",
