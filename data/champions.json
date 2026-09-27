@@ -2350,9 +2350,9 @@
     },
     {
       "name": {
-        "en": "The Elder Dragon",
-        "ar": "The Elder Dragon",
-        "ja": "The Elder Dragon"
+        "en": "Elder Dragon",
+        "ar": "Elder Dragon",
+        "ja": "Elder Dragon"
       },
       "cost": 5,
       "image": "assets/champions/elderdragon.png",
