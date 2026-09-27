@@ -119,7 +119,7 @@ export const itemDetails = {
     "stats": "20% Attack Speed • 20 Magic Resist • 20% Critical Strike",
     "effect": "Combat Start: Unstoppable for 14 seconds. Gain stacking Attack Speed."
   },
-  "Titan’s Resolve": {
+  "Titan's Resolve": {
     "stats": "10% Attack Damage • 20 Armor • 20 Attack Speed",
     "effect": "Attacking or taking damage grants stacking Attack Damage and Ability Power; at max stacks gain Damage Amp."
   },
