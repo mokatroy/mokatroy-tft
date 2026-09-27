@@ -25,7 +25,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Kunai Strike",
+        "en": "Throw a volley of kunai at the target, dealing 155/235/370 physical damage. If the target is Burning, deal an additional 35/52/80 damage. If the ability kills, cast it again.",
+        "ar": "Throw a volley of kunai at the target, dealing 155/235/370 physical damage. If the target is Burning, deal an additional 35/52/80 damage. If the ability kills, cast it again."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -60,7 +64,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Defensive Sweep",
+        "en": "Slice the target for 170/255/435 physical damage and gain a 60 Shield for 2 seconds.",
+        "ar": "Slice the target for 170/255/435 physical damage and gain a 60 Shield for 2 seconds."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -173,7 +181,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Dance of Life",
+        "en": "Restore 314/364/509 Health over 2 seconds. The next attack is replaced with a bash that deals 140/175/220 magic damage.",
+        "ar": "Restore 314/364/509 Health over 2 seconds. The next attack is replaced with a bash that deals 140/175/220 magic damage."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -208,7 +220,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Shield Bash",
+        "en": "Passive: Start combat with 60/70/80 bonus Armor and Magic Resist that decays over 12 seconds. Active: Bash the current target, dealing 60/108/162 magic damage and Stunning them for 1.5 seconds.",
+        "ar": "Passive: Start combat with 60/70/80 bonus Armor and Magic Resist that decays over 12 seconds. Active: Bash the current target, dealing 60/108/162 magic damage and Stunning them for 1.5 seconds."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -446,7 +462,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Primordial Burst",
+        "en": "Launch a giant blast at the target that deals 175/265/395 magic damage, increased to 265/400/595 if they are below 30% maximum Health. If they die, permanently gain 1.5% Ability Power.",
+        "ar": "Launch a giant blast at the target that deals 175/265/395 magic damage, increased to 265/400/595 if they are below 30% maximum Health. If they die, permanently gain 1.5% Ability Power."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -645,7 +665,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Spider Queen",
+        "en": "Transform into a spider and gain 375 maximum Health. Attacks in Spider Form deal 35/50/80 bonus magic damage and heal for 55/90/170. Subsequent casts grant 175% decaying Attack Speed for 4 seconds.",
+        "ar": "Transform into a spider and gain 375 maximum Health. Attacks in Spider Form deal 35/50/80 bonus magic damage and heal for 55/90/170. Subsequent casts grant 175% decaying Attack Speed for 4 seconds."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -719,7 +743,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Solar Judgement",
+        "en": "Passive: Kayle ascends based on her star level, gaining stacking bonuses. Attacks deal bonus magic damage; later ascensions add Shred, waves that damage other units, and infinite range.",
+        "ar": "Passive: Kayle ascends based on her star level, gaining stacking bonuses. Attacks deal bonus magic damage; later ascensions add Shred, waves that damage other units, and infinite range."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -793,7 +821,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Rending Claws",
+        "en": "Leap to the lowest-Health enemy within range and deal physical damage. The next attacks deal bonus physical damage.",
+        "ar": "Leap to the lowest-Health enemy within range and deal physical damage. The next attacks deal bonus physical damage."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -945,7 +977,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Fungus Among Us",
+        "en": "Throw 2 clusters of mushrooms that deal 60/90/135 magic damage to the 3 nearest enemies, then hurl a giant mushroom at the target for 135/200/310 magic damage. Each cast has a chance to forage an extra mushroom.",
+        "ar": "Throw 2 clusters of mushrooms that deal 60/90/135 magic damage to the 3 nearest enemies, then hurl a giant mushroom at the target for 135/200/310 magic damage. Each cast has a chance to forage an extra mushroom."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1101,7 +1137,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Noxious Blast",
+        "en": "Poison the target and the nearest non-poisoned enemy, dealing 425/640/1020 magic damage over 15 seconds. Poisons stack.",
+        "ar": "Poison the target and the nearest non-poisoned enemy, dealing 425/640/1020 magic damage over 15 seconds. Poisons stack."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1378,7 +1418,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Wuju Style",
+        "en": "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed. Adaptor: Double Strikes grant stacking Attack Speed or deal bonus damage and heal, depending on the chosen form.",
+        "ar": "Passive: Every third attack is a Double Strike. On takedown, gain a burst of movement speed. Adaptor: Double Strikes grant stacking Attack Speed or deal bonus damage and heal, depending on the chosen form."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1413,7 +1457,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Defensive Ball Curl",
+        "en": "Taunt enemies. For 4 seconds, gain a 350/450/550 Shield and 60 Armor and Magic Resist. When the Shield breaks, deal 50/75/120 physical damage to enemies within 2 hexes.",
+        "ar": "Taunt enemies. For 4 seconds, gain a 350/450/550 Shield and 60 Armor and Magic Resist. When the Shield breaks, deal 50/75/120 physical damage to enemies within 2 hexes."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1452,7 +1500,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Flock Friends",
+        "en": "Summon 4 untargetable Tiny Beaks nearby for 5 seconds. Whenever Mama Beak attacks, Tiny Beaks attack the same enemy, dealing 22/33/48 physical damage.",
+        "ar": "Summon 4 untargetable Tiny Beaks nearby for 5 seconds. Whenever Mama Beak attacks, Tiny Beaks attack the same enemy, dealing 22/33/48 physical damage."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1686,7 +1738,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Azure Shockwave",
+        "en": "Gains a large Shield for 4 seconds, then slams the ground toward the most enemies, knocking them up and dealing 100/150/3500 AP magic damage plus a Mana Reave effect.",
+        "ar": "الموجة الزرقاء"
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1760,7 +1816,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Crimson Fury",
+        "en": "Leap to the target and deal physical damage. Brambleback's attacks and abilities apply Armor reduction.",
+        "ar": "Leap to the target and deal physical damage. Brambleback's attacks and abilities apply Armor reduction."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -1834,7 +1894,11 @@
           "special": false
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Lilting Lullaby",
+        "en": "Restore 300/400/800 Health and send 4 butterflies at nearby enemies. Enemies hit take 90/135/2000 magic damage and are put to Sleep for 1.5 seconds.",
+        "ar": "Restore 300/400/800 Health and send 4 butterflies at nearby enemies. Enemies hit take 90/135/2000 magic damage and are put to Sleep for 1.5 seconds."
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -2302,7 +2366,11 @@
           "special": true
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Heat Without Equal",
+        "en": "Passive: attacks splash to adjacent enemies. Active: becomes invulnerable in the air, then on landing Stuns all enemies, gains Omnivamp, and Ignites them; immediately follows with Flame Breath — a line of fire dealing 285/435/7000% AD + 20/30/200 AP physical damage, executing enemies below 12% Health.",
+        "ar": "حرارة لا مثيل لها"
+      },
       "specialNote": null,
       "bestItems": [
         {
@@ -2450,7 +2518,11 @@
           "special": true
         }
       ],
-      "ability": null,
+      "ability": {
+        "name": "Chosen Aspect",
+        "en": "Lux's ability depends on her chosen aspect. Her Avatar trait lets her chosen aspect become a compatible origin and count twice for that origin.",
+        "ar": "Lux's ability depends on her chosen aspect. Her Avatar trait lets her chosen aspect become a compatible origin and count twice for that origin."
+      },
       "specialNote": "Avatar: her chosen aspect can become one of the compatible origins and counts twice for that origin.",
       "bestItems": [
         {
