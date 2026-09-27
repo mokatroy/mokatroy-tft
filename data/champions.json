@@ -1818,8 +1818,8 @@
       ],
       "ability": {
         "name": "Crimson Fury",
-        "en": "Leap to the target and deal physical damage. Brambleback's attacks and abilities apply Armor reduction.",
-        "ar": "Leap to the target and deal physical damage. Brambleback's attacks and abilities apply Armor reduction."
+        "en": "Passive: When the target dies, leap at the next target, dealing 155/235/1000 physical damage. Active: Gain 80/80/300% Attack Damage for 8 seconds. During this time, ignore 45/45/90% Armor. Red Buff: Attacks Burn enemies and heal Brambleback for 4% of max Health.",
+        "ar": "Passive: When the target dies, leap at the next target, dealing 155/235/1000 physical damage. Active: Gain 80/80/300% Attack Damage for 8 seconds. During this time, ignore 45/45/90% Armor. Red Buff: Attacks Burn enemies and heal Brambleback for 4% of max Health."
       },
       "specialNote": null,
       "bestItems": [
@@ -2519,9 +2519,9 @@
         }
       ],
       "ability": {
-        "name": "Chosen Aspect",
-        "en": "Lux's ability depends on her chosen aspect. Her Avatar trait lets her chosen aspect become a compatible origin and count twice for that origin.",
-        "ar": "Lux's ability depends on her chosen aspect. Her Avatar trait lets her chosen aspect become a compatible origin and count twice for that origin."
+        "name": "Final Spark",
+        "en": "Passive: On cast, all allies that share a trait with Lux gain 3 Mana. Active: Fire a laser toward the largest group of enemies, dealing 375/565/6500 magic damage, reduced by 25/25/10% for each enemy hit. Her chosen Avatar aspect adds a unique effect.",
+        "ar": "Passive: On cast, all allies that share a trait with Lux gain 3 Mana. Active: Fire a laser toward the largest group of enemies, dealing 375/565/6500 magic damage, reduced by 25/25/10% for each enemy hit. Her chosen Avatar aspect adds a unique effect."
       },
       "specialNote": "Avatar: her chosen aspect can become one of the compatible origins and counts twice for that origin.",
       "bestItems": [
