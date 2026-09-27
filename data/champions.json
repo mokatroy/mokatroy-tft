@@ -103,8 +103,8 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Infinity Edge",
-          "image": "assets/items/infinityedge.png"
+          "name": "Guinsoo's Rageblade",
+          "image": "assets/items/guinsoosrageblade.png"
         },
         {
           "name": "Last Whisper",
@@ -216,12 +216,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -298,8 +298,8 @@
           "image": "assets/items/jeweledgauntlet.png"
         },
         {
-          "name": "Void Staff",
-          "image": "assets/items/voidstaff.png"
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
         }
       ]
     },
@@ -376,12 +376,12 @@
           "image": "assets/items/titansresolve.png"
         },
         {
-          "name": "Steadfast Heart",
-          "image": "assets/items/steadfastheart.png"
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
         }
       ]
     },
@@ -450,16 +450,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Blue Buff",
-          "image": "assets/items/bluebuff.png"
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
         },
         {
           "name": "Jeweled Gauntlet",
           "image": "assets/items/jeweledgauntlet.png"
         },
         {
-          "name": "Hextech Gunblade",
-          "image": "assets/items/hextechgunblade.png"
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
         }
       ]
     },
@@ -579,12 +579,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -688,16 +688,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Spear of Shojin",
-          "image": "assets/items/spearofshojin.png"
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Jeweled Gauntlet",
-          "image": "assets/items/jeweledgauntlet.png"
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
         },
         {
-          "name": "Hextech Gunblade",
-          "image": "assets/items/hextechgunblade.png"
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -992,12 +992,12 @@
           "image": "assets/items/titansresolve.png"
         },
         {
-          "name": "Spear of Shojin",
-          "image": "assets/items/spearofshojin.png"
-        },
-        {
           "name": "Hand of Justice",
           "image": "assets/items/handofjustice.png"
+        },
+        {
+          "name": "Sterak's Gage",
+          "image": "assets/items/steraksgage.png"
         }
       ]
     },
@@ -1027,16 +1027,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Blue Buff",
-          "image": "assets/items/bluebuff.png"
+          "name": "Gargoyle Stoneplate",
+          "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Void Staff",
-          "image": "assets/items/voidstaff.png"
+          "name": "Steadfast Heart",
+          "image": "assets/items/steadfastheart.png"
         },
         {
-          "name": "Hextech Gunblade",
-          "image": "assets/items/hextechgunblade.png"
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -1074,12 +1074,12 @@
           "image": "assets/items/spearofshojin.png"
         },
         {
-          "name": "Void Staff",
-          "image": "assets/items/voidstaff.png"
+          "name": "Jeweled Gauntlet",
+          "image": "assets/items/jeweledgauntlet.png"
         },
         {
-          "name": "Nashor's Tooth",
-          "image": "assets/items/nashorstooth.png"
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
         }
       ]
     },
@@ -1105,16 +1105,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Red Buff",
-          "image": "assets/items/redbuff.png"
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
         },
         {
           "name": "Jeweled Gauntlet",
           "image": "assets/items/jeweledgauntlet.png"
         },
         {
-          "name": "Nashor's Tooth",
-          "image": "assets/items/nashorstooth.png"
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
         }
       ]
     },
@@ -1148,12 +1148,12 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Nashor's Tooth",
-          "image": "assets/items/nashorstooth.png"
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
         },
         {
-          "name": "Kraken's Fury",
-          "image": "assets/items/krakenslayer.png"
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
         },
         {
           "name": "Sterak's Gage",
@@ -1265,16 +1265,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Blue Buff",
-          "image": "assets/items/bluebuff.png"
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
         },
         {
-          "name": "Spear of Shojin",
-          "image": "assets/items/spearofshojin.png"
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
         },
         {
-          "name": "Hextech Gunblade",
-          "image": "assets/items/hextechgunblade.png"
+          "name": "Edge of Night",
+          "image": "assets/items/edgeofnight.png"
         }
       ]
     },
@@ -1382,12 +1382,12 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Hand of Justice",
-          "image": "assets/items/handofjustice.png"
+          "name": "Titan's Resolve",
+          "image": "assets/items/titansresolve.png"
         },
         {
-          "name": "Infinity Edge",
-          "image": "assets/items/infinityedge.png"
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
         },
         {
           "name": "Sterak's Gage",
@@ -1577,8 +1577,8 @@
           "image": "assets/items/titansresolve.png"
         },
         {
-          "name": "Gargoyle Stoneplate",
-          "image": "assets/items/gargoylestoneplate.png"
+          "name": "Hand of Justice",
+          "image": "assets/items/handofjustice.png"
         },
         {
           "name": "Sterak's Gage",
@@ -1655,12 +1655,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Crownguard",
-          "image": "assets/items/crownguard.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -1729,16 +1729,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Kraken's Fury",
-          "image": "assets/items/krakenslayer.png"
-        },
-        {
           "name": "Infinity Edge",
           "image": "assets/items/infinityedge.png"
         },
         {
-          "name": "Deathblade",
-          "image": "assets/items/deathblade.png"
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
+        },
+        {
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
         }
       ]
     },
@@ -1803,16 +1803,16 @@
       "specialNote": null,
       "bestItems": [
         {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
           "name": "Infinity Edge",
           "image": "assets/items/infinityedge.png"
         },
         {
-          "name": "Guinsoo's Rageblade",
-          "image": "assets/items/guinsoosrageblade.png"
-        },
-        {
-          "name": "Kraken's Fury",
-          "image": "assets/items/krakenslayer.png"
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
         }
       ]
     },
@@ -2080,8 +2080,8 @@
           "image": "assets/items/infinityedge.png"
         },
         {
-          "name": "Guinsoo's Rageblade",
-          "image": "assets/items/guinsoosrageblade.png"
+          "name": "Deathblade",
+          "image": "assets/items/deathblade.png"
         },
         {
           "name": "Last Whisper",
@@ -2197,16 +2197,16 @@
       "specialNote": null,
       "bestItems": [
         {
+          "name": "Spear of Shojin",
+          "image": "assets/items/spearofshojin.png"
+        },
+        {
           "name": "Jeweled Gauntlet",
           "image": "assets/items/jeweledgauntlet.png"
         },
         {
-          "name": "Giant Slayer",
-          "image": "assets/items/giantslayer.png"
-        },
-        {
-          "name": "Guinsoo's Rageblade",
-          "image": "assets/items/guinsoosrageblade.png"
+          "name": "Rabadon's Deathcap",
+          "image": "assets/items/rabadonsdeathcap.png"
         }
       ]
     },
@@ -2236,16 +2236,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Guinsoo's Rageblade",
-          "image": "assets/items/guinsoosrageblade.png"
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
         },
         {
-          "name": "Spear of Shojin",
-          "image": "assets/items/spearofshojin.png"
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
         },
         {
-          "name": "Void Staff",
-          "image": "assets/items/voidstaff.png"
+          "name": "Giant Slayer",
+          "image": "assets/items/giantslayer.png"
         }
       ]
     },
@@ -2271,16 +2271,16 @@
       "specialNote": null,
       "bestItems": [
         {
-          "name": "Kraken's Fury",
-          "image": "assets/items/krakenslayer.png"
-        },
-        {
           "name": "Infinity Edge",
           "image": "assets/items/infinityedge.png"
         },
         {
           "name": "Deathblade",
           "image": "assets/items/deathblade.png"
+        },
+        {
+          "name": "Last Whisper",
+          "image": "assets/items/lastwhisper.png"
         }
       ]
     },
@@ -2353,8 +2353,8 @@
           "image": "assets/items/guinsoosrageblade.png"
         },
         {
-          "name": "Deathblade",
-          "image": "assets/items/deathblade.png"
+          "name": "Infinity Edge",
+          "image": "assets/items/infinityedge.png"
         },
         {
           "name": "Last Whisper",
@@ -2388,12 +2388,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -2497,12 +2497,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     },
@@ -2536,12 +2536,12 @@
           "image": "assets/items/gargoylestoneplate.png"
         },
         {
-          "name": "Dragon's Claw",
-          "image": "assets/items/dragonsclaw.png"
-        },
-        {
           "name": "Steadfast Heart",
           "image": "assets/items/steadfastheart.png"
+        },
+        {
+          "name": "Dragon's Claw",
+          "image": "assets/items/dragonsclaw.png"
         }
       ]
     }
