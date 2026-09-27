@@ -12,4 +12,28 @@ export function siteBase(){const parts=location.pathname.split('/');const i=part
 export function localePath(page='',target=lang){const clean=String(page||'').replace(/^\/+|\/+$/g,'');const base=siteBase();if(target==='ar')return !clean||clean==='index.html'?`${base}/`:`${base}/${clean}`;return !clean||clean==='index.html'?`${base}/${target}/`:`${base}/${target}/${clean}`}
 export function currentLocaleUrl(target=lang){const parts=location.pathname.split('/');const i=parts.findIndex(x=>x==='en'||x==='ja');let base,page;if(i>=0){base=parts.slice(0,i);page=parts[i+1]||''}else{base=parts.slice(0,-1);page=parts[parts.length-1]||'';if(page==='index.html')page=''}const next=[...base];if(target!=='ar')next.push(target);if(page)next.push(page);let path=next.join('/');if(!path.startsWith('/'))path='/'+path;if(!path.endsWith('/')&&!page)path+='/';return path+(location.search||'')+(location.hash||'')}
 export function applyLanguage(){document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';document.querySelectorAll('.lang-toggle').forEach(b=>b.textContent=LANG_LABEL[nextLang()])}
-export function setupLanguage(onChange){applyLanguage();document.querySelectorAll('.lang-toggle').forEach(b=>b.addEventListener('click',()=>location.assign(currentLocaleUrl(nextLang()))));onChange?.()}
+export function setupLanguage(onChange){
+applyLanguage();
+document.querySelectorAll('.lang-toggle').forEach(b=>b.addEventListener('click',()=>location.assign(currentLocaleUrl(nextLang()))));
+document.addEventListener('click',event=>{
+ const a=event.target.closest('a[href]');
+ if(!a||event.defaultPrevented||event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey||a.target==='_blank'||a.hasAttribute('download'))return;
+ const raw=a.getAttribute('href');
+ if(!raw||raw.startsWith('#')||/^(mailto:|tel:|javascript:|data:)/i.test(raw))return;
+ let url;try{url=new URL(raw,location.href)}catch{return}
+ if(url.origin!==location.origin)return;
+ const parts=url.pathname.split('/');
+ const localeIndex=parts.findIndex(x=>x==='en'||x==='ja');
+ if(localeIndex>=0)parts.splice(localeIndex,1);
+ const base=siteBase().split('/').filter(Boolean);
+ let pathParts=parts.filter(Boolean);
+ // Keep the site's deployment base path while removing any old locale prefix.
+ if(base.length&&base.every((part,i)=>pathParts[i]===part))pathParts=pathParts.slice(base.length);
+ const page=pathParts.join('/');
+ const localized=localePath(page,lang);
+ const target=new URL(localized,location.origin);
+ target.search=url.search;target.hash=url.hash;
+ if(target.pathname!==url.pathname){event.preventDefault();location.assign(target.pathname+target.search+target.hash)}
+});
+onChange?.()
+}
