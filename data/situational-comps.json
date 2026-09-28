@@ -8,7 +8,6 @@
       "en": "3-Cost Reroll · Conditional",
       "ja": "3コストリロール · 条件付き"
     },
-    "url": "https://tftacademy.com/tierlist/comps/set-18-unrivaled-reroll",
     "augments": [
       "Rivals",
       "Heroic Grab Bag+",
@@ -28,7 +27,8 @@
       "ar": "Unrivaled Kha'Zix",
       "en": "Unrivaled Kha'Zix",
       "ja": "アンライバルド・カ＝ジックス"
-    }
+    },
+    "slug": "unrivaled-khazix"
   },
   {
     "name": "Ravager Elise",
@@ -39,7 +39,6 @@
       "en": "2-Cost Reroll · Medium",
       "ja": "2コストリロール · 中級"
     },
-    "url": "https://tftacademy.com/tierlist/comps/set-18-infinite-elise",
     "augments": [
       "Coven Trait Augment (Loot to AP)",
       "Coven Trait Augment",
@@ -59,7 +58,8 @@
       "ar": "Ravager Elise",
       "en": "Ravager Elise",
       "ja": "ラヴェジャー・エリス"
-    }
+    },
+    "slug": "ravager-elise"
   },
   {
     "name": "Veigar Consuming Flora",
@@ -70,7 +70,6 @@
       "en": "1-Cost Reroll · Easy",
       "ja": "1コストリロール · 初級"
     },
-    "url": "https://tftacademy.com/tierlist/comps/set-18-dark-mages",
     "augments": [
       "Living Forge",
       "Forged in Strength",
@@ -90,7 +89,8 @@
       "ar": "Veigar Consuming Flora",
       "en": "Veigar Consuming Flora",
       "ja": "ヴェイガー・コンスーミングフローラ"
-    }
+    },
+    "slug": "veigar-consuming-flora"
   },
   {
     "name": "Fae Tristana",
@@ -101,7 +101,6 @@
       "en": "3-Cost Reroll · Medium",
       "ja": "3コストリロール · 中級"
     },
-    "url": "https://tftacademy.com/tierlist/comps/set-18-sprykin-trist",
     "augments": [
       "URF",
       "Urfs Grab Bag",
@@ -121,6 +120,7 @@
       "ar": "Fae Tristana",
       "en": "Fae Tristana",
       "ja": "フェイ・トリスターナ"
-    }
+    },
+    "slug": "fae-tristana"
   }
 ]
