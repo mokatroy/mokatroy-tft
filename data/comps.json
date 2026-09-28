@@ -300,6 +300,48 @@
         "cost": 2,
         "image": "assets/champions/scuttlecrab.png"
       }
+    ],
+    "augments": [
+      {
+        "ar": "Birthday Reunion",
+        "en": "Birthday Reunion",
+        "ja": "Birthday Reunion"
+      },
+      {
+        "ar": "Birthday Present",
+        "en": "Birthday Present",
+        "ja": "Birthday Present"
+      },
+      {
+        "ar": "Level Up!",
+        "en": "Level Up!",
+        "ja": "Level Up!"
+      },
+      {
+        "ar": "Luxury Subscription",
+        "en": "Luxury Subscription",
+        "ja": "Luxury Subscription"
+      },
+      {
+        "ar": "Duo Queue",
+        "en": "Duo Queue",
+        "ja": "Duo Queue"
+      },
+      {
+        "ar": "Late Game Specialist",
+        "en": "Late Game Specialist",
+        "ja": "Late Game Specialist"
+      },
+      {
+        "ar": "Late Game Scaling",
+        "en": "Late Game Scaling",
+        "ja": "Late Game Scaling"
+      },
+      {
+        "ar": "Swordsmith",
+        "en": "Swordsmith",
+        "ja": "Swordsmith"
+      }
     ]
   },
   {
@@ -568,6 +610,48 @@
             "ja": "Elderwoodを忘れる：樹木の味方はおまけではなく、この構成の強さの一部です。トレイトを維持しましょう。"
           }
         ]
+      }
+    ],
+    "augments": [
+      {
+        "ar": "Birthday Reunion",
+        "en": "Birthday Reunion",
+        "ja": "Birthday Reunion"
+      },
+      {
+        "ar": "Birthday Present",
+        "en": "Birthday Present",
+        "ja": "Birthday Present"
+      },
+      {
+        "ar": "Level Up!",
+        "en": "Level Up!",
+        "ja": "Level Up!"
+      },
+      {
+        "ar": "Luxury Subscription",
+        "en": "Luxury Subscription",
+        "ja": "Luxury Subscription"
+      },
+      {
+        "ar": "Duo Queue",
+        "en": "Duo Queue",
+        "ja": "Duo Queue"
+      },
+      {
+        "ar": "Late Game Specialist",
+        "en": "Late Game Specialist",
+        "ja": "Late Game Specialist"
+      },
+      {
+        "ar": "Late Game Scaling",
+        "en": "Late Game Scaling",
+        "ja": "Late Game Scaling"
+      },
+      {
+        "ar": "Swordsmith",
+        "en": "Swordsmith",
+        "ja": "Swordsmith"
       }
     ]
   },
@@ -863,6 +947,48 @@
           }
         ]
       }
+    ],
+    "augments": [
+      {
+        "ar": "Jeweled Lotus I",
+        "en": "Jeweled Lotus I",
+        "ja": "Jeweled Lotus I"
+      },
+      {
+        "ar": "Jeweled Lotus II",
+        "en": "Jeweled Lotus II",
+        "ja": "Jeweled Lotus II"
+      },
+      {
+        "ar": "Glass Cannon I",
+        "en": "Glass Cannon I",
+        "ja": "Glass Cannon I"
+      },
+      {
+        "ar": "Glass Cannon II",
+        "en": "Glass Cannon II",
+        "ja": "Glass Cannon II"
+      },
+      {
+        "ar": "FOURcing",
+        "en": "FOURcing",
+        "ja": "FOURcing"
+      },
+      {
+        "ar": "Staffsmith",
+        "en": "Staffsmith",
+        "ja": "Staffsmith"
+      },
+      {
+        "ar": "Cybernetic Uplink",
+        "en": "Cybernetic Uplink",
+        "ja": "Cybernetic Uplink"
+      },
+      {
+        "ar": "Wand Overflow",
+        "en": "Wand Overflow",
+        "ja": "Wand Overflow"
+      }
     ]
   },
   {
@@ -1148,6 +1274,48 @@
             "ja": "Turtle Primalバフを忘れる：基本的に取ってよく、提示アイテムが明らかに優れている場合だけスキップします。"
           }
         ]
+      }
+    ],
+    "augments": [
+      {
+        "ar": "Blackthorn Trait Augment",
+        "en": "Blackthorn Trait Augment",
+        "ja": "Blackthorn Trait Augment"
+      },
+      {
+        "ar": "Big Grab Bag",
+        "en": "Big Grab Bag",
+        "ja": "Big Grab Bag"
+      },
+      {
+        "ar": "Cybernetic Uplink",
+        "en": "Cybernetic Uplink",
+        "ja": "Cybernetic Uplink"
+      },
+      {
+        "ar": "Commerce Core",
+        "en": "Commerce Core",
+        "ja": "Commerce Core"
+      },
+      {
+        "ar": "Spreading Roots",
+        "en": "Spreading Roots",
+        "ja": "Spreading Roots"
+      },
+      {
+        "ar": "The Trait Tree",
+        "en": "The Trait Tree",
+        "ja": "The Trait Tree"
+      },
+      {
+        "ar": "Carve a Path",
+        "en": "Carve a Path",
+        "ja": "Carve a Path"
+      },
+      {
+        "ar": "Boxing Lessons",
+        "en": "Boxing Lessons",
+        "ja": "Boxing Lessons"
       }
     ]
   },
@@ -1456,6 +1624,48 @@
             "ja": "5 Riftbeastを無視する：ショップ運が悪い場合は5 Riftbeastへ柔軟に寄せ、ショップ改善や汎用前衛を狙えます。"
           }
         ]
+      }
+    ],
+    "augments": [
+      {
+        "ar": "Big Grab Bag",
+        "en": "Big Grab Bag",
+        "ja": "Big Grab Bag"
+      },
+      {
+        "ar": "Primal Augment+ (Nidalee)",
+        "en": "Primal Augment+ (Nidalee)",
+        "ja": "Primal Augment+ (Nidalee)"
+      },
+      {
+        "ar": "Caretaker's Favor",
+        "en": "Caretaker's Favor",
+        "ja": "Caretaker's Favor"
+      },
+      {
+        "ar": "Swordsmith",
+        "en": "Swordsmith",
+        "ja": "Swordsmith"
+      },
+      {
+        "ar": "Primal Augment+ (Sivir)",
+        "en": "Primal Augment+ (Sivir)",
+        "ja": "Primal Augment+ (Sivir)"
+      },
+      {
+        "ar": "Carve a Path",
+        "en": "Carve a Path",
+        "ja": "Carve a Path"
+      },
+      {
+        "ar": "FOURcing",
+        "en": "FOURcing",
+        "ja": "FOURcing"
+      },
+      {
+        "ar": "Deadlier Blades",
+        "en": "Deadlier Blades",
+        "ja": "Deadlier Blades"
       }
     ]
   },
@@ -1772,6 +1982,48 @@
           }
         ]
       }
+    ],
+    "augments": [
+      {
+        "ar": "Swordsmith",
+        "en": "Swordsmith",
+        "ja": "Swordsmith"
+      },
+      {
+        "ar": "Carve a Path",
+        "en": "Carve a Path",
+        "ja": "Carve a Path"
+      },
+      {
+        "ar": "Sword Overflow",
+        "en": "Sword Overflow",
+        "ja": "Sword Overflow"
+      },
+      {
+        "ar": "Blackthorn Trait Augment",
+        "en": "Blackthorn Trait Augment",
+        "ja": "Blackthorn Trait Augment"
+      },
+      {
+        "ar": "Buried Treasures III",
+        "en": "Buried Treasures III",
+        "ja": "Buried Treasures III"
+      },
+      {
+        "ar": "FOURcing",
+        "en": "FOURcing",
+        "ja": "FOURcing"
+      },
+      {
+        "ar": "One Buff Two Buff",
+        "en": "One Buff Two Buff",
+        "ja": "One Buff Two Buff"
+      },
+      {
+        "ar": "Epic Rolldown",
+        "en": "Epic Rolldown",
+        "ja": "Epic Rolldown"
+      }
     ]
   },
   {
@@ -2065,6 +2317,48 @@
             "ja": "Flora Fatalisを無視する：2体のFlora Fatalisが回復の中心であり、この構成の核です。"
           }
         ]
+      }
+    ],
+    "augments": [
+      {
+        "ar": "Blackthorn Trait Augment",
+        "en": "Blackthorn Trait Augment",
+        "ja": "Blackthorn Trait Augment"
+      },
+      {
+        "ar": "Flowing Tears",
+        "en": "Flowing Tears",
+        "ja": "Flowing Tears"
+      },
+      {
+        "ar": "Solo Plate",
+        "en": "Solo Plate",
+        "ja": "Solo Plate"
+      },
+      {
+        "ar": "Small Grab Bag",
+        "en": "Small Grab Bag",
+        "ja": "Small Grab Bag"
+      },
+      {
+        "ar": "Big Grab Bag",
+        "en": "Big Grab Bag",
+        "ja": "Big Grab Bag"
+      },
+      {
+        "ar": "Cybernetic Uplink",
+        "en": "Cybernetic Uplink",
+        "ja": "Cybernetic Uplink"
+      },
+      {
+        "ar": "Buried Treasures III",
+        "en": "Buried Treasures III",
+        "ja": "Buried Treasures III"
+      },
+      {
+        "ar": "Commerce Core",
+        "en": "Commerce Core",
+        "ja": "Commerce Core"
       }
     ]
   },
@@ -2396,6 +2690,48 @@
           }
         ]
       }
+    ],
+    "augments": [
+      {
+        "ar": "Champ Delivery",
+        "en": "Champ Delivery",
+        "ja": "Champ Delivery"
+      },
+      {
+        "ar": "Pandora's Bench",
+        "en": "Pandora's Bench",
+        "ja": "Pandora's Bench"
+      },
+      {
+        "ar": "Flowing Tears",
+        "en": "Flowing Tears",
+        "ja": "Flowing Tears"
+      },
+      {
+        "ar": "Advanced Loan+",
+        "en": "Advanced Loan+",
+        "ja": "Advanced Loan+"
+      },
+      {
+        "ar": "Heroic Grab Bag++",
+        "en": "Heroic Grab Bag++",
+        "ja": "Heroic Grab Bag++"
+      },
+      {
+        "ar": "Legion of Threes",
+        "en": "Legion of Threes",
+        "ja": "Legion of Threes"
+      },
+      {
+        "ar": "Lucky Gloves+",
+        "en": "Lucky Gloves+",
+        "ja": "Lucky Gloves+"
+      },
+      {
+        "ar": "Prismatic Ticket",
+        "en": "Prismatic Ticket",
+        "ja": "Prismatic Ticket"
+      }
     ]
   },
   {
@@ -2662,6 +2998,48 @@
             "ja": "Turtle Primalを忘れる：かなりハイロールしてアイテムを取れる場合以外は、基本的に取ります。"
           }
         ]
+      }
+    ],
+    "augments": [
+      {
+        "ar": "Expedition",
+        "en": "Expedition",
+        "ja": "Expedition"
+      },
+      {
+        "ar": "Backup Bows",
+        "en": "Backup Bows",
+        "ja": "Backup Bows"
+      },
+      {
+        "ar": "Prismatic Ticket",
+        "en": "Prismatic Ticket",
+        "ja": "Prismatic Ticket"
+      },
+      {
+        "ar": "Shimmerscale Essence",
+        "en": "Shimmerscale Essence",
+        "ja": "Shimmerscale Essence"
+      },
+      {
+        "ar": "Trade Sector",
+        "en": "Trade Sector",
+        "ja": "Trade Sector"
+      },
+      {
+        "ar": "Heroic Grab Bag",
+        "en": "Heroic Grab Bag",
+        "ja": "Heroic Grab Bag"
+      },
+      {
+        "ar": "Radiant Relic",
+        "en": "Radiant Relic",
+        "ja": "Radiant Relic"
+      },
+      {
+        "ar": "Golden Gamble++",
+        "en": "Golden Gamble++",
+        "ja": "Golden Gamble++"
       }
     ]
   },
