@@ -23,6 +23,11 @@
       "ar": "اختارها لما يكون عندك فرصة تستفيد من Rival، والأوجمنتس الداعمة للريرول والموارد.",
       "en": "Consider when you can use Rival and supporting reroll or resource augments.",
       "ja": "Rivalを活用でき、リロールや資源系オーグメントがある場合に検討。"
+    },
+    "title": {
+      "ar": "Unrivaled Kha'Zix",
+      "en": "Unrivaled Kha'Zix",
+      "ja": "アンライバルド・カ＝ジックス"
     }
   },
   {
@@ -49,6 +54,11 @@
       "ar": "أوجمنت Ravager Emblem مناسب جدًا؛ ومن غيره تقدر تلعب 4 Vanguard مع Coven وتغيّر الخانات الأخيرة.",
       "en": "Ravager Emblem is especially strong; without it, use 4 Vanguard with Coven and flex the remaining slots.",
       "ja": "Ravagerの紋章が特に有効。ない場合はCovenとVanguard 4を軸に残りを調整。"
+    },
+    "title": {
+      "ar": "Ravager Elise",
+      "en": "Ravager Elise",
+      "ja": "ラヴェジャー・エリス"
     }
   },
   {
@@ -75,6 +85,11 @@
       "ar": "ركز على Veigar من البداية، واستفد من أوجمنتس الـForge أو Flora Fatalis لو ظهرت.",
       "en": "Prioritize Veigar early; Forge or Flora Fatalis augments are relevant options.",
       "ja": "序盤からVeigarを優先し、Forge系やFlora Fatalisのオーグメントを活用。"
+    },
+    "title": {
+      "ar": "Veigar Consuming Flora",
+      "en": "Veigar Consuming Flora",
+      "ja": "ヴェイガー・コンスーミングフローラ"
     }
   },
   {
@@ -101,6 +116,11 @@
       "ar": "ما تلعبهاش من غير Fae Emblem؛ الوصول لـ4 Fae بدري جزء أساسي من الخطة.",
       "en": "Do not play without Fae Emblem; reaching 4 Fae early is central to the plan.",
       "ja": "Faeの紋章がない場合はプレイしない。早期にFae 4を揃えることが重要。"
+    },
+    "title": {
+      "ar": "Fae Tristana",
+      "en": "Fae Tristana",
+      "ja": "フェイ・トリスターナ"
     }
   }
 ]
