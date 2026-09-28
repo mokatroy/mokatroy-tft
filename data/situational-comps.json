@@ -176,13 +176,13 @@
     ],
     "guide": {
       "board": [
-        "Brambleback",
         "Sentinel",
-        "Warwick",
+        "Hecarim",
         "Elise",
         "Diana",
+        "Morgana",
         "Murkwolf",
-        "Kha'Zix",
+        "Brambleback",
         "Camille"
       ],
       "items": [
@@ -191,31 +191,30 @@
           "items": [
             "Ravager Emblem",
             "Guinsoo's Rageblade",
-            "Titan's Resolve"
+            "Archangel's Staff"
           ]
         },
         {
-          "unit": "Brambleback",
+          "unit": "Diana",
           "items": [
-            "Sterak's Gage",
-            "Edge of Night",
-            "Bloodthirster"
+            "Jeweled Gauntlet",
+            "Striker's Flail",
+            "Hand of Justice"
           ]
         },
         {
-          "unit": "Warwick",
+          "unit": "Morgana",
           "items": [
-            "Titan's Resolve",
-            "Spear of Shojin",
-            "Sterak's Gage"
+            "Void Staff",
+            "Morellonomicon"
           ]
         }
       ],
       "priority": [
-        "Ravager Emblem",
         "Guinsoo's Rageblade",
         "Titan's Resolve",
-        "Sterak's Gage"
+        "Negatron Cloak",
+        "Chain Vest"
       ],
       "early": [
         "Coven units",
@@ -421,20 +420,13 @@
       "board": [
         "Rammus",
         "Vi",
+        "Kobuko",
+        "Lillia",
         "Rakan",
-        "Tristana",
         "Sivir",
-        "Lillia"
+        "Tristana"
       ],
       "items": [
-        {
-          "unit": "Tristana",
-          "items": [
-            "Guinsoo's Rageblade",
-            "Hextech Gunblade",
-            "Kraken's Fury"
-          ]
-        },
         {
           "unit": "Rammus",
           "items": [
@@ -444,19 +436,27 @@
           ]
         },
         {
+          "unit": "Tristana",
+          "items": [
+            "Guinsoo's Rageblade",
+            "Hextech Gunblade",
+            "Kraken's Fury"
+          ]
+        },
+        {
           "unit": "Sivir",
           "items": [
-            "Last Whisper",
             "Fae Emblem",
-            "Infinity Edge"
+            "Last Whisper",
+            "Red Buff"
           ]
         }
       ],
       "priority": [
-        "Fae Emblem",
         "Guinsoo's Rageblade",
-        "Gargoyle Stoneplate",
-        "Spirit Visage"
+        "Hextech Gunblade",
+        "B.F. Sword",
+        "Recurve Bow"
       ],
       "early": [
         "Fae units",
