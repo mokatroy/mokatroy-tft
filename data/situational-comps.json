@@ -19,16 +19,42 @@
       "Salvage Bin+"
     ],
     "note": {
-      "ar": "اختارها لما يكون عندك فرصة تستفيد من Rival، والأوجمنتس الداعمة للريرول والموارد.",
-      "en": "Consider when you can use Rival and supporting reroll or resource augments.",
-      "ja": "Rivalを活用でき、リロールや資源系オーグメントがある場合に検討。"
+      "ar": "التشكيلة مشروطة بوجود Kha'Zix مبكر وأيتمز مناسبة. ترتيب الخصائص التي يكتسبها مع الإقصاءات مهم.",
+      "en": "Conditional on an early Kha'Zix with suitable items. The order of traits gained through takedowns matters.",
+      "ja": "早期のKha'Zixと適切なアイテムが条件。キルによるトレイト獲得順が重要です。"
     },
     "title": {
       "ar": "Unrivaled Kha'Zix",
       "en": "Unrivaled Kha'Zix",
       "ja": "アンライバルド・カ＝ジックス"
     },
-    "slug": "unrivaled-khazix"
+    "slug": "unrivaled-khazix",
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "العبها فقط لو حصلت على Kha'Zix مبكرًا ومعه أيتمز مناسبة. استخدم فرونت لاين مطوّر لكسب وقت.",
+          "en": "Only consider this with an early Kha'Zix and suitable items. Use upgraded frontline to buy time.",
+          "ja": "早期にKha'Zixと適切なアイテムが揃った場合に検討。強化した前衛で時間を稼ぎます。"
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "لو عندك أزواج مهمة على لفل 6، ممكن تعمل رول بسيط؛ وإلا حافظ على الاقتصاد واتجه إلى لفل 7.",
+          "en": "If you have key pairs at level 6, roll a little; otherwise preserve economy toward level 7.",
+          "ja": "レベル6で重要なペアがあれば少しロールし、なければ経済を維持してレベル7を目指します。"
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "اعمل Slow Roll على لفل 7 لتطوير وحدات الـ3 كوست المستهدفة. حاول تفعيل خصائص Kha'Zix بالتتابع مع الإقصاءات.",
+          "en": "Slow roll at level 7 for your target 3-cost upgrades. Sequence Kha'Zix's gained traits through takedowns.",
+          "ja": "レベル7でスローロールし、狙う3コストを強化。Kha'Zixのキルによるトレイト獲得順を意識します。"
+        }
+      }
+    ]
   },
   {
     "name": "Ravager Elise",
@@ -50,16 +76,42 @@
       "Expedition"
     ],
     "note": {
-      "ar": "أوجمنت Ravager Emblem مناسب جدًا؛ ومن غيره تقدر تلعب 4 Vanguard مع Coven وتغيّر الخانات الأخيرة.",
-      "en": "Ravager Emblem is especially strong; without it, use 4 Vanguard with Coven and flex the remaining slots.",
-      "ja": "Ravagerの紋章が特に有効。ない場合はCovenとVanguard 4を軸に残りを調整。"
+      "ar": "قوية جدًا مع Ravager Emblem. من غيره تقدر تلعب 4 Vanguard مع Coven وتكمّل الخانات الأخيرة حسب المتاح. Elise تقدر تستخدم Gargoyle Stoneplate بدل Archangel's Staff لبناء دفاعي.",
+      "en": "Very strong with Ravager Emblem. Without it, use 4 Vanguard with Coven and flex the remaining slots. Elise can use Gargoyle Stoneplate instead of Archangel's Staff for a more defensive build.",
+      "ja": "Ravagerの紋章が非常に有効。ない場合はCovenとVanguard 4を軸に残りを調整。防御寄りならEliseにArchangel's Staffの代わりにGargoyle Stoneplateを装備できます。"
     },
     "title": {
       "ar": "Ravager Elise",
       "en": "Ravager Elise",
       "ja": "ラヴェジャー・エリス"
     },
-    "slug": "ravager-elise"
+    "slug": "ravager-elise",
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "ابدأ حول Coven واجمع Essence. الفوز المبكر أفضل من الخسارة المتعمدة؛ ما تجبرش Lose Streak.",
+          "en": "Open around Coven and gather Essence. Winning early is better than forcing a loss streak.",
+          "ja": "Covenを軸に始めてEssenceを集めます。無理に連敗するより序盤に勝つ方が有効です。"
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "ارفع لفل 6 ودوّر على Elise نجمتين ووحدات Coven وRavager إضافية. مع أيتمز AD ابحث عن Murkwolf، ومع AP ابحث عن Diana.",
+          "en": "Level to 6 and roll for 2-star Elise, Coven units, and another Ravager. With AD items look for Murkwolf; with AP look for Diana.",
+          "ja": "レベル6に上げ、2スターElise、Coven、追加のRavagerを狙います。ADアイテムならMurkwolf、APならDianaを探します。"
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "أنهِ تطوير Elise إلى 3 نجوم، ثم ارفع المستوى وأضف Vanguard أو Coven أو وحدات Lunar/5 كوست حسب المتاح.",
+          "en": "Finish 3-star Elise, then level up and add Vanguard, Coven, or Lunar/5-cost units as available.",
+          "ja": "Eliseを3スターにしてからレベルを上げ、状況に応じてVanguard、Coven、Lunarや5コストを追加します。"
+        }
+      }
+    ]
   },
   {
     "name": "Veigar Consuming Flora",
@@ -112,15 +164,41 @@
       "Swordsmith"
     ],
     "note": {
-      "ar": "ما تلعبهاش من غير Fae Emblem؛ الوصول لـ4 Fae بدري جزء أساسي من الخطة.",
-      "en": "Do not play without Fae Emblem; reaching 4 Fae early is central to the plan.",
-      "ja": "Faeの紋章がない場合はプレイしない。早期にFae 4を揃えることが重要。"
+      "ar": "ما تلعبهاش من غير Fae Emblem. الوصول إلى 4 Fae بدري مهم. لو مش لاقي Rammus، ممكن Vi تكون التانك الأساسي. غالبًا اختار Primal Execute بدل Item Primal، إلا لو متقدم جدًا أو عامل ون ستريك.",
+      "en": "Do not play without Fae Emblem. Reaching 4 Fae early is important. Vi can be the main tank if you cannot find Rammus. Prefer Execute Primal over Item Primal unless far ahead or win-streaking.",
+      "ja": "Faeの紋章なしではプレイしないでください。早期にFae 4を揃えることが重要です。Rammusが見つからなければViをメインタンクにできます。大きく先行または連勝中でない限り、Item PrimalよりExecute Primalを優先します。"
     },
     "title": {
       "ar": "Fae Tristana",
       "en": "Fae Tristana",
       "ja": "フェイ・トリスターナ"
     },
-    "slug": "fae-tristana"
+    "slug": "fae-tristana",
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "العب على ون ستريك مع حامل Rageblade مطوّر، وابدأ تفعيل Fae بدري؛ الوصول إلى 7 Fae بسرعة مهم للاقتصاد.",
+          "en": "Play for a win streak with an upgraded Rageblade holder and start stacking Fae early; reaching 7 Fae quickly is important for economy.",
+          "ja": "強化したRageblade持ちで連勝を狙い、早めにFaeを重ねます。早期にFae 7へ到達することが経済面で重要です。"
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "حط الأيتمز على Tristana بمجرد ما تلاقيها. Sprykin أهم من Hunter. لو Primal ظهر بدري وإنت متقدم، ممكن تختار أيتمز.",
+          "en": "Itemize Tristana as soon as you find her. Sprykin matters more than Hunter. If you hit Primal early while ahead, items can be considered.",
+          "ja": "Tristanaを見つけたらすぐアイテムを装備。HunterよりSprykinを優先します。大きく先行して早期にPrimalを引いた場合はアイテムも検討できます。"
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "ارفع لفل 7 واعمل Slow Roll فوق 50 دهب لتطوير Tristana وRammus إلى 3 نجوم. استخدم مكافآت Fae لرفع المستوى، وادّي Sivir الأيتمز الفيزيائية الزيادة.",
+          "en": "Level to 7 and slow roll above 50 gold for 3-star Tristana and Rammus. Use Fae cash-outs to level and give leftover AD items to Sivir.",
+          "ja": "レベル7に上げ、50ゴールド以上でスローロールしてTristanaとRammusを3スターにします。Faeの換金でレベルを上げ、余ったADアイテムはSivirへ。"
+        }
+      }
+    ]
   }
 ]
