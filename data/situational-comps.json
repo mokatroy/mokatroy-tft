@@ -142,7 +142,33 @@
       "en": "Veigar Consuming Flora",
       "ja": "ヴェイガー・コンスーミングフローラ"
     },
-    "slug": "veigar-consuming-flora"
+    "slug": "veigar-consuming-flora",
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "العب حول Veigar بس لو عندك ترقيات بدري عشان يقدر يكبر ويجمع الستاك. خلي أولوية الأيتمز ليه.",
+          "en": "Only play around this opener with early upgrades so Veigar can snowball and gain stacks. Prioritize Veigar items.",
+          "ja": "序盤に強化が揃っている場合のみ、この構成を狙いましょう。Veigarのスタックを伸ばすため、アイテムを優先します。"
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "لو قربت من Veigar 3 نجوم (7 نسخ أو أكتر)، فكّر تلف لحد ما تكمله. لو لسه بعيد (3–4 نسخ)، اعمل Slow Roll فوق 50 دهب.",
+          "en": "If you are close to Veigar 3 (7+ copies), consider rolling until you hit 3-star. If far (3–4 copies), slow roll above 50 gold.",
+          "ja": "Veigarが7体以上いて3スターに近いなら、完成までロールを検討。3〜4体で遠い場合は50ゴールド以上を維持してスローロールします。"
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "بعد ما تكمّل Veigar 3 نجوم، ارفع المستوى عشان تزود Sprykin أو Blackthorn أو Brawler.",
+          "en": "Once you finish 3-star Veigar, push levels for more Sprykin, Blackthorn, or Brawlers.",
+          "ja": "Veigarを3スターにしたらレベルを上げ、Sprykin・Blackthorn・Brawlerを追加します。"
+        }
+      }
+    ]
   },
   {
     "name": "Fae Tristana",
