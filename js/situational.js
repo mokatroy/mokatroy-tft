@@ -5,10 +5,10 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const key=s=>String(s||'').toLowerCase().replace(/[^a-z0-9]/g,'');
 const itemAliases={'krakensfury':'krakenslayer','faeemblem':'spatula','ravageremblem':'spatula','florafatalisemblem':'spatula'};
 const boardPositions={
-'unrivaled-khazix':[[3,2],[3,3],[3,4],[3,5],[4,3],[4,4],[4,5],[4,6]],
-'ravager-elise':[[3,2],[3,3],[3,4],[3,5],[4,2],[4,3],[4,4],[4,5]],
-'veigar-consuming-flora':[[3,2],[3,3],[3,4],[3,5],[4,2],[4,3],[4,4],[4,5]],
-'fae-tristana':[[3,3],[3,4],[3,5],[4,2],[4,4],[4,5]]};
+'unrivaled-khazix':['p3','p4','p1','p5','p2','p6','p8','p7'],
+'ravager-elise':['p3','p4','p2','p6','p7','p8','p9','p5'],
+'veigar-consuming-flora':['p1','p2','p3','p4','p5','p9','p7','p8'],
+'fae-tristana':['p3','p4','p5','p2','p8','p7']};
 function champSrc(name){return'assets/champions/'+key(name)+'.png'}
 function itemSrc(name){return'assets/items/'+(itemAliases[key(name)]||key(name))+'.png'}
 function img(src,alt,cls=''){return'<img class="'+cls+'" src="'+src+'" alt="'+esc(alt)+'" loading="lazy" onerror="this.style.display=\'none\'">'}
@@ -16,7 +16,7 @@ function render(){const c=all.find(x=>x.slug===slug),root=document.querySelector
 const g=c.guide||{},localized=k=>lang==='ar'?(g.ar?.[k]||g[k]):lang==='ja'?(g.ja?.[k]||g[k]):(g.en?.[k]||g[k]),txt=v=>typeof v==='object'?(v[lang]||v.en||v.ar||''):v,panel=(title,body,cls='')=>body?'<section class="sit-panel '+cls+'"><h2>'+title+'</h2>'+body+'</section>':'';
 document.title=txt(c.title)+' — MokaTroy TFT';document.documentElement.lang=lang;document.documentElement.dir=lang==='ar'?'rtl':'ltr';
 const slots=boardPositions[c.slug]||[];const carryItems=new Map((g.items||[]).map(x=>[key(x.unit),x.items||[]]));
-const board=(g.board||[]).map((u,i)=>{const [row,col]=slots[i]||[4,(i%7)+1],its=carryItems.get(key(u))||[];return'<div class="board-slot" style="grid-column:'+col+';grid-row:'+row+'"><div class="unit-hex hex-small">'+img(champSrc(u),u)+'<span class="unit-name">'+esc(u)+'</span>'+(its.length?'<span class="unit-items">'+its.slice(0,3).map(it=>'<span class="unit-item" title="'+esc(it)+'">'+img(itemSrc(it),it)+'</span>').join('')+'</span>':'')+'</div></div>'}).join('');
+const board=(g.board||[]).map((u,i)=>{const pos=slots[i]||'p9',its=carryItems.get(key(u))||[];return'<div class="board-slot '+pos+'"><div class="unit-hex hex-small">'+img(champSrc(u),u)+'<span class="unit-name">'+esc(u)+'</span>'+(its.length?'<span class="unit-items">'+its.slice(0,3).map(it=>'<span class="unit-item" title="'+esc(it)+'">'+img(itemSrc(it),it)+'</span>').join('')+'</span>':'')+'</div></div>'}).join('');
 const itemRows=(g.items||[]).map(x=>'<div class="sit-item-row"><div class="sit-carry">'+img(champSrc(x.unit),x.unit,'sit-unit-icon')+'<strong>'+esc(x.unit)+'</strong></div><div class="sit-item-icons">'+x.items.map(i=>'<span class="sit-item" title="'+esc(i)+'">'+img(itemSrc(i),i,'sit-item-icon')+'<small>'+esc(i)+'</small></span>').join('')+'</div></div>').join('');
 const priority=(g.priority||[]).map((i,n)=>'<span><b>'+(n+1)+'.</b> '+img(itemSrc(i),i,'priority-item-icon')+esc(i)+'</span>').join('');const aug=(c.augments||[]).map(a=>'<span>'+esc(a)+'</span>').join('');const stages=(c.stages||[]).map(s=>'<div class="sit-stage"><strong>'+L.stage+' '+s.stage+'</strong><div class="sit-muted">'+esc(txt(s.text))+'</div></div>').join('');
 root.innerHTML='<section class="sit-hero"><span class="situational-label">SITUATIONAL · SET 18</span><h1>'+esc(txt(c.title))+'</h1><p class="sit-muted">'+esc(txt(c.style))+'</p><p class="sit-muted">'+esc(txt(c.note))+'</p></section>'+panel(L.board,'<div class="sit-tft-board"><div class="sit-board-grid">'+board+'</div></div>','sit-board-panel')+'<div class="sit-grid">'+panel(L.items,itemRows)+panel(L.priority,'<div class="sit-augments">'+priority+'</div>')+panel(L.early,'<div class="sit-muted">'+(g.early||[]).map(esc).join(' · ')+'</div>')+panel(L.flex,'<div class="sit-muted">'+(g.flex||[]).map(x=>'<p>'+esc(txt(x))+'</p>').join('')+'</div>')+panel(L.position,'<p class="sit-muted">'+esc(localized('position'))+'</p>')+panel(L.alt,'<p class="sit-muted">'+esc(localized('alt'))+'</p>')+panel(L.augments,'<div class="sit-augments">'+aug+'</div>')+panel(L.tips,'<p class="sit-muted">'+esc(txt(c.note))+'</p>')+'</div>'+panel(L.stages,'<div class="sit-stages">'+stages+'</div>');
