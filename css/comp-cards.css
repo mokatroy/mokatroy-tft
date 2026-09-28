@@ -40,3 +40,12 @@
 .champ-modal-card{overflow:visible}
 .modal-items,.modal-traits{overflow:visible}
 .modal-item,.modal-trait{position:relative}
+
+/* Recommended item icons on composition board units */
+.unit-items{position:absolute;z-index:4;right:2%;bottom:3%;display:flex;gap:1px;max-width:94%;justify-content:flex-end;pointer-events:none}
+.unit-item{display:block;width:20px;height:20px;flex:0 0 20px;padding:1px;border:1px solid rgba(233,185,100,.85);border-radius:4px;background:rgba(8,11,20,.92);box-shadow:0 2px 5px rgba(0,0,0,.55)}
+.unit-item img{display:block;width:100%;height:100%;object-fit:cover;border-radius:2px;transform:none;filter:none}
+.hex-small .unit-items{bottom:4%;gap:0}
+.hex-small .unit-item{width:17px;height:17px;flex-basis:17px;border-radius:3px}
+@media(max-width:800px){.hex-small .unit-items{bottom:4%}.hex-small .unit-item{width:14px;height:14px;flex-basis:14px}}
+@media(max-width:520px){.hex-small .unit-item{width:12px;height:12px;flex-basis:12px}}
