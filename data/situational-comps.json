@@ -57,11 +57,14 @@
     ],
     "guide": {
       "board": [
-        "Kha'Zix",
+        "Amumu",
+        "Shen",
+        "Fiddlesticks",
+        "Akali",
+        "Varus",
         "Rengar",
-        "Hecarim",
-        "LeBlanc",
-        "Elderwood"
+        "Kennen",
+        "Kha'Zix"
       ],
       "items": [
         {
@@ -173,12 +176,12 @@
     ],
     "guide": {
       "board": [
-        "Elise",
         "Brambleback",
         "Sentinel",
+        "Warwick",
+        "Elise",
         "Diana",
         "Murkwolf",
-        "Warwick",
         "Kha'Zix",
         "Camille"
       ],
@@ -299,12 +302,12 @@
     ],
     "guide": {
       "board": [
-        "Veigar",
         "Rek'Sai",
-        "Gnar",
         "Sett",
-        "Fiddlesticks",
         "Rammus",
+        "Gnar",
+        "Veigar",
+        "Fiddlesticks",
         "Teemo",
         "Kobuko"
       ],
