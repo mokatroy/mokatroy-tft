@@ -49,3 +49,12 @@
 .hex-small .unit-item{width:17px;height:17px;flex-basis:17px;border-radius:3px}
 @media(max-width:800px){.hex-small .unit-items{bottom:4%}.hex-small .unit-item{width:14px;height:14px;flex-basis:14px}}
 @media(max-width:520px){.hex-small .unit-item{width:12px;height:12px;flex-basis:12px}}
+
+/* Keep item badges outside the clipped champion hex */
+.board-slot{position:absolute;overflow:visible;isolation:isolate}
+.board-slot .unit-hex{display:block;overflow:hidden}
+.board-slot .unit-items{position:absolute;z-index:6;left:50%;right:auto;bottom:-8px;transform:translateX(-50%);display:flex;gap:2px;max-width:none;justify-content:center;white-space:nowrap;pointer-events:none}
+.board-slot .unit-item{width:19px;height:19px;flex:0 0 19px;padding:1px;border:1px solid rgba(233,185,100,.95);border-radius:4px;background:#080b14;box-shadow:0 2px 5px rgba(0,0,0,.65)}
+.board-slot .unit-item img{display:block;width:100%;height:100%;object-fit:cover;border-radius:2px;transform:none;filter:none}
+@media(max-width:800px){.board-slot .unit-items{bottom:-7px;gap:1px}.board-slot .unit-item{width:15px;height:15px;flex-basis:15px}}
+@media(max-width:520px){.board-slot .unit-items{bottom:-6px}.board-slot .unit-item{width:13px;height:13px;flex-basis:13px}}
