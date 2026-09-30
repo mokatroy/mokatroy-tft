@@ -483,5 +483,114 @@
         "alt": "Faeの紋章が必須。大きく先行または連勝中でない限り、Item PrimalよりExecute Primalを優先。"
       }
     }
+  },
+  {
+    "name": "Lunar Rapidfire",
+    "ar": "Lunar Rapidfire",
+    "ja": "ルナ・ラピッドファイア",
+    "style": {
+      "ar": "Fast 8 · مشروطة بأوجمنت",
+      "en": "Fast 8 · Augment-dependent",
+      "ja": "ファスト8 · オーグメント必須"
+    },
+    "augments": [
+      "Beast Within"
+    ],
+    "note": {
+      "ar": "لا تلعب التشكيلة إلا بعد ظهور أوجمنت Beast Within؛ فهو يغيّر مكافأة Primal ويمنحك Vi فورًا وNidalee بعد 3 جولات. ركّز على الوصول إلى لفل 8 وبناء خط أمامي يحمي Aphelios وSentinel.",
+      "en": "Only commit after you are offered Beast Within. It changes the Primal blessing and grants Vi immediately, then Nidalee after 3 rounds. Aim for level 8 and protect Aphelios and Sentinel with a durable frontline.",
+      "ja": "Beast Withinが提示された場合のみプレイします。Primalの祝福が変化し、Viを即時獲得、3ラウンド後にNidaleeを獲得します。レベル8を目指し、ApheliosとSentinelを前衛で守ります。"
+    },
+    "title": {
+      "ar": "Lunar Rapidfire",
+      "en": "Lunar Rapidfire",
+      "ja": "ルナ・ラピッドファイア"
+    },
+    "slug": "lunar-rapidfire",
+    "stages": [
+      {
+        "stage": 2,
+        "text": {
+          "ar": "استخدم أقوى بورد متاح ولا تجبر التشكيلة قبل ظهور Beast Within. احتفظ بوحدات Primal وRapidfire المناسبة، وحاول بناء اقتصاد جيد.",
+          "en": "Play your strongest available board and do not force the comp before Beast Within appears. Hold useful Primal and Rapidfire units while building economy.",
+          "ja": "Beast Withinが出るまでは最も強い盤面を使い、無理に構成を決めません。PrimalとRapidfireのユニットを確保しつつ経済を整えます。"
+        }
+      },
+      {
+        "stage": 3,
+        "text": {
+          "ar": "بعد اختيار Beast Within، استخدم Vi التي تحصل عليها فورًا وأكمل وحداتك تدريجيًا. جهّز مكونات الأيتمز لـAphelios والتانك.",
+          "en": "After taking Beast Within, use the granted Vi immediately and build toward the full board. Prepare components for Aphelios and your tank.",
+          "ja": "Beast Withinを取ったら、獲得したViをすぐに使い、盤面を整えます。Apheliosとタンク用の素材を準備します。"
+        }
+      },
+      {
+        "stage": 4,
+        "text": {
+          "ar": "ارفع لفل 8 واعمل رول داون للوصول إلى Aphelios وSentinel وباقي الوحدات الأساسية. وزّع الأيتمز حسب ما وصلت له، ولا تضحّي بقوة البورد لمجرد انتظار قطعة واحدة.",
+          "en": "Level to 8 and roll down for Aphelios, Sentinel, and the rest of the core. Slam items based on what you hit rather than weakening the board while waiting for one unit.",
+          "ja": "レベル8でロールし、Aphelios、Sentinelと主力を揃えます。特定のユニットを待って盤面を弱くせず、揃った状況に応じてアイテムを装備します。"
+        }
+      }
+    ],
+    "guide": {
+      "board": [
+        "Amumu",
+        "Aphelios",
+        "Nidalee",
+        "Sentinel",
+        "Diana",
+        "Kog'Maw",
+        "Vi",
+        "Varus"
+      ],
+      "items": [
+        {
+          "unit": "Aphelios",
+          "items": [
+            "Guinsoo's Rageblade",
+            "Kraken's Fury",
+            "Infinity Edge"
+          ]
+        },
+        {
+          "unit": "Sentinel",
+          "items": [
+            "Protector's Vow",
+            "Gargoyle Stoneplate",
+            "Warmog's Armor"
+          ]
+        }
+      ],
+      "priority": [
+        "Recurve Bow",
+        "Needlessly Large Rod",
+        "B.F. Sword"
+      ],
+      "early": [
+        "Play strongest board until Beast Within is offered",
+        "Use the granted Vi immediately"
+      ],
+      "flex": [
+        "The listed level-8 board is the core; keep upgrades and item holders flexible while rolling."
+      ],
+      "position": "Put durable melee units in the frontline. Keep Aphelios and other ranged carries in the backline, with Aphelios protected from direct access. Adjust sides to avoid enemy threats.",
+      "alt": "Do not treat this as a normal Lunar/Rapidfire line without Beast Within. If the augment is not offered, continue with your strongest standard board.",
+      "ar": {
+        "position": "حط الوحدات المتينة في الصف الأمامي. خلي Aphelios وباقي الكاريز البعيدة في الخلف، واحمِ Aphelios من الوصول المباشر. غيّر الجهة حسب تهديدات الخصم.",
+        "flex": "البورد المذكور هو أساس لفل 8؛ خليك مرن في الترقيات وحاملي الأيتمز أثناء الرول.",
+        "alt": "ما تلعبهاش كتشكيلة Lunar/Rapidfire عادية من غير Beast Within. لو الأوجمنت ما ظهرش، كمل بأقوى بورد عادي عندك."
+      },
+      "en": {
+        "position": "Put durable melee units in front. Keep Aphelios and other ranged carries in the back, protecting Aphelios from direct access. Adjust sides to avoid enemy threats.",
+        "flex": "The listed level-8 board is the core; stay flexible with upgrades and item holders while rolling.",
+        "alt": "Do not treat this as a normal Lunar/Rapidfire line without Beast Within. If it is not offered, continue with your strongest standard board."
+      },
+      "ja": {
+        "position": "耐久力のある近接ユニットを前衛に配置。Apheliosなどの遠隔キャリーは後衛に置き、Apheliosが直接狙われないよう守ります。敵に応じて左右を調整します。",
+        "flex": "記載のレベル8盤面が基本です。ロール中は強化状況やアイテム保持役に柔軟に対応します。",
+        "alt": "Beast Withinなしでは通常のLunar/Rapidfire構成として無理にプレイしないでください。提示されなければ最も強い通常盤面を続けます。"
+      }
+    }
   }
 ]
