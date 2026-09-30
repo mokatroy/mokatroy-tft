@@ -116,7 +116,8 @@
         "flex": "適切な前衛タンクを追加し、主力の3スター完成後は5コストを加えます。",
         "alt": "Hand of Justice、Rabadon's Deathcap、Jeweled Gauntletや、素材に応じた防御アイテムが代替候補です。"
       }
-    }
+    },
+    "requiredAugment": "Unrivaled"
   },
   {
     "name": "Ravager Elise",
@@ -358,7 +359,8 @@
         "flex": "Veigarの3スター完成後はレベルを上げ、Sprykin、Blackthorn、Brawlerを追加。",
         "alt": "DawncoreとLuden'sも有力。Flora Fatalisオーグメントが前提なので、提示される前に決め打ちしないでください。"
       }
-    }
+    },
+    "requiredAugment": "Flora Fatalis"
   },
   {
     "name": "Fae Tristana",
@@ -591,6 +593,7 @@
         "flex": "記載のレベル8盤面が基本です。ロール中は強化状況やアイテム保持役に柔軟に対応します。",
         "alt": "Beast Withinなしでは通常のLunar/Rapidfire構成として無理にプレイしないでください。提示されなければ最も強い通常盤面を続けます。"
       }
-    }
+    },
+    "requiredAugment": "Beast Within"
   }
 ]
