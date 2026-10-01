@@ -8,7 +8,7 @@ const boardPositions={
 'unrivaled-khazix':['p4','p3','p6','p8','p1','p2','p7','p5'],
 'ravager-elise':['p4','p3','p6','p8','p1','p2','p7','p5'],
 'veigar-consuming-flora':['p4','p3','p6','p8','p1','p2','p7','p5'],
-'fae-tristana':['p4','p3','p6','p8','p1','p2'],
+'fae-tristana':['p8','p4','p3','p6','p1','p2','p7'],
 'lunar-rapidfire':['p1','p2','p3','p4','p5','p6','p7','p8']};
 function champSrc(name){return'assets/champions/'+key(name)+'.png'}
 function itemSrc(name){return'assets/items/'+(itemAliases[key(name)]||key(name))+'.png'}
