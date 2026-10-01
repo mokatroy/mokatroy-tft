@@ -323,9 +323,17 @@
         {
           "unit": "Rek'Sai",
           "items": [
-            "Gargoyle Stoneplate",
             "Warmog's Armor",
-            "Spirit Visage"
+            "Gargoyle Stoneplate",
+            "Gargoyle Stoneplate"
+          ]
+        },
+        {
+          "unit": "Teemo",
+          "items": [
+            "Jeweled Gauntlet",
+            "Morellonomicon",
+            "Void Staff"
           ]
         }
       ],
@@ -360,7 +368,7 @@
         "alt": "DawncoreとLuden'sも有力。Flora Fatalisオーグメントが前提なので、提示される前に決め打ちしないでください。"
       }
     },
-    "requiredAugment": "Flora Fatalis"
+    "requiredAugment": "Consuming Flora"
   },
   {
     "name": "Fae Tristana",
@@ -422,9 +430,9 @@
       "board": [
         "Rammus",
         "Vi",
-        "Kobuko",
-        "Lillia",
         "Rakan",
+        "Lillia",
+        "Rengar",
         "Sivir",
         "Tristana"
       ],
@@ -442,7 +450,7 @@
           "items": [
             "Guinsoo's Rageblade",
             "Hextech Gunblade",
-            "Kraken's Fury"
+            "Giant Slayer"
           ]
         },
         {
@@ -451,6 +459,12 @@
             "Fae Emblem",
             "Last Whisper",
             "Red Buff"
+          ]
+        },
+        {
+          "unit": "Rengar",
+          "items": [
+            "Edge of Night"
           ]
         }
       ],
@@ -467,133 +481,159 @@
       "flex": [
         "Vi can tank if Rammus is missing. Flex Ashe, Kobuko, Rengar, or Xayah."
       ],
-      "position": "Place Rammus or Vi in the frontline and keep Tristana protected in the backline. Move Tristana away from enemy threats.",
+      "position": "Rammus anchors the frontline. Put Rengar on the side where he can access the enemy backline; keep Tristana and Sivir protected in the back.",
       "alt": "Only play with Fae Emblem. Prefer Execute Primal over Item Primal unless far ahead or win-streaking.",
       "ar": {
-        "position": "حط Rammus أو Vi في الفرونت لاين، وخلي Tristana محمية في الخلف. انقلها بعيدًا عن تهديدات الخصم.",
+        "position": "Rammus يكون أساس الفرونت. حط Rengar في الجهة اللي توصله للباك لاين، وخلي Tristana وSivir محميين في الخلف.",
         "flex": "Vi تقدر تكون التانك لو Rammus مش موجود. الخانات المرنة: Ashe أو Kobuko أو Rengar أو Xayah.",
         "alt": "العبها فقط مع Fae Emblem. اختار Execute Primal بدل Item Primal إلا لو متقدم جدًا أو عامل ون ستريك."
       },
       "en": {
-        "position": "Put Rammus or Vi on the frontline and protect Tristana in the backline. Move her away from enemy threats.",
+        "position": "Rammus anchors the frontline. Put Rengar on the side where he can access the enemy backline; keep Tristana and Sivir protected in the back.",
         "flex": "Vi can tank if Rammus is missing. Flex Ashe, Kobuko, Rengar, or Xayah.",
         "alt": "Only play with Fae Emblem. Prefer Execute Primal over Item Primal unless far ahead or win-streaking."
       },
       "ja": {
-        "position": "RammusまたはViを前衛に置き、Tristanaを後衛で守ります。敵の脅威から離して配置。",
+        "position": "Rammusを前衛の軸に。Rengarは敵後衛へ届く側、TristanaとSivirは後衛で守ります。",
         "flex": "RammusがいなければViをタンクに。Ashe、Kobuko、Rengar、Xayahをフレックス枠にできます。",
         "alt": "Faeの紋章が必須。大きく先行または連勝中でない限り、Item PrimalよりExecute Primalを優先。"
       }
-    }
+    },
+    "requiredAugment": "Fae Emblem"
   },
   {
-    "name": "Lunar Rapidfire",
-    "ar": "Lunar Rapidfire",
-    "ja": "ルナ・ラピッドファイア",
+    "name": "Lunarwood Kha'zix",
+    "ar": "Lunarwood Kha'zix",
+    "ja": "ルナウッド・カ＝ジックス",
     "style": {
-      "ar": "Fast 8 · مشروطة بأوجمنت",
-      "en": "Fast 8 · Augment-dependent",
-      "ja": "ファスト8 · オーグメント必須"
+      "ar": "ريرول 3 كوست · متوسط",
+      "en": "3-Cost Reroll · Medium",
+      "ja": "3コストリロール · 中級"
     },
     "augments": [
-      "Beast Within"
+      "Champ Delivery",
+      "Pandora's Bench",
+      "Flowing Tears",
+      "Advanced Loan+",
+      "Heroic Grab Bag++",
+      "Legion of Threes",
+      "Lucky Gloves+",
+      "Prismatic Ticket"
     ],
     "note": {
-      "ar": "لا تلعب التشكيلة إلا بعد ظهور أوجمنت Beast Within؛ فهو يغيّر مكافأة Primal ويمنحك Vi فورًا وNidalee بعد 3 جولات. ركّز على الوصول إلى لفل 8 وبناء خط أمامي يحمي Aphelios وSentinel.",
-      "en": "Only commit after you are offered Beast Within. It changes the Primal blessing and grants Vi immediately, then Nidalee after 3 rounds. Aim for level 8 and protect Aphelios and Sentinel with a durable frontline.",
-      "ja": "Beast Withinが提示された場合のみプレイします。Primalの祝福が変化し、Viを即時獲得、3ラウンド後にNidaleeを獲得します。レベル8を目指し、ApheliosとSentinelを前衛で守ります。"
+      "ar": "العبها مع Kha'Zix مبكر وأيتمز مناسبة.",
+      "en": "Play with an early Kha'Zix and suitable items.",
+      "ja": "早期Kha'Zixと適切なアイテムが条件です。"
     },
     "title": {
-      "ar": "Lunar Rapidfire",
-      "en": "Lunar Rapidfire",
-      "ja": "ルナ・ラピッドファイア"
+      "ar": "Lunarwood Kha'zix",
+      "en": "Lunarwood Kha'zix",
+      "ja": "ルナウッド・カ＝ジックス"
     },
-    "slug": "lunar-rapidfire",
+    "slug": "lunarwood-khazix",
     "stages": [
       {
         "stage": 2,
         "text": {
-          "ar": "استخدم أقوى بورد متاح ولا تجبر التشكيلة قبل ظهور Beast Within. احتفظ بوحدات Primal وRapidfire المناسبة، وحاول بناء اقتصاد جيد.",
-          "en": "Play your strongest available board and do not force the comp before Beast Within appears. Hold useful Primal and Rapidfire units while building economy.",
-          "ja": "Beast Withinが出るまでは最も強い盤面を使い、無理に構成を決めません。PrimalとRapidfireのユニットを確保しつつ経済を整えます。"
+          "ar": "العبها فقط مع Kha'Zix مبكر ومعه أيتمز.",
+          "en": "Only play with an early Kha'Zix and items.",
+          "ja": "早期Kha'Zixとアイテムがある場合のみ。"
         }
       },
       {
         "stage": 3,
         "text": {
-          "ar": "بعد اختيار Beast Within، استخدم Vi التي تحصل عليها فورًا وأكمل وحداتك تدريجيًا. جهّز مكونات الأيتمز لـAphelios والتانك.",
-          "en": "After taking Beast Within, use the granted Vi immediately and build toward the full board. Prepare components for Aphelios and your tank.",
-          "ja": "Beast Withinを取ったら、獲得したViをすぐに使い、盤面を整えます。Apheliosとタンク用の素材を準備します。"
+          "ar": "لو عندك أزواج مهمة على 6 رول بسيط، وإلا اصعد 7.",
+          "en": "If you have key pairs at 6, roll a little; otherwise econ toward 7.",
+          "ja": "6で重要なペアがあれば少しロール、なければ7へ。"
         }
       },
       {
         "stage": 4,
         "text": {
-          "ar": "ارفع لفل 8 واعمل رول داون للوصول إلى Aphelios وSentinel وباقي الوحدات الأساسية. وزّع الأيتمز حسب ما وصلت له، ولا تضحّي بقوة البورد لمجرد انتظار قطعة واحدة.",
-          "en": "Level to 8 and roll down for Aphelios, Sentinel, and the rest of the core. Slam items based on what you hit rather than weakening the board while waiting for one unit.",
-          "ja": "レベル8でロールし、Aphelios、Sentinelと主力を揃えます。特定のユニットを待って盤面を弱くせず、揃った状況に応じてアイテムを装備します。"
+          "ar": "على 7 Slow Roll للـ3 نجوم في Kha'Zix وHecarim وDiana.",
+          "en": "At 7, slow roll for Kha'Zix, Hecarim and Diana 3.",
+          "ja": "7でKha'Zix、Hecarim、Dianaの3スターを狙います。"
         }
       }
     ],
     "guide": {
       "board": [
-        "Amumu",
-        "Aphelios",
-        "Nidalee",
-        "Sentinel",
         "Diana",
-        "Kog'Maw",
-        "Vi",
-        "Varus"
+        "Hecarim",
+        "Kha'Zix",
+        "Ezreal",
+        "Alune",
+        "Soraka",
+        "Fiddlesticks",
+        "Ornn"
       ],
       "items": [
         {
-          "unit": "Aphelios",
+          "unit": "Kha'Zix",
           "items": [
-            "Guinsoo's Rageblade",
-            "Kraken's Fury",
-            "Infinity Edge"
+            "Hand of Justice",
+            "Hand of Justice",
+            "Rabadon's Deathcap"
           ]
         },
         {
-          "unit": "Sentinel",
+          "unit": "Hecarim",
           "items": [
-            "Protector's Vow",
+            "Warmog's Armor",
             "Gargoyle Stoneplate",
-            "Warmog's Armor"
+            "Spirit Visage"
+          ]
+        },
+        {
+          "unit": "Diana",
+          "items": [
+            "Jeweled Gauntlet",
+            "Hand of Justice",
+            "Ionic Spark"
+          ]
+        },
+        {
+          "unit": "Ezreal",
+          "items": [
+            "Red Buff",
+            "Spear of Shojin",
+            "Deathblade"
           ]
         }
       ],
       "priority": [
-        "Recurve Bow",
-        "Needlessly Large Rod",
-        "B.F. Sword"
+        "Hand of Justice",
+        "Jeweled Gauntlet",
+        "Gargoyle Stoneplate",
+        "Warmog's Armor"
       ],
       "early": [
-        "Play strongest board until Beast Within is offered",
-        "Use the granted Vi immediately"
+        "Kha'Zix",
+        "Ornn",
+        "Alistar",
+        "LeBlanc"
       ],
       "flex": [
-        "The listed level-8 board is the core; keep upgrades and item holders flexible while rolling."
+        "Before Alune, use a third Executioner such as Lux or Ivern."
       ],
-      "position": "Put durable melee units in the frontline. Keep Aphelios and other ranged carries in the backline, with Aphelios protected from direct access. Adjust sides to avoid enemy threats.",
-      "alt": "Do not treat this as a normal Lunar/Rapidfire line without Beast Within. If the augment is not offered, continue with your strongest standard board.",
+      "position": "Kha'Zix and Hecarim take the front/side access lanes; keep Ezreal, Alune and Soraka in the back.",
+      "alt": "Double Hand of Justice is a strong Kha'Zix setup; Deathcap or Jeweled Gauntlet can replace one.",
       "ar": {
-        "position": "حط الوحدات المتينة في الصف الأمامي. خلي Aphelios وباقي الكاريز البعيدة في الخلف، واحمِ Aphelios من الوصول المباشر. غيّر الجهة حسب تهديدات الخصم.",
-        "flex": "البورد المذكور هو أساس لفل 8؛ خليك مرن في الترقيات وحاملي الأيتمز أثناء الرول.",
-        "alt": "ما تلعبهاش كتشكيلة Lunar/Rapidfire عادية من غير Beast Within. لو الأوجمنت ما ظهرش، كمل بأقوى بورد عادي عندك."
+        "position": "Kha'Zix وHecarim في الأمام/الجنب، وخلي Ezreal وAlune وSoraka في الخلف.",
+        "flex": "قبل Alune استخدم Executioner ثالث مثل Lux أو Ivern.",
+        "alt": "Double Hand of Justice قوي على Kha'Zix، ويمكن استبدال واحدة بـDeathcap أو JG."
       },
       "en": {
-        "position": "Put durable melee units in front. Keep Aphelios and other ranged carries in the back, protecting Aphelios from direct access. Adjust sides to avoid enemy threats.",
-        "flex": "The listed level-8 board is the core; stay flexible with upgrades and item holders while rolling.",
-        "alt": "Do not treat this as a normal Lunar/Rapidfire line without Beast Within. If it is not offered, continue with your strongest standard board."
+        "position": "Kha'Zix and Hecarim take the front/side access lanes; keep Ezreal, Alune and Soraka in the back.",
+        "flex": "Before Alune, use a third Executioner such as Lux or Ivern.",
+        "alt": "Double Hand of Justice is a strong Kha'Zix setup; Deathcap or Jeweled Gauntlet can replace one."
       },
       "ja": {
-        "position": "耐久力のある近接ユニットを前衛に配置。Apheliosなどの遠隔キャリーは後衛に置き、Apheliosが直接狙われないよう守ります。敵に応じて左右を調整します。",
-        "flex": "記載のレベル8盤面が基本です。ロール中は強化状況やアイテム保持役に柔軟に対応します。",
-        "alt": "Beast Withinなしでは通常のLunar/Rapidfire構成として無理にプレイしないでください。提示されなければ最も強い通常盤面を続けます。"
+        "position": "Kha'ZixとHecarimは前方/サイド、Ezreal、Alune、Sorakaは後衛へ。",
+        "flex": "Alune前はLuxやIvernなど3体目のExecutionerを使用可能。",
+        "alt": "HoJ 2枚は有力。素材に応じてDeathcapやJeweled Gauntletへ。"
       }
-    },
-    "requiredAugment": "Beast Within"
+    }
   }
 ]
