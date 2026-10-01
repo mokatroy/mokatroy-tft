@@ -5,11 +5,14 @@ const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&g
 const key=s=>String(s||'').toLowerCase().replace(/[^a-z0-9]/g,'');
 const itemAliases={'krakensfury':'krakenslayer','faeemblem':'spatula','ravageremblem':'spatula','florafatalisemblem':'spatula'};
 const boardPositions={
-'unrivaled-khazix':['p4','p3','p6','p8','p1','p2','p7','p5'],
+'unrivaled-khazix':['p4','p3','p6','p8','p1','p2','p7','p5','p9'],
 'ravager-elise':['p4','p3','p6','p8','p1','p2','p7','p5'],
 'veigar-consuming-flora':['p4','p3','p6','p8','p1','p2','p7','p5'],
-'fae-tristana':['p8','p4','p3','p6','p1','p2','p7'],
-'lunar-rapidfire':['p1','p2','p3','p4','p5','p6','p7','p8']};
+'fae-tristana':['p4','p8','p3','p6','p2','p1','p7'],
+'lunarwood-khazix':['p3','p4','p8','p1','p2','p6','p5','p7'],
+'azir-rammus':['p4','p3','p8','p6','p1','p2','p7'],
+'aphelios-rapidfire':['p4','p8','p3','p1','p2','p6','p5','p7'],
+'emblem-rengar':['p4','p8','p3','p6','p1','p2','p7']};
 function champSrc(name){return'assets/champions/'+key(name)+'.png'}
 function itemSrc(name){return'assets/items/'+(itemAliases[key(name)]||key(name))+'.png'}
 function img(src,alt,cls=''){return'<img class="'+cls+'" src="'+src+'" alt="'+esc(alt)+'" loading="lazy" onerror="this.style.display=\'none\'">'}
